@@ -67,6 +67,10 @@ IF SOMETHING BAD HAPPENS ONLINE:
 🚫 DON'T pay   🚫 DON'T reply   🚫 DON'T delete (screenshot = evidence)
 ✅ TELL a trusted adult + report: Cybertip.ca
 My code phrase to start the talk: ______________________
+<<<<<<< HEAD
+=======
+“Behind every filter is a regular person.” — Bloom
+>>>>>>> 723954f (first commit)
 ```
 **BACK:**
 ```

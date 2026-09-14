@@ -5,6 +5,10 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 ---
 
 ## Session 1: "The Phishing Playground" — Social Engineering in Games & Apps (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Cipher leads; Ghost and Patch make guest appearances.
+>>>>>>> 723954f (first commit)
 **Objective:** Identify social-engineering phishing in games and apps.
 
 | Time | Activity |
@@ -18,6 +22,10 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 **Materials:** scenario card sets (Handout C1), station signs.
 
 ## Session 2: "Lock It Down" — Account Fortification & MFA (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Patch leads; Cipher.
+>>>>>>> 723954f (first commit)
 **Objective:** Enable and understand MFA on their own accounts.
 
 | Time | Activity |
@@ -31,6 +39,10 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 **Materials:** lab machines or screenshot pack (Handout C2), checklist worksheet, IT-approved demo accounts.
 
 ## Session 3: "The Clone Game" — Voice Cloning & AI Audio (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Echo leads; Static (safe-word setup).
+>>>>>>> 723954f (first commit)
 **Objective:** Recognize voice cloning; verify before acting on any audio request.
 
 | Time | Activity |
@@ -44,6 +56,10 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 **Materials:** audio clips (labelled), voting paddles.
 
 ## Session 4: "Spot the Fake" — Visual Deepfakes & AI Images (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Lens leads; Ghost.
+>>>>>>> 723954f (first commit)
 **Objective:** Spot visual deepfakes using at least 3 tells; verify before sharing.
 
 | Time | Activity |
@@ -57,6 +73,10 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 **Materials:** labelled image set (Handout C3), evidence report sheets, optional detection tool access.
 
 ## Session 5: "Sextortion Basics" — Stranger Danger in Gaming Chats 🛑 (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Vault leads; Static, Cipher (procedure only).
+>>>>>>> 723954f (first commit)
 **Objective:** Understand what sextortion is; know it is never the victim's fault. *(Counsellor present.)*
 
 | Time | Activity |
@@ -69,6 +89,10 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 **Materials:** vignette printout, question slips, counsellor present.
 
 ## Session 6: "The 3 Do Nots" — Sextortion Protocols 🛑 (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Vault leads; Static.
+>>>>>>> 723954f (first commit)
 **Objective:** Apply DON'T pay / DON'T reply / DON'T delete + tell a trusted adult. *(Counsellor present.)*
 
 | Time | Activity |
@@ -81,6 +105,10 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 **Materials:** station scripts (Handout C4), protocol poster.
 
 ## Session 7: "Quickie Cards" — Discreet Resource Handouts (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Static leads; all crew one tip each.
+>>>>>>> 723954f (first commit)
 **Objective:** Every student leaves with a pocket-sized resource card and a working family safe word.
 
 | Time | Activity |
@@ -88,11 +116,19 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 | 10 min | Why discretion matters: sometimes you can't say "I need help" out loud in front of your brother. Teach the **code phrases**: "Can we get pizza?" / "I need my charger" = *I need to talk to you privately about something online.* Families practise this week (Home Mission 7). |
 | 15 min | Build the **Quickie Card** (Handout C5): front = the 3 Do Nots + code phrase; back = my 3 trusted adults, family safe word, Cybertip.ca / NeedHelpNow.ca / Take It Down. Laminate or write on card stock; it fits in a pocket or wallet. |
 | 10 min | Walk through each resource out loud: what it's for, that it's confidential, that calling/reporting is NOT getting in trouble. |
+<<<<<<< HEAD
+=======
+| 5 min | **The Real Thing** (Bloom's beat returns): in pairs, students share one unfiltered true thing from their week — the highlight reel isn't you. Static closes the loop: *kindness online is self-defense too — mean words travel as fast as kind ones, and the quiet channel works for someone else's problem, not just your own.* |
+>>>>>>> 723954f (first commit)
 | 5 min | Exit ticket: *My code phrase is ______ and my first trusted adult is ______.* (collected privately by teacher — check nobody wrote "no one") |
 
 **Materials:** Quickie Card stock, markers, resource sheet.
 
 ## Session 8: "Sextortion Case Studies" — Real-World Examples 🛑 (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Vault + Cipher lead; Lens/Echo per case.
+>>>>>>> 723954f (first commit)
 **Objective:** Analyze real syndicate operations and identify manipulation steps. *(Counsellor present.)*
 
 | Time | Activity |
@@ -105,6 +141,10 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 **Materials:** 3 case packets (Handout C6), timeline templates.
 
 ## Session 9: "Full Spectrum Drill" — Using All Skills (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Cipher leads (IC); all crew score domains.
+>>>>>>> 723954f (first commit)
 **Objective:** Respond correctly to 5 mixed scenarios under time pressure.
 
 | Time | Activity |
@@ -116,13 +156,22 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 **Materials:** drill packet (Handout C7), timers.
 
 ## Session 10: "Review & Certification" — Digital Self-Defense Graduation 🎉 (45 min)
+<<<<<<< HEAD
+=======
+**In this session:** Cipher leads; Static sign-off.
+>>>>>>> 723954f (first commit)
 **Objective:** Demonstrate mastery; celebrate with families invited.
 
 | Time | Activity |
 |------|----------|
 | 15 min | **Gymkhana review:** 6 stations (scam sort, MFA checklist quiz, clone-or-real audio, deepfake tells, 3 Do Nots rapid-fire, drill mini-scenario). Teams rotate. |
+<<<<<<< HEAD
 | 10 min | Personal reflection (written): *One skill I'll use this month: ______. One adult I can tell anything to: ______.* Collected privately. |
 | 20 min | **Graduation:** certificates ("Certified Digital Self-Defender"), Quickie Cards officially issued, family guests welcome. Send Home Mission 10 + the family safe-word confirmation sheet home. |
+=======
+| 10 min | Personal reflection (written): *One skill I'll use this month: ______. One adult I can tell anything to: ______. One real (unfiltered) thing I'm proud of how I handled online: ______.* Collected privately. |
+| 20 min | **Graduation:** certificates ("Certified Digital Self-Defender"), Quickie Cards officially issued, family guests welcome. Ends with the class **highlight reel**: each team reads one kind, true thing they witnessed in class this year (permission first if it names someone) — the term closes on The Real Thing, not the highlight reel. Send Home Mission 10 + the family safe-word confirmation sheet home. |
+>>>>>>> 723954f (first commit)
 
 **Materials:** station setups, certificates, reflection slips.
 

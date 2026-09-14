@@ -5,6 +5,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 ---
 
 ## Session 1: "The Password Audit" — Credential Stuffing & Reuse (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Patch leads; Ghost, Cipher.
+>>>>>>> 723954f (first commit)
 **Objective:** Explain credential stuffing; complete a personal password-hygiene audit.
 
 | Time | Activity |
@@ -18,6 +22,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** audit worksheet (D1), breach flowchart, optional breach-checker access.
 
 ## Session 2: "MFA Mastery" — App-Based Authentication & Backups (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Patch leads; Cipher.
+>>>>>>> 723954f (first commit)
 **Objective:** Implement authenticator-app MFA; build a recovery plan.
 
 | Time | Activity |
@@ -31,6 +39,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** lab accounts/devices, authenticator app pre-approved by IT, checklist D2.
 
 ## Session 3: "The Clone Wars" — Voice Cloning (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Echo leads; Static (safe word, multi-generational).
+>>>>>>> 723954f (first commit)
 **Objective:** Explain how voice cloning works; apply the family verification protocol at adult level.
 
 | Time | Activity |
@@ -44,6 +56,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** labelled clips, protocol template (D3), drill script.
 
 ## Session 4: "Deepfake Detection Lab" — Visual Forensics (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Lens leads; Ghost.
+>>>>>>> 723954f (first commit)
 **Objective:** Dismantle deepfakes using ≥4 technical tells and free tools.
 
 | Time | Activity |
@@ -57,6 +73,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** labelled sample set, tool accounts/devices, evidence brief template (D4).
 
 ## Session 5: "Audio Forensics" — Cloned Voice & Lip-Sync Errors (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Echo leads; Lens.
+>>>>>>> 723954f (first commit)
 **Objective:** Detect synthetic audio and lip-sync failures using waveform/visual analysis.
 
 | Time | Activity |
@@ -70,6 +90,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** labelled clip set, waveform tool access, role cards.
 
 ## Session 6: "Sextortion Syndicates" — The Business Behind the Scam 🛑 (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Vault + Clause lead; Ledger (payment rails), Static.
+>>>>>>> 723954f (first commit)
 **Objective:** Analyze sextortion as an organized business model; identify Canadian law that applies. *(Counsellor present.)*
 
 | Time | Activity |
@@ -82,6 +106,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** business-model diagram (D5), law summary sheet (D6), slips.
 
 ## Session 7: "The 3 Do Nots Deep Dive" — Protocols in Action 🛑 (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Vault + Clause lead; Static (reporting map).
+>>>>>>> 723954f (first commit)
 **Objective:** Execute the full victim protocol including evidence preservation and reporting decisions. *(Counsellor present.)*
 
 | Time | Activity |
@@ -94,6 +122,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** gauntlet scenario files (D7), decision tree poster, audit rubric.
 
 ## Session 8: "Crypto Scam Basics" — Rug Pulls, Airdrops & Pump-and-Dump (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Ledger leads; Cipher, Patch guests.
+>>>>>>> 723954f (first commit)
 **Objective:** Apply a red-flag framework to crypto/finance scams. *(Defensive education only — no platforms, no wallets, no token promotion.)*
 
 | Time | Activity |
@@ -107,6 +139,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** case printouts, framework card D8, voting slips.
 
 ## Session 9: "Social Media Algorithms" — Echo Chambers & Engagement Bait (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Signal leads; Ghost (paid amplification).
+>>>>>>> 723954f (first commit)
 **Objective:** Explain algorithmic manipulation; audit and deliberately reshape one personal feed.
 
 | Time | Activity |
@@ -120,6 +156,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** audit worksheet (D9), sample feeds for no-device version.
 
 ## Session 10: "The Wild West Simulation" — Multi-Platform Scenario (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Cipher leads (IC); all specialists score domains, Signal runs the feed.
+>>>>>>> 723954f (first commit)
 **Objective:** Execute integrated incident response across simultaneous threats.
 
 | Time | Activity |
@@ -131,6 +171,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** simulation packet (D10), role cards, decision log sheets, timers.
 
 ## Session 11: "Guest Speaker Panel" — Real-World Cyber Experts (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Clause briefs panel; Static moderates.
+>>>>>>> 723954f (first commit)
 **Objective:** Hear directly from practitioners; connect curriculum to real careers and cases.
 
 | Time | Activity |
@@ -143,6 +187,10 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 **Materials:** question slips pre-collected, bios printed, A/V check.
 
 ## Session 12: "Review & Certification" — Digital Self-Defense Champion Graduation 🎉 (50 min)
+<<<<<<< HEAD
+=======
+**In this session:** Cipher leads; Static sign-off, full cast on stage.
+>>>>>>> 723954f (first commit)
 **Objective:** Demonstrate mastery; certify; transition to ambassador role.
 
 | Time | Activity |

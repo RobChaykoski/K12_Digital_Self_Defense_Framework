@@ -2,11 +2,20 @@
 
 Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists timed activities, materials, and a Home Mission link.
 
+<<<<<<< HEAD
+=======
+**Cast:** Every session opens/closes with Captain Shield and ends with Ranger Ray's 30-second sign-off.
+
+>>>>>>> 723954f (first commit)
 ---
 
 # TRACK A: LITTLE GUARDIANS (K–2) — 6 × 30 min
 
 ## Session 1: "Who Am I Talking To?" — Stranger Danger Online
+<<<<<<< HEAD
+=======
+**In this session:** Captain Shield leads; Trickster Bot makes his first appearance.
+>>>>>>> 723954f (first commit)
 **Objective:** Students can explain that people online may not be who they say they are.
 
 | Time | Activity |
@@ -19,6 +28,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** mask prop, green/red card set per student, story printouts, rule poster.
 
 ## Session 2: "The Password Lock" — Keys to Your Door
+<<<<<<< HEAD
+=======
+**In this session:** Locky the Fox leads.
+>>>>>>> 723954f (first commit)
 **Objective:** Students can say their password only to a trusted adult.
 
 | Time | Activity |
@@ -31,6 +44,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** paper padlock template, crayons, role-play script cards.
 
 ## Session 3: "Clicking Safely" — Green vs. Red Buttons
+<<<<<<< HEAD
+=======
+**In this session:** Captain Shield leads; Trickster Bot.
+>>>>>>> 723954f (first commit)
 **Objective:** Students can distinguish safe from risky online actions when prompted.
 
 | Time | Activity |
@@ -43,6 +60,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** large button cards with pictures, green/red floor markers, stickers.
 
 ## Session 4: "Screen Time Boundaries" — Healthy Tech Habits
+<<<<<<< HEAD
+=======
+**In this session:** Captain Shield leads (boundaries set with a trusted adult).
+>>>>>>> 723954f (first commit)
 **Objective:** Students accept screen-time boundaries as fair family rules.
 
 | Time | Activity |
@@ -55,6 +76,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** "My Day" wheel template, coloured pencils.
 
 ## Session 5: "Digital Footprints" — What Stays Forever?
+<<<<<<< HEAD
+=======
+**In this session:** Footprints the Panda leads.
+>>>>>>> 723954f (first commit)
 **Objective:** Students understand that things posted online can stay forever.
 
 | Time | Activity |
@@ -67,6 +92,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** washable paint, paper strips, sorting picture cards, stamps.
 
 ## Session 6: "Review & Celebration" — Digital Safety Superheroes 🎉
+<<<<<<< HEAD
+=======
+**In this session:** Captain Shield + full squad.
+>>>>>>> 723954f (first commit)
 **Objective:** Review all five rules; celebrate with families invited.
 
 | Time | Activity |
@@ -82,6 +111,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 # TRACK B: DIGITAL DETECTIVES (3–5) — 8 × 40 min
 
 ## Session 1: "The Real vs. Fake Email" — Phishing Basics
+<<<<<<< HEAD
+=======
+**In this session:** Detective Dot leads.
+>>>>>>> 723954f (first commit)
 **Objective:** Identify at least 3 warning signs of a fake email/message.
 
 | Time | Activity |
@@ -94,6 +127,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** worksheet (Handout B1), projector, stamps.
 
 ## Session 2: "The Highlight Reel" — Social Media Traps
+<<<<<<< HEAD
+=======
+**In this session:** Bloom leads; Footprints joins in ("mean words travel fast").
+>>>>>>> 723954f (first commit)
 **Objective:** Explain why social media shows a highlight reel that isn't real life.
 
 | Time | Activity |
@@ -106,6 +143,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** card set (Handout B2), images, discussion prompts.
 
 ## Session 3: "Password Power" — Building Stronger Locks
+<<<<<<< HEAD
+=======
+**In this session:** Locky the Fox leads (guest from Track A).
+>>>>>>> 723954f (first commit)
 **Objective:** Build and store a strong passphrase; never reuse it.
 
 | Time | Activity |
@@ -118,6 +159,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** box templates, word cards (Handout B3), crack-time chart.
 
 ## Session 4: "What is AI?" — Computers Making Things
+<<<<<<< HEAD
+=======
+**In this session:** Pixel the AI Scanner leads.
+>>>>>>> 723954f (first commit)
 **Objective:** Describe in simple terms what AI is and how it can make fake images, voices, and text.
 
 | Time | Activity |
@@ -130,6 +175,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** labelled examples (Handout B4), audio clips optional, sort sheets.
 
 ## Session 5: "Too Good to Be True" — Spotting Online Scams
+<<<<<<< HEAD
+=======
+**In this session:** Detective Dot leads; Trickster Bot.
+>>>>>>> 723954f (first commit)
 **Objective:** Recognize common bait: free games, prizes, coins, followers.
 
 | Time | Activity |
@@ -142,6 +191,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** envelope kits (Handout B5), warning-label stickers.
 
 ## Session 6: "Link Lab" — Practicing Safe Clicking
+<<<<<<< HEAD
+=======
+**In this session:** Captain Shield + Detective Dot (ask-before-you-click).
+>>>>>>> 723954f (first commit)
 **Objective:** Practise link-hovering and ask-before-you-click habits.
 
 | Time | Activity |
@@ -154,6 +207,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** lab setup or link-card worksheet (Handout B6), projector.
 
 ## Session 7: "Phishing Scavenger Hunt" — Real-World Practice
+<<<<<<< HEAD
+=======
+**In this session:** Detective Dot as case-file narrator.
+>>>>>>> 723954f (first commit)
 **Objective:** Apply all skills to find hidden scam messages in a simulated environment.
 
 | Time | Activity |
@@ -165,6 +222,10 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 **Materials:** 10 hidden cards (Handout B7), team log sheets.
 
 ## Session 8: "Review & Certification" — Digital Detective Graduation 🎉
+<<<<<<< HEAD
+=======
+**In this session:** Captain Shield + full squad.
+>>>>>>> 723954f (first commit)
 **Objective:** Demonstrate mastery across all six skills; celebrate with families.
 
 | Time | Activity |
