@@ -204,5 +204,24 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 
 ---
 
+## 🚩 CTF Integration & Worksheets
+*Capture The Flag scenarios mapped to the Cheat Sheet (uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/)*
+
+| Session | CTF Scenario | Cheat Sheet Category | Worksheet Reference |
+|---------|--------------|---------------------|-------------------|
+| S1 | The School Server | System (Boot2Root) | `07_CTF_Worksheets.md#school-server` |
+| S2 | MFA Mayhem | Web Hacking (Auth) | `07_CTF_Worksheets.md#mfa-mayhem` |
+| S4 | Deepfake Detectives | Forensics (EXIF/Hash) | `07_CTF_Worksheets.md#deepfake-detectives` |
+| S8 | Crypto Rush & Rug Pulls | Crypto (Smart Contracts) | `07_CTF_Worksheets.md#crypto-scam-autopsy` |
+| S10 | Privilege Climb | PrivEsc (Linux Permissions) | `07_CTF_Worksheets.md#priv-escalation` |
+
+**Implementation Notes:**
+- Flags follow the format `flag{answer}`.
+- QR codes link to a local verification server or GitHub Pages.
+- Real VMs (TryHackMe/Docker) and cheat sheet one-liners (`nmap`, `strings`) are used for 9-12.
+- Full worksheet templates are in `07_CTF_Worksheets.md`.
+
+---
+
 ## Appendix: Simulation Scenario Packet (Session 10)
 Each wave card: **TIMESTAMP** • **INCOMING ITEM** (message/clip/link description) • **TEAM LOG** (decision, rationale, reporting target). Teacher script includes the complication injections and the ground-truth reveal for each wave (e.g., Wave 3 video = deepfake of a teacher; Wave 5 recovery agent = second-layer scam — correct play is to ignore AND report it). Full answer key in the Assessments file.

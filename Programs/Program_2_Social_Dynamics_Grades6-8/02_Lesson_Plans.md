@@ -177,5 +177,24 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 
 ---
 
+## 🚩 CTF Integration & Worksheets
+*Capture The Flag scenarios mapped to the Cheat Sheet (uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/)*
+
+| Session | CTF Scenario | Cheat Sheet Category | Worksheet Reference |
+|---------|--------------|---------------------|-------------------|
+| S1 | Discord Drop | Web Hacking (URL Inspection) | `07_CTF_Worksheets.md#discord-drop` |
+| S3 | Voice of the Family | Crypto (Audio/Cipher) | `07_CTF_Worksheets.md#voice-family` |
+| S4 | Wi-Fi Whisperer | Forensics (Packet Sniffing) | `07_CTF_Worksheets.md#wifi-whisperer` |
+| S6 | Sextortion Station | File Hacking (Logic) | `07_CTF_Worksheets.md#sextortion-station` |
+| S9 | The Encrypted DM | Crypto (Caesar/Base64) | `07_CTF_Worksheets.md#encrypted-dm` |
+
+**Implementation Notes:**
+- Flags follow the format `flag{answer}`.
+- QR codes link to a local verification server or GitHub Pages.
+- Physical props (protocol cards, drill packets) serve as primary interfaces for 6-8.
+- Full worksheet templates are in `07_CTF_Worksheets.md`.
+
+---
+
 ## Appendix: Sample Scenario Drill Packet (scenarios above)
 Each card: **SITUATION** (3–4 lines) → **YOUR MOVE** (write the protocol steps) → **WHO YOU TELL** → **WHERE YOU REPORT**. Teacher answer key in the Assessments file.

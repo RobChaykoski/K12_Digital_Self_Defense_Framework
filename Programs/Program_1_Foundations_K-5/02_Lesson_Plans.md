@@ -248,3 +248,22 @@ Each envelope contains one prop message + a "trick checklist" sheet:
 3. **Your Account is Deleted** — fear + fake login link
 4. **A Friend's New Number** — looks friendly, but the "friend" you've never met online asks for a photo
 Trick checklist: ☐ rush me ☐ scare me ☐ ask for info ☐ ask me to click ☐ too good to be true
+
+---
+
+## 🚩 CTF Integration & Worksheets
+*Capture The Flag scenarios mapped to the Cheat Sheet (uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/)*
+
+| Session | CTF Scenario | Cheat Sheet Category | Worksheet Reference |
+|---------|--------------|---------------------|-------------------|
+| S1 | The Phishing Post Office | Web Hacking (Source Code) | `07_CTF_Worksheets.md#phishing-post-office` |
+| S2 | The Password Lockbox | File Hacking (Basics) | `07_CTF_Worksheets.md#password-lockbox` |
+| S3 | Red Light, Green Light Links | Web Hacking (Visual) | `07_CTF_Worksheets.md#link-lab-sorting` |
+| S4 | AI Art Detective | Forensics (Visual) | `07_CTF_Worksheets.md#ai-art-detective` |
+| S5 | The Digital Footprint Trail | File Hacking (Steganography) | `07_CTF_Worksheets.md#digital-footprint-trail` |
+
+**Implementation Notes:**
+- Flags follow the format `flag{answer}`.
+- QR codes link to a local verification server or GitHub Pages.
+- Physical props (padlocks, button cards) serve as primary interfaces for K-2.
+- Full worksheet templates are in `07_CTF_Worksheets.md`.
