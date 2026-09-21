@@ -61,6 +61,13 @@ This guide provides step-by-step instructions for deploying the curriculum in sc
 | **Phase 3: Full Deployment** | Weeks 7–10 | Integrate Program 3 (9–12), launch inter-school CTF competition |
 | **Phase 4: Review & Iterate** | Ongoing | Compile teacher feedback, update worksheets, publish v2.0 |
 
+### ECNO Alignment Verification Checklist
+- [ ] All sessions map to at least one ECNO category (Cyber Safety Basics, Digital Wellness, AI, Social Media/Gaming)
+- [ ] Ontario-specific resources referenced: Cybertip.ca, NeedHelpNow.ca, Take It Down, Kids Help Phone
+- [ ] French-language resources available for bilingual schools (Mois de la Cybersensibilisation)
+- [ ] October Cyber Awareness Month campaign dates synced with framework rollout
+- [ ] ECNO "Cyber Heroes Unite" activity packs integrated into K–5 sessions
+
 ### Rollout Checklist
 - [ ] Print QR codes and attach to physical worksheets
 - [ ] Distribute `Programs/*/04_Parent_Toolkit.md` via parent portal

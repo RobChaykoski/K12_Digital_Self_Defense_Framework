@@ -83,3 +83,22 @@ The breach simulation flowchart leads to a simulated VM login. Root access revea
 
 **🏆 CTF Challenge:**  
 Escalating privileges reveals the admin flag: `flag{priv_escalated_success}`.
+
+---
+
+## Algorithmic Mood Audit (Session 6 — Digital Wellness Extension)
+**Mapped CTF:** *The Algorithmic Mood Audit* | **Category:** Digital Wellness (Mental Health & Social Comparison)
+
+**Student Name:** ____________________  
+**Date:** ______________  
+
+**Instructions:** ECNO's Digital Wellness pillar warns about algorithmic mood effects. Track your feed for 15 minutes:
+- Note 3 posts that made you feel **inferior**
+- Note 3 posts that made you feel **inspired**
+- Identify the **engagement bait** pattern
+
+| Post Type | Mood Impact | Engagement Bait? |
+|-----------|-------------|------------------|
+| Influencer outfit | 😟 Inferior | Yes (likes/comments) |
+| Friend graduation | 😊 Inspired | No |
+| "}]

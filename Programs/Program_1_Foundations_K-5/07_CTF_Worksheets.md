@@ -47,6 +47,8 @@ The teacher scans the QR code on the back of your lock. The correct PIN unlocks 
 **🏆 CTF Challenge:**  
 The correct AI image file contains metadata. Right-click → Properties → Details. The flag is in the "Software" field: `flag{ai_detected}`.
 
+> 💡 *ECNO Alignment:* Addresses the **Artificial Intelligence** pillar by teaching visual deepfake detection (hands, eyes, hair edges) — a gap noted in ECNO's current offerings for elementary grades.
+
 ---
 
 ## Digital Footprint Trail (Session 5)
@@ -56,6 +58,30 @@ The correct AI image file contains metadata. Right-click → Properties → Deta
 
 **🏆 CTF Challenge:**  
 Scanning the final QR code reveals `flag{my_footprints_stay}`.
+
+---
+
+## Social Media Mood Tracker (Session 6 — Digital Wellness Extension)
+**Mapped CTF:** *The Social Media Mood Tracker* | **Category:** Digital Wellness (Journaling)
+
+**Student Name:** ____________________  
+**Date:** ______________  
+
+**Instructions:** ECNO's Digital Wellness pillar teaches us that screen time affects our mood. Track how different apps make you feel:
+- 😊 Happy / Calm
+- 😐 Neutral / Bored
+- 😟 Anxious / Frustrated
+
+| App / Game | Time Spent | Mood Emoji | Why? |
+|------------|-----------|------------|------|
+| TikTok | 20 min | 😊 | Funny cat videos |
+| Roblox | 45 min | 😐 | Waiting for friends |
+| YouTube Kids | 15 min | 😟 | Scary monster video |
+
+**🏆 CTF Challenge:**  
+Count how many apps made you feel **Happy/Calm**. Enter the flag: `flag{happy_count}`
+
+> 💡 *ECNO Alignment:* Extends 
 
 ---
 

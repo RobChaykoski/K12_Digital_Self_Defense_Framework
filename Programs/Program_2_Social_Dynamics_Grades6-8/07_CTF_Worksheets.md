@@ -79,3 +79,25 @@ The plaintext password in the packet reveals: `flag{unencrypted_found}`.
 
 **🏆 CTF Challenge:**  
 Decoded text reveals: `flag{my_secret_is_safe}`.
+
+---
+
+## Cyberbullying Cipher Decode (Session 6 — Digital Wellness Extension)
+**Mapped CTF:** *The Cyberbullying Cipher Decode* | **Category:** Digital Wellness (Mental Health & Coping)
+
+**Student Name:** ____________________  
+**Date:** ______________  
+
+**Instructions:** ECNO's Digital Wellness pillar emphasizes coping with cyberbullying. A classmate posts an unkind comment: `xli qvwxuv wkh phzj`. Use a Caesar cipher (shift +3) to decode the message.
+
+| Encoded | Decoded |
+|---------|--------|
+| xli | ___ |
+| qvwxuv | ___ |
+| wkh | ___ |
+| phzj | ___ |
+
+**🏆 CTF Challenge:**  
+Write the decoded message on your worksheet. Submit: `flag{the big mean}`
+
+> 💡 *ECNO Alignment:* Addresses **Digital Wellness** by practicing decoding unkind messages and applying the Stop/Screenshot/Block/Report protocol — complementing ECNO's middle-school cyberbullying resources.

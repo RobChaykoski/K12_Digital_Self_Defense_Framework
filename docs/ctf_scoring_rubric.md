@@ -24,6 +24,7 @@ Each CTF session is worth **10 points**, distributed as follows:
 | **Worksheet Completion** | 2 pts | All tables, checkboxes, and reasoning fields filled |
 | **Collaboration** | 2 pts | Peer assistance, role rotation, group problem-solving |
 | **Effort / Participation** | 2 pts | On-task behavior, time management, initiative |
+| **ECNO Category Coverage** | 1 pt | Student identifies which ECNO pillar the challenge addresses (e.g., Digital Wellness, AI) |
 
 ### Grade Band Adjustments
 - **K–5:** Focus on effort & participation (4 pts). Flag accuracy simplified to visual matching.
