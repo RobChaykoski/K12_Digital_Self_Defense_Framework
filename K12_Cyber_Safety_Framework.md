@@ -24,7 +24,7 @@ The "Wild West" metaphor helps students understand that the internet is a place 
 | Topic | Learning Objective | Activity Example |
 |-------|-------------------|------------------|
 | **Who am I talking to?** | Identify familiar vs. unfamiliar people online | "Stranger Danger" digital version with cartoon characters |
-| **The Password Lock** | Understand passwords as keys to your door | Create a physical "password lock" craft; practice saying passwords out loud (not sharing) |
+| **The Password Lock** | Understand passwords as keys to your door | Create a physical "password lock" craft; practice saying passwords out loud (using fictional examples only) (using fictional examples only) (not sharing) |
 | **Clicking Safely** | Distinguish safe links vs. suspicious links | Game: "Tap the Green Button, Not the Red One" |
 | **Screen Time Boundaries** | Recognize healthy tech habits | Family screen-time contract; visual timer activities |
 | **Digital Footprint** | Understand that online actions stay forever | "Footprints in the Sand" analogy — what disappears vs. what stays |
