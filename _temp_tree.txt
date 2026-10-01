@@ -1,1 +1,51 @@
-C:\Users\rob\OneDrive\Documents\Unsloth Studio\Projects\CyberAware---Windsor-Essex-K-12-454eeb88\sandbox\K12_Digital_Self_Defense_Framework\
+K12_Digital_Self_Defense_Framework/
+├── .gitignore
+├── CONTRIBUTING.md
+├── ECNO_Alignment_Guide.md
+├── ISED_AI_for_All_Alignment.md
+├── K12_Cyber_Safety_Framework.md
+├── LICENSE
+├── Makefile
+├── README.md
+├── Stop_Think_Reinforcement.md
+├── _temp_tree.txt
+├── .github/PULL_REQUEST_TEMPLATE.md
+├── .github/ISSUE_TEMPLATE/bug_report.md
+├── .github/ISSUE_TEMPLATE/feature_request.md
+├── .github/ISSUE_TEMPLATE/lesson_feedback.md
+├── assets/README.md
+├── docs/ctf_scoring_rubric.md
+├── docs/implementation_guide.md
+├── docs/README.md
+├── docs/teacher_onboarding.md
+├── scripts/generate_qr.py
+├── Phase_Plans/GECDSB_Monthly_Calendar_Integration.md
+├── Phase_Plans/Phase_1_K_Grade2_Ages5-8.md
+├── Phase_Plans/Phase_2_Grades3-5_Ages8-11.md
+├── Phase_Plans/Phase_3_Grades6-8_Ages11-14.md
+├── Phase_Plans/Phase_4_Grades9-12_Ages14-18.md
+├── Programs/Program_1_Foundations_K-5/01_Program_Guide.md
+├── Programs/Program_1_Foundations_K-5/02_Lesson_Plans.md
+├── Programs/Program_1_Foundations_K-5/03_Student_Handouts.md
+├── Programs/Program_1_Foundations_K-5/04_Parent_Toolkit.md
+├── Programs/Program_1_Foundations_K-5/05_Assessments_and_Materials.md
+├── Programs/Program_1_Foundations_K-5/06_Persona_Cast.md
+├── Programs/Program_1_Foundations_K-5/07_CTF_Worksheets.md
+├── Programs/Program_2_Social_Dynamics_Grades6-8/01_Program_Guide.md
+├── Programs/Program_2_Social_Dynamics_Grades6-8/02_Lesson_Plans.md
+├── Programs/Program_2_Social_Dynamics_Grades6-8/03_Student_Handouts.md
+├── Programs/Program_2_Social_Dynamics_Grades6-8/04_Parent_Toolkit.md
+├── Programs/Program_2_Social_Dynamics_Grades6-8/05_Assessments_and_Materials.md
+├── Programs/Program_2_Social_Dynamics_Grades6-8/06_Persona_Cast.md
+├── Programs/Program_2_Social_Dynamics_Grades6-8/07_CTF_Worksheets.md
+├── Programs/Program_3_Legal_AI_Grades9-12/01_Program_Guide.md
+├── Programs/Program_3_Legal_AI_Grades9-12/02_Lesson_Plans.md
+├── Programs/Program_3_Legal_AI_Grades9-12/03_Student_Handouts.md
+├── Programs/Program_3_Legal_AI_Grades9-12/04_Parent_Toolkit.md
+├── Programs/Program_3_Legal_AI_Grades9-12/05_Assessments_and_Materials.md
+├── Programs/Program_3_Legal_AI_Grades9-12/06_Persona_Cast.md
+└── Programs/Program_3_Legal_AI_Grades9-12/07_CTF_Worksheets.md
+
+Generated: October 2026
+Total files: 35 markdown/doc files + 1 Python script + 1 gitignore + 1 license + 1 readme
+
