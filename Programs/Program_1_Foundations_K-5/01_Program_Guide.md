@@ -1,4 +1,4 @@
-# 🛡️ Program 1: DIGITAL FOUNDATIONS (K–Grade 5)
+# 🛡️ Program 1: DIGITAL FOUNDATIONS & AI LITERACY (K–Grade 5)
 
 **Ages:** 5–11 | **Duration:** One school term (6–8 weeks) | **Format:** In-class sessions + home reinforcement
 

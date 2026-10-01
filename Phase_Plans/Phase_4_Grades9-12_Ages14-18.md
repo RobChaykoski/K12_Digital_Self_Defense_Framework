@@ -274,6 +274,9 @@ By the end of this phase, students will be able to:
 - **Encourage critical thinking:** Don't just teach "what" — teach "why." Why does the algorithm show this? Why does the scammer use crypto?
 - **Connect to careers:** Highlight cybersecurity jobs, data science, UX design, and digital marketing as paths that build on these skills.
 - **Parent communication:** Send home a one-page summary of topics covered and suggest family conversations (e.g., "What's our safe word? What crypto apps do we use?").
+- **Stop & Think reinforcement:** Each session opens with a "Pause Protocol" — e.g., "Before you invest, breathe. Before you click, check. Before you share, ask yourself: Can I undo this?" The "Urgency Test": If someone says 'Act NOW!' — you have 10 seconds to decide, not 2.
+- **Ask for help culture:** "If you struggle with any concept, any assignment, or any screen — speak up. The best cybersecurity pros I know are the ones who ask questions."
+- **Break protocol:** High schoolers mask fatigue. If eyes look glassy or attention drifts for more than a lesson: "Brain dump — 3-minute reset. Water. Stretch. Fresh air. You'll retain more coming back refreshed than pushing through fuzzy."
 
 ---
 
@@ -305,6 +308,17 @@ By the end of this phase, students will be able to:
 
 ---
 
-**Document Version:** 1.0  
-**Prepared:** September 2026  
+**Document Version:** 1.1 (Updated October 2026)  
+**Prepared:** September 2026 | **Updated:** October 2026  
 **Next Review:** March 2027
+
+### v1.1 Additions:
+- Added "National AI Policy Debate" — students research and present on Canada's 5-pillar AI strategy
+- Added "AIDA (AI & Data Act)" — understand Canada's proposed AI legislation
+- Added "Canadian AI Careers" exploration module
+- Added "AI for All Challenge" capstone project — design AI tool for underserved community
+- Added "Canada.AI Transparency" exercise — analyze government AI use
+- Aligned with ISED National AI Strategy pillars: Global Leadership, Responsible AI, AI for All, Indigenous AI
+- Integrated ISED AI Literacy Initiative reference
+- Integrated ISED Canada's National AI Strategy — AI for All reference
+- Extended "Legal AI & Canadian Law" with AIDA, Canada.AI, and Global AI Governance Hub

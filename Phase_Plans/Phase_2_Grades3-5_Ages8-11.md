@@ -197,6 +197,9 @@ By the end of this phase, students will be able to:
 - **Encourage sharing:** Students often know about scams adults don't. Create a safe space for them to teach the class.
 - **Prepare for varied tech levels:** Some students may be more experienced than others. Pair stronger students with those needing support.
 - **Send home the phishing clue card:** It becomes a reference tool for spotting scams at home with parents.
+- **Stop & Think reinforcement:** Each session ends with a "Pause and Analyze" checkpoint — students practice stopping before tapping, reading carefully, and thinking through clues.
+- **Ask for help culture:** "If you struggle with any worksheet, any activity, or any screen — raise your hand. Ask your teacher, ask a friend, or ask a grown-up. There is no wrong question."
+- **Break protocol:** If a student's eyes look glazed or they're sighing, say: "Digital Detectives know that fuzzy brains make bad detective work. Take a 2-minute break — stand up, stretch, drink water. Then come back with fresh eyes."
 
 ---
 
@@ -220,6 +223,14 @@ By the end of this phase, students will be able to:
 
 ---
 
-**Document Version:** 1.0  
-**Prepared:** September 2026  
+**Document Version:** 1.1 (Updated October 2026)  
+**Prepared:** September 2026 | **Updated:** October 2026  
 **Next Review:** March 2027
+
+### v1.1 Additions:
+- Added "Canadian AI Innovators" worksheet — students research Mila, Vector, Amii
+- Integrated "AI for All — AI Sprouts in Daily Tools" concept
+- Added Canadian AI context to phishing/scam sessions
+- Aligned with ISED National AI Strategy pillars: Skills & Talent, Adoption, Indigenous Data
+- Integrated ISED AI Literacy Initiative reference
+- Integrated ISED Canada's National AI Strategy — AI for All reference

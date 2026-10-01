@@ -56,3 +56,32 @@ Your kid is now in the **social pressure zone**. The threats are no longer carto
 | **Project Arachnid** | Automated detection/removal of CSAEM online |
 | **Kids in the Know (C3P)** | Ready-to-teach K-12 curriculum, trauma-informed |
 | ** RCMP Youth Internet Safety** | Parent guidance for all ages |
+
+## 🛑 Stop & Think at Home
+
+### The Teen "Pause Before You Pounce" Rule
+Teach your child: **STOP → THINK → ASK → ACT**
+- **STOP** before clicking, sending, sharing, or spending
+- **THINK** — "Does this make sense? Who is this from? What happens next?"
+- **ASK** if unsure — "If you struggle with this, ask. No judgment."
+- **ACT** only when confident
+
+### Signs Your Middle-Grader Needs a Brain Break
+- Eyes look glazed or unfocused
+- Sighing frequently
+- Re-reading the same message
+- Getting frustrated with "simple" tasks
+
+**What to say:**
+> "Your brain is like a phone battery. When it's low, everything feels harder. Take a 5-minute break — walk outside, grab a snack, stretch. You'll feel better coming back."
+
+### The "Ask for Help" Promise
+Print and post in their room or on the fridge:
+> 🛑 **If you're stuck → Stop. Take a breath. Ask someone.**
+> "There is no wrong question. No hand is too slow to go up. No screen is too scary to walk away from."
+
+**Remind them:**
+- 📱 If a message makes their heart race — **pause first**
+- 💻 If a game feels overwhelming — **it's okay to log off**
+- 🤖 If an AI tool confuses them — **ask a grown-up or teacher**
+- 📚 If homework feels too much — **take a break, then try again**

@@ -158,6 +158,9 @@ By the end of this phase, students will be able to:
 - **Validate feelings:** Some students may feel anxious about online safety. Reassure them: "Mistakes are how we learn!"
 - **Parent involvement is key:** Send home all contracts and certificates so families reinforce learning.
 - **Adapt for special needs:** Provide larger print, audio stories, or hands-on manipulatives as needed.
+- **Stop & Think reinforcement:** At the end of every session, have students practice the traffic light: "Red = freeze your fingers, Yellow = use your thinking brain, Green = you can tap!"
+- **Ask for help culture:** "If you struggle with anything at any time, raise your hand and ask. There is no wrong question." Model this by saying "Hmm, I'm not sure about this — let me ask!" out loud.
+- **Break time:** If a student is visibly frustrated, say "Let's take a break. Close your tablet, take three deep breaths, and we'll try again in a moment."
 
 ---
 
@@ -175,6 +178,14 @@ By the end of this phase, students will be able to:
 
 ---
 
-**Document Version:** 1.0  
-**Prepared:** September 2026  
+**Document Version:** 1.1 (Updated October 2026)  
+**Prepared:** September 2026 | **Updated:** October 2026  
 **Next Review:** March 2027
+
+### v1.1 Additions:
+- Added "AI for All — AI Helps Everyone" concept to Session integration
+- Integrated Canadian AI innovator spotlights (Mila, Vector, Amii)
+- Added "Canada's AI Helpers" coloring page to materials
+- Aligned with ISED National AI Strategy pillars: Skills & Talent, Accessibility
+- Integrated ISED AI Literacy Initiative reference
+- Integrated ISED Canada's National AI Strategy — AI for All reference

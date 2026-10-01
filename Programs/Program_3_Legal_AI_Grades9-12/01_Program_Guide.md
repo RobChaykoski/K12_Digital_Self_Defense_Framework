@@ -60,3 +60,6 @@ By the end, students will be able to:
 - Crypto content is **defensive only** — no trading platforms, no wallet setup, no token names promoted. Frame: "here's how the scam works so you can spot it."
 - Deepfake material must be public/celebrity-labelled; never classmates. AI-CSAEM discussed at pattern level only — never shown.
 - Legal content is informational, not legal advice; route specific situations to counsellor/police.
+- **Stop & Think culture:** Every lab includes a "Pause Before Proceeding" checkpoint. Before running a tool, entering data, or making a decision: "Stop. Think. Is this what I expect?" If surprised — stop and ask.
+- **Ask for help protocol:** "If you're stuck on a forensic checklist, confused by a session, or the screen feels overwhelming — raise your hand. No hand is too slow to go up. The rule: If in doubt, speak out."
+- **Brain break protocol:** After intensive labs (deepfake forensics, audio analysis), build in a 5-minute reset: stretch, walk, hydrate. Crammed brains don't retain.

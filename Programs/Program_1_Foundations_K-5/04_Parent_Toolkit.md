@@ -85,3 +85,20 @@ This term, your child joins **Digital Foundations** — a K–Grade 5 program th
 - [ ] Devices charge in a common area at night — no phones in bedrooms
 - [ ] A visible "tell an adult" rule posted near where devices are used
 - [ ] This toolkit's contact page saved in the family phone
+
+## 🛑 Stop & Think at Home
+
+### The Family 3-Second Rule
+Before your child clicks, taps, sends, or buys:
+1. **STOP** — hands off the screen for 3 seconds
+2. **THINK** — "Does this make sense? Who is it from? What happens if I act?"
+3. **ACT** — only if the answer feels right
+
+### If Your Child Gets Stuck or Overwhelmed
+- **"It's okay to pause."** — Reassure them that screens are always there. They can come back.
+- **"Ask for help — no judgment."** — The goal isn't to get it right the first time. The goal is to learn.
+- **"Take a brain break."** — Stand up, stretch, drink water. Fresh eyes make better decisions.
+
+**Printable phrase for the fridge:**
+> 🛑 **STOP → THINK → ASK**
+> "If I'm not sure, I'll ask. There's no such thing as a silly question."

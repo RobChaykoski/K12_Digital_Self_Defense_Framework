@@ -229,6 +229,10 @@ By the end of this phase, students will be able to:
 - **Prepare guidance staff:** Inform counselors before sessions so they're on standby if sensitive disclosures arise during sextortion lessons.
 - **QR codes are your friend:** Print discreet QR cards — students can save them to their phones without showing parents what they're looking at.
 - **Parent communication:** Send home a one-page summary of topics covered and suggest family conversations (e.g., "What's our safe word?").
+- **Stop & Think reinforcement:** Each session includes a "Pause & Assess" moment before major activities — e.g., before clicking a link, before sending a message, before paying. The "3-Second Rule": count to 3 before acting.
+- **Ask for help culture:** "If you struggle with any worksheet, any activity, or any screen — raise your hand. Ask your teacher, ask a friend, or ask a grown-up. There is no wrong question." Emphasize: *'Even the best hackers Google things.'*
+- **Break protocol:** If a student's eyes look glazed or they're sighing: "Own your space — your brain needs a reboot. Take a 3-minute break. Go to the water fountain, stretch, look out the window. The internet isn't going anywhere."
+- **Sextortion specific:** "Don't panic! Don't rush! Panicking leads to mistakes. If you're nervous about showing a screenshot, take it home and show a parent. No one judges — they just want to help."
 
 ---
 
@@ -253,6 +257,14 @@ By the end of this phase, students will be able to:
 
 ---
 
-**Document Version:** 1.0  
-**Prepared:** September 2026  
+**Document Version:** 1.1 (Updated October 2026)  
+**Prepared:** September 2026 | **Updated:** October 2026  
 **Next Review:** March 2027
+
+### v1.1 Additions:
+- Added "Canada's AI Map" activity — locate and explore Mila, Vector, Amii
+- Integrated "Responsible AI Canada" trust and safety framework
+- Added "AI for All Accessibility" — digital divide in AI access
+- Aligned with ISED National AI Strategy pillars: Responsible AI, Adoption, Indigenous AI, Skills
+- Integrated ISED AI Literacy Initiative reference
+- Integrated ISED Canada's National AI Strategy — AI for All reference

@@ -62,3 +62,38 @@ Your teen is in the **Wild West**: adult-grade threats (credential stuffing, voi
 | **Project Arachnid** | CSAEM detection & removal |
 | **RCMP / local police fraud unit** | Police reporting for extortion, fraud, identity theft |
 | **Kids in the Know (C3P)** | Ready-to-teach K-12 curriculum, trauma-informed |
+
+## 🛑 Stop & Think at Home
+
+### The "Urgency Trap" — Teach Your Teen to Spot It
+High schoolers face the most sophisticated urgency campaigns: fake delivery texts, crypto "limited-time" offers, AI-deepfaked parent voicemails, exam result anxiety. Teach them:
+
+1. **STOP** — When a message says "Act NOW!" or "Don't miss out!" — pause for 10 seconds
+2. **THINK** — "Does this timing make sense? Is there another way to verify?"
+3. **ASK** — "If I'm not 100% sure, who can I check with?" (parent, teacher, friend)
+4. **ACT** — Only after confirming
+
+### Signs Your Teen Needs a Brain Break
+- Doom-scrolling for 2+ hours without moving
+- Eye strain or headaches after screen time
+- Mood swings tied to notifications
+- Forgetting to eat or sleep because "I just need to check one more thing"
+
+**What to say:**
+> "The internet will still be there tomorrow. Your brain doesn't need to run on empty to be smart. Take a real break — not a '5-minute' break that turns into an hour."
+
+### The "Ask for Help" Promise
+Print and post in their room or on the fridge:
+> 🛑 **STUCK? STOP. BREATHE. ASK.**
+> "Cybersecurity pros don't memorize everything — they know when to pause and ask. The best defense is a curious, rested brain."
+
+### Home Practice: The 10-Second Rule
+Before spending money, sending a screenshot, or clicking a link from a new contact:
+- **10 seconds of silence** — no phone, no talking, just thinking
+- **Ask yourself:** "What's the worst that happens if I wait 5 more minutes?"
+- **If it's 'nothing'** — wait. Most scams lose urgency after a pause
+
+**Parent reminder:**
+- 📱 Phone fatigue is real — model your own "Stop & Think" by narrating: "Hmm, this email says urgent... let me think about it."
+- 💻 Homework overwhelm — encourage the "Pomodoro" method: 25 min work, 5 min break
+- 🤖 AI tools confusing them — normalize not knowing: "AI is still learning. It's okay if it's tricky."
