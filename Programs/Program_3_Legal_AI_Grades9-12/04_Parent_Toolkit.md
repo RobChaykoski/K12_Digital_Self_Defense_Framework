@@ -56,7 +56,7 @@ Your teen is in the **Wild West**: adult-grade threats (credential stuffing, voi
 ## Canadian Resources
 | Resource | What it's for |
 |----------|---------------|
-| **Cybertip.ca / 1-800-427-3766** | Report cybercrime incl. sextortion — confidential |
+| **Cybertip.ca / 1-866-658-9022** | Report online sexual exploitation of children, incl. sextortion — confidential. Mon–Fri 8:30–4:00 CT; 9-1-1 if a child is in immediate danger |
 | **NeedHelpNow.ca** | Anonymous youth support, 24/7 |
 | **Take It Down (NCMEC)** | Anonymous takedown of intimate images of minors |
 | **Project Arachnid** | CSAEM detection & removal |

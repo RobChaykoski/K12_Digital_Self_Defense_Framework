@@ -76,7 +76,7 @@
 - **SAFE WORD** = ______ (family) • Callback number = ______
 - **Never share OTP/codes** — no one legitimate will ask
 **BACK:**
-- 📞 **Cybertip.ca / 1-800-427-3766** — Canadian Centre for Cyber Security tipline
+- 📞 **Cybertip.ca / 1-866-658-9022** — Canadian Centre for Child Protection (C3P) tipline, for online sexual exploitation of children. Staffed Mon–Fri 8:30–4:00 CT. **In immediate danger, call 9-1-1.** 24/7 support: Kids Help Phone 1-800-668-6868 or 9-8-8.
 - 🌐 **NeedHelpNow.ca** — anonymous youth support, 24/7
 - 🔍 **Take It Down** (NCMEC) — remove intimate images of minors
 - 🕷️ **Project Arachnid** — CSAEM detection & removal

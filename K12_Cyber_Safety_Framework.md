@@ -111,7 +111,8 @@ This framework now incorporates two major AI literacy resources:
 **Silent & Discreet Resources:**
 - Take It Down (takeitdown.ncmec.org) — Anonymous tool to stop explicit images
 - NeedHelpNow.ca — Confidential guidance on image sharing and cyberbullying
-- Kids Help Phone / Cybertip.ca — 24/7 crisis support lines
+- **Kids Help Phone — 1-800-668-6868**, and **9-8-8** Suicide Crisis Helpline — 24/7 crisis support
+- **Cybertip.ca — 1-866-658-9022** — reporting line for the online sexual exploitation of children, operated by the Canadian Centre for Child Protection. Staffed Monday–Friday, 8:30 a.m.–4:00 p.m. Central Time. **It is not a 24/7 line: if a child is in immediate danger, call 9-1-1.**
 - AI Literacy For All: Educator module for AI basics and synthetic media
 
 **Key Takeaway:** *Your digital self is yours to protect. Know your boundaries, lock your accounts, verify AI content, and never be afraid to ask for help.*

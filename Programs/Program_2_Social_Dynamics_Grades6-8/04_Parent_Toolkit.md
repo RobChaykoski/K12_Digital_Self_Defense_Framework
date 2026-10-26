@@ -50,7 +50,7 @@ Your kid is now in the **social pressure zone**. The threats are no longer carto
 ## Canadian Resources
 | Resource | What it's for |
 |----------|---------------|
-| **Cybertip.ca** | Report cybercrime incl. sextortion — confidential |
+| **Cybertip.ca** | Report online sexual exploitation of children incl. sextortion — confidential |
 | **NeedHelpNow.ca** | Youth support for image sharing / cyberbullying |
 | **Take It Down (NCMEC)** | Anonymous takedown of explicit images of minors |
 | **Project Arachnid** | Automated detection/removal of CSAEM online |

@@ -138,7 +138,7 @@ This gives schools a **3-source rotation**:
 | Resource | Phone/URL | Best For |
 |----------|-----------|----------|
 | Kids Help Phone | 1-800-668-6868 / text 686868 | Mental health, digital wellness |
-| Cybertip.ca | cybertip.ca | Report cybercrime online |
+| Cybertip.ca | cybertip.ca | Report the online sexual exploitation of children (luring, sextortion, abusive images) |
 | NeedHelpNow.ca | needhelponow.ca | Image sharing & cyberbullying |
 | Take It Down | takeitdown.ncmec.org | Anonymous image takedown |
 | Canadian Anti-Fraud Centre | 1-888-495-8501 | Scam reporting |

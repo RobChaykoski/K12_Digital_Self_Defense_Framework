@@ -72,7 +72,7 @@ This term, your child joins **Digital Foundations** — a K–Grade 5 program th
 ## 📞 If Something Happens — Who to Call (Canada)
 | Resource | What it's for |
 |---|---|
-| **Cybertip.ca** | Canada's national tipline — report cybercrime incl. scams, threats, and any request for photos from a child. Confidential. |
+| **Cybertip.ca** | Canada's tipline for the **online sexual exploitation of children** — report any request for photos from a child, sextortion, or luring. Operated by the Canadian Centre for Child Protection. Confidential. |
 | **NeedHelpNow.ca** | Support for youth dealing with online harm, image sharing, cyberbullying. |
 | **Take It Down (NCMEC)** | Anonymous takedowns of explicit images of minors. |
 | **911 / local police** | Immediate danger, threats of violence, or a child in distress. |
