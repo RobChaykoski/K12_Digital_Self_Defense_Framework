@@ -39,11 +39,16 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Show a headline: "Student's Instagram Hacked After Using Same Password as Leaked Gym Website." Discuss how one weak link breaks the chain. |
 | 5-12 min | Direct Instruction | Explain credential stuffing: hackers take leaked username/password pairs and try them on other sites. Show statistics on password reuse rates (70%+ of people reuse passwords). |
-| 12-22 min | Guided Practice: "My Password Map" | Students create a visual map of their most-used accounts, writing down each password. They circle duplicates in red and unique ones in green. |
+| 12-22 min | Guided Practice: "My Password Map" | Students map their most-used accounts **by name only — never the password itself** — and mark each as reused (red) or unique (green). The point of the exercise is seeing *where* reuse exists, not recording *what* any secret is. For the hands-on half, students work a teacher-supplied **sample credential dump of fictional accounts** and find the single reused passphrase that unlocks two of them, so the detection skill is practised on material that cannot expose anyone. |
 | 22-32 min | Group Activity: "The Weak Link Chain" | In groups, students build a paper chain where each link is an account. If one link breaks (weak/reused password), the whole chain falls. Discuss real-world examples. |
 | 32-50 min | Wrap-Up & Exit Ticket | Students answer: "How many accounts share a password? What's one app you'd prioritize changing first? Why?" |
 
-**Materials:** Projector, sample headlines, paper for password maps, colored markers, paper chains or string/tape for chain activity
+**Materials:** Projector, sample headlines, paper for account maps (account names only), teacher-supplied fictional credential dump worksheet, colored markers, paper chains or string/tape for chain activity
+
+> **Non-negotiable:** no student writes a real password on paper. The map records
+> account names and reuse patterns only. This matches the rule stated in the
+> framework itself — *never real passwords, credentials, or personal information* —
+> and the Program 3 worksheet, which asks for "the SITES, not the passwords."
 
 ---
 
