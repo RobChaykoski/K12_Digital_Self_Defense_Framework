@@ -121,29 +121,46 @@ def check_links(files: list[Path], report: Report) -> None:
                     report.fail(path, f"line {line_number}: anchor not found: {target}")
 
 
-def check_inline_md_paths(files: list[Path], report: Report) -> None:
-    """Check explicit paths in inline code.
+def markdown_filenames() -> set[str]:
+    """Every markdown basename present in the repository (outside skipped dirs)."""
+    names: set[str] = set()
+    for path in REPO_ROOT.rglob("*.md"):
+        if any(part in SKIP_DIRS for part in path.relative_to(REPO_ROOT).parts):
+            continue
+        names.add(path.name)
+    return names
 
-    Bare filenames such as `02_Lesson_Plans.md` are used throughout the docs as
-    shorthand for "the file of that name in each program", so they are only
-    checked when the name resolves next to the document or at the repo root.
-    Anything containing a slash is treated as an explicit path and must resolve.
+
+def check_inline_md_paths(files: list[Path], report: Report) -> None:
+    """Check inline code paths that point at markdown documents.
+
+    Two forms appear in this repository:
+
+      * `docs/implementation_guide.md` -- an explicit path. It must resolve
+        relative to the document or to the repository root.
+      * `02_Lesson_Plans.md` -- shorthand for "the file of that name in the
+        program being discussed". It must resolve next to the document, at the
+        root, or as a basename that exists somewhere in the repository.
+
+    Without the basename rule every `02_Lesson_Plans.md` in `docs/` reads as
+    broken; without the basename check, a reference to a file that never existed
+    passes. The earlier version of this function ignored bare filenames outside
+    `Programs/`, which let exactly that through.
     """
+    names = markdown_filenames()
     for path in files:
         text = read_text(path)
         for line_number, line in enumerate(text.splitlines(), start=1):
             for token in CODE_MD_RE.findall(line):
-                explicit = "/" in token
-                if token.startswith("./"):
-                    candidates = [path.parent / token]
-                elif token.startswith("../"):
+                if token.startswith("./") or token.startswith("../"):
                     candidates = [path.parent / token]
                 else:
                     candidates = [path.parent / token, REPO_ROOT / token]
                 if any(candidate.exists() for candidate in candidates):
                     continue
-                if explicit or path.parent.name.startswith("Program_"):
-                    report.fail(path, f"line {line_number}: referenced file does not exist: {token}")
+                if "/" not in token and token in names:
+                    continue
+                report.fail(path, f"line {line_number}: referenced file does not exist: {token}")
 
 
 def worksheet_flags() -> dict[str, list[str]]:

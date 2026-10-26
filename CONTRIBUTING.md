@@ -28,7 +28,7 @@ Use the [Issue Templates](.github/ISSUE_TEMPLATE/) to submit:
 - **CTF Flags**: Format as `flag{description}`
 - **Tables**: Align columns for readability
 - **Images/Assets**: Place in `/assets/` and reference with relative paths
-- **File Naming**: follow the neighbours in the folder you are editing. The numbered program series uses `NN_Title_Case.md` (`07_CTF_Worksheets.md`); `docs/` uses `lower_snake_case.md` (`ctf_scoring_rubric.md`). Do not rename files without updating every reference — `make validate` checks this.
+- **File Naming**: follow the neighbours in the folder you are editing. The numbered program series uses `NN_Title_Case` filenames such as `07_CTF_Worksheets.md`; `docs/` uses `lower_snake_case` such as `ctf_scoring_rubric.md`. Do not rename files without updating every reference — `make validate` checks this.
 
 ## 🧪 Testing & Validation
 
