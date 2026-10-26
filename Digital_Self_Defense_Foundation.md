@@ -39,11 +39,11 @@ The result: **familiarity without repetition.** The student feels they *already 
 
 | Grade Band | The Question | Persona | Session | Not Overbearing Because |
 |------------|--------------|---------|---------|------------------------|
-| **K-2** | "Do I know this person?" | Locky (the Fox) | S2: The Password Lock | Concrete: a lock and a key. No jargon. |
-| **3-5** | "Is this message really who it claims to be?" | Detective Dot | S1: Real vs. Fake Email | Detective game format, not a test |
-| **6-8** | "Is this account, voice, or video real?" | Cipher + Echo + Lens | S2: Lock It Down / S3: The Clone Game / S4: Spot the Fake | Hand-on: they *enable* MFA, they *run* a clone game |
-| **9-10** | "What evidence proves identity?" | Cipher + Lens | S3: The Clone Wars / S4: Deepfake Lab | Forensic checklist — they *judge*, not just receive |
-| **11-12** | "What system proves identity?" | Cipher + Signal | S3: Clone Wars Deep Dive / S11: Media & Algorithm Analysis | Provenance, metadata, digital signatures |
+| **K-2** | "Do I know this person?" | Locky (the Fox) | Track A, S2: The Password Lock | Concrete: a lock and a key. No jargon. |
+| **3-5** | "Is this message really who it claims to be?" | Detective Dot | Track B, S1: The Real vs. Fake Email | Detective game format, not a test |
+| **6-8** | "Is this account, voice, or video real?" | Cipher + Echo + Lens | S2: Lock It Down / S3: The Clone Game / S4: Spot the Fake | Hands-on: they set up MFA and run a clone game on supplied clips |
+| **9-10** | "What evidence proves identity?" | Cipher + Lens + Echo | S1: The Password Audit / S3: The Clone Wars / S4: Deepfake Detection Lab | They *judge* supplied evidence rather than receive a verdict |
+| **11-12** | "What system proves identity?" | Cipher + Patch | S2: MFA Mastery / S3: The Clone Wars | Passkeys, recovery channels, and provenance as system-level controls |
 
 **Not overbearing:** Identity starts as "do I know you?" and ends as "can the system prove you?" — but the same lock-and-key visual anchors every level.
 
@@ -53,13 +53,13 @@ The result: **familiarity without repetition.** The student feels they *already 
 
 | Grade Band | The Question | Persona | Session | Not Overbearing Because |
 |------------|--------------|---------|---------|------------------------|
-| **K-2** | "Paint that stays forever" | Footprints (the Panda) | S5: Digital Footprints | Physical painted footprints on paper |
-| **3-5** | "Social media is a highlight reel, not real life" | Bloom | S2: The Highlight Reel | Match "online vs. real life" cards |
-| **6-8** | "Your public posts are a dossier" | Ghost | S1 (guest) / S4 (guest) | OSINT search on their own name |
-| **9-10** | "Aggregated data reveals what single posts don't" | Signal | S8: Algorithm & Engagement Analysis | Build a profile from 10 public posts |
-| **11-12** | "AI infers things about you that you never shared" | Signal + Ledger | S4 + S11 | Inference exercise: "AI guessed their political view from 3 posts" |
+| **K-2** | "Paint that stays forever" | Footprints (the Panda) | Track A, S5: Digital Footprints | Physical painted footprints on paper |
+| **3-5** | "Social media is a highlight reel, not real life" | Bloom | Track B, S2: The Highlight Reel | Match "online vs. real life" cards |
+| **6-8** | "Your public posts are a dossier" | Ghost | S1: The Phishing Playground (guest) / S4: Spot the Fake (guest) | They see how a public profile is harvested and reused |
+| **9-10** | "The feed you see was chosen for you" | Signal + Ghost | S9: Social Media Algorithms | Feed audit: categorise the top 10 items and name the pattern they did not choose |
+| **11-12** | "The algorithm models you, not just your feed" | Signal + Ghost | S9: Social Media Algorithms / S10: The Wild West Simulation | They analyse engagement incentives and trace a scenario across platforms |
 
-**Not overbearing:** Data starts as "footprints that don't wash away" and ends as "AI inferred my voting preference." Same ghost metaphor (what's visible vs. what's inferred).
+**Not overbearing:** Data starts as "footprints that don't wash away" and ends as "the feed was chosen for me." Same ghost metaphor (what's visible vs. what's inferred).
 
 ---
 
@@ -67,11 +67,11 @@ The result: **familiarity without repetition.** The student feels they *already 
 
 | Grade Band | The Question | Persona | Session | Not Overbearing Because |
 |------------|--------------|---------|---------|------------------------|
-| **K-2** | "Free Robux costs a password" | Trickster Bot | S5 (brief) | Cartoon scam that loses every time |
-| **3-5** | "Too good to be true = probably a scam" | Trickster Bot + Dot | S5: Too Good to Be True | 12-scam sorting game (not a lecture) |
-| **6-8** | "Gift cards and urgency = syndicate playbook" | Vault | S5: Sextortion Basics / S6: The 3 Do Nots | Role-play: $20 sextortion, don't pay/reply/delete |
-| **9-10** | "Crypto scams: rug pulls, airdrops, pump-and-dump" | Ledger | S7: Crypto Scams | Token simulation with real market patterns |
-| **11-12** | "Recovery agents are a second-layer scam" | Ledger + Cipher | S7 + S10 | Case study: $500 scammed → $200 "recovery fee" → gone |
+| **K-2** | "Free Robux costs a password" | Trickster Bot | Track A, S3: Clicking Safely | Cartoon scam that loses every time |
+| **3-5** | "Too good to be true = probably a scam" | Trickster Bot + Dot | Track B, S5: Too Good to Be True | Scam-sorting game, not a lecture |
+| **6-8** | "Gift cards and urgency = syndicate playbook" | Vault | S5: Sextortion Basics / S6: The 3 Do Nots + Tell | Role-play a small demand; practise don't pay / don't reply / don't delete / tell |
+| **9-10** | "Crypto scams: rug pulls, airdrops, pump-and-dump" | Ledger | S8: Crypto Scam Basics | Scam autopsy on documented cases; apply a red-flag framework |
+| **11-12** | "Recovery agents are a second-layer scam" | Ledger + Cipher | S8: Crypto Scam Basics / S10: The Wild West Simulation | They map the second-layer ask inside a live multi-platform scenario |
 
 **Not overbearing:** Finances starts as "free coins costs your key" and ends as "recovery agents are a second scam." Same Trickster Bot face (now wearing a suit).
 
@@ -81,13 +81,13 @@ The result: **familiarity without repetition.** The student feels they *already 
 
 | Grade Band | The Question | Persona | Session | Not Overbearing Because |
 |------------|--------------|---------|---------|------------------------|
-| **K-2** | "Kind words stay too" | Footprints + Bloom | S5 | Kind paint vs. graffiti paint — both last forever |
-| **3-5** | "The highlight reel isn't real life" | Bloom | S2 | Paper "social media profile" with real-life labels |
-| **6-8** | "A screenshot at 14 shapes university at 18" | Vault + Static | S5 (case study) | Sextortion syndicate case: one image, $20K over 3 years |
-| **9-10** | "What survives deletion?" | Ghost | S4 (guest) | OSINT: find old posts Google still has |
-| **11-12** | "A deepfake can define your reputation" | Lens + Signal | S4 + S11 | Create + defeat a deepfake; file it in the case file |
+| **K-2** | "Kind words stay too" | Footprints + Bloom | Track A, S5: Digital Footprints | Kind paint vs. graffiti paint — both last forever |
+| **3-5** | "The highlight reel isn't real life" | Bloom | Track B, S2: The Highlight Reel | Paper "social media profile" with real-life labels |
+| **6-8** | "A screenshot at 14 shapes university at 18" | Vault + Static | S8: Sextortion Case Studies | Documented case: one image, escalating demands over years |
+| **9-10** | "What survives deletion?" | Ghost + Vault | S6: Sextortion Syndicates / S7: The 3 Do Nots + Tell | They see why deleting destroys evidence and why telling ends isolation |
+| **11-12** | "A synthetic image can define your reputation" | Lens + Clause | S4: Deepfake Detection Lab / S6: Sextortion Syndicates | Analysis only: assess a synthetic image and state what the evidence does not prove |
 
-**Not overbearing:** Reputation starts as "the paint stays" and ends as "the deepfake defines you." The same Footprints/Bloom visual anchors every level.
+**Not overbearing:** Reputation starts as "the paint stays" and ends as "a synthetic image can define you." The same Footprints/Bloom visual anchors every level.
 
 ---
 
@@ -98,10 +98,10 @@ The result: **familiarity without repetition.** The student feels they *already 
 | **K-2** | "Red = stop, yellow = think, green = go" | Captain Shield | Every session | Traffic light game — physical, not mental |
 | **3-5** | "Pause. Read. Think." | Captain Shield + Dot | Every session | Detective pause — hover the link before clicking |
 | **6-8** | "PAUSE → VERIFY → ACT" | Cipher | S1, S8, S9, S10 | Incident commander playbook — structured decision tree |
-| **9-10** | "What's my risk, and is it worth taking?" | Cipher + Signal | S8 + S10 | Threat model their school account |
-| **11-12** | "Verify before execution (agentic AI)" | Cipher + Signal + Ledger | S4 + S7 + S12 | AI agent asks "can I email your teacher?" — they decide |
+| **9-10** | "What's my risk, and is it worth taking?" | Cipher + Signal | S8: Crypto Scam Basics / S10: The Wild West Simulation | Apply the red-flag framework and defend the decision |
+| **11-12** | "Assess, select, respond, recover, improve" | Cipher + Signal + Ledger | S10: The Wild West Simulation / S12: Review & Certification | They run the full autonomy ladder under time pressure |
 
-**Not overbearing:** Decision-making starts as "traffic light" and ends as "AI agent permission framework." The same Pause Button (Captain Shield → Cipher) is the through-line.
+**Not overbearing:** Decision-making starts as "traffic light" and ends as a full risk-and-recovery cycle. The same Pause Button (Captain Shield → Cipher) is the through-line.
 
 ---
 
@@ -118,7 +118,7 @@ A student who meets **Pixel the AI Scanner** in Grade 4 meets **Echo (voice fore
 ### 3. Physical → Visual → Digital Progression
 - **K-2:** Painted footprints on paper, physical padlocks, red/yellow/green cards
 - **3-5:** Magnifying glass app, match cards, passphrase word chain
-- **6-8:** MFA setup on tablet, voice recording game, screenshot preservation
+- **6-8:** MFA setup on a demo account, synthetic voice-clip comparison, screenshot preservation
 - **9-12:** Reverse image search, metadata analysis, token simulation, case-file binding
 
 The medium changes, but the *mental model* stays the same.
@@ -136,7 +136,7 @@ Every session begins or ends with **Captain Shield's Pause Button**. K-2 student
 | Pixel scans pictures | Pixel scans AI images | Echo scans voices, Lens scans videos | Signal audits AI provenance |
 | Trickster Bot's simple scam | 12 Trickster Bot disguises | The Glitch Syndicate playbook | International syndicate with named divisions |
 | Captain Shield's traffic light | Detective Dot's 3 warning signs | Cipher's PAUSE → VERIFY → ACT | Signal's threat model + Ledger's risk matrix |
-| Footprints' forever paint | Bloom's Un-Filter | Ghost's OSINT dossier | Signal's inference engine |
+| Footprints' forever paint | Bloom's Un-Filter | Ghost's OSINT dossier | Signal's engagement analysis |
 | Ranger Ray's open radio | Static's safe word + Quickie Cards | Vault's chain of custody | Clause's legal reporting pipeline |
 
 **The student sees their younger self in the framework.** This is psychologically powerful: returning students feel the curriculum *respects* what they already know, rather than repeating it.
@@ -151,7 +151,7 @@ Every session begins or ends with **Captain Shield's Pause Button**. K-2 student
 | **3-5** | Pattern recognition (fishy / not fishy) | Email sender + urgency words + link → spot 2 of 3 clues |
 | **6-8** | Protocol execution (PAUSE → VERIFY → ACT) | Discord message → check sender → click link in new tab → verify |
 | **9-10** | Risk assessment (is this worth it?) | Crypto token → check contract → compare to rug-pull patterns → decide |
-| **11-12** | System design (how do I prove this?) | Deepfake audio → check wave form + metadata + reverse search → file in case |
+| **11-12** | System design (how do I prove this?) | Deepfake audio → trace the source → reverse search → seek corroboration → state a confidence level → file in case |
 
 **The cognitive load grows naturally.** No grade band asks students to think at a level they haven't developed.
 
