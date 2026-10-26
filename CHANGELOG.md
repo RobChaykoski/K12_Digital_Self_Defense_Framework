@@ -46,6 +46,14 @@ Two protocols changed, and three factual claims were withdrawn.
   make fewer errors every year and the same artefacts appear in compressed real
   photographs. The assessment outcome changed from "spot the deepfake" to
   "state what the evidence does and does not prove."
+- **The same standard now runs through every program.** Phase 4 already used it,
+  but Programs 1–3 still taught perception first: Program 1's "tell list",
+  Program 2's Session 4 objective ("spot visual deepfakes using at least 3
+  tells"), Program 3's Session 5 objective ("detect synthetic audio … using
+  waveform analysis"), both programs' CTF worksheets, and Phase 4's graduation
+  handout ("AI detection checklist"). All now teach source → reverse search →
+  corroboration → clues, and every assessment requires a statement of what the
+  evidence cannot prove.
 - **Voice-clone instruction corrected.** Removed the claim that 3-5 seconds of
   speech is enough to clone a voice (vendor marketing; a convincing clone needs
   closer to 30 seconds of clear speech, sometimes less), removed Fakespot (a
@@ -75,6 +83,11 @@ Two protocols changed, and three factual claims were withdrawn.
   also cites s.162.1(1.1) (threats to publish) and s.162.1(2)(b), which expressly
   covers AI-generated depictions, and names s.346 (extortion), s.380 (fraud), and
   ss.402.2/403 (identity theft and fraud).
+- **The Stop & Think context checklists.** The sextortion checklist asked "Can I
+  afford it?" and "Did I send the original photo publicly or privately?" — the
+  first treats payment as a live option, the second puts the student's behaviour
+  on trial. It is now the four moves. The deepfake checklist led with visual
+  artefacts; it now leads with source and corroboration.
 - **Resource details.** Cybertip.ca is **1-866-658-9022**, operated by the
   Canadian Centre for Child Protection, staffed Monday–Friday 8:30–16:00 Central
   Time. It is not a 24/7 line; the material now says so and routes emergencies to
