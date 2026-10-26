@@ -1,7 +1,7 @@
 # 🎓 Program 3: The Digital Frontier — Legal & AI (Grades 9–12)
 
 ## Overview
-The **Wild West phase**. Students now face adult-grade threats with adult consequences: credential-stuffing operations, app-based MFA and recovery architecture, audio-forensic deepfake analysis, sextortion as an organized business model, crypto scams (rug pulls, fake airdrops, pump-and-dump), algorithmic manipulation, and the **legal landscape** — what's actually illegal in Canada (Criminal Code: extortion s.346, publication of intimate images s.276, fraud, identity theft) and where their rights sit as victims.
+The **Wild West phase**. Students now face adult-grade threats with adult consequences: credential-stuffing operations, app-based MFA and recovery architecture, audio-forensic deepfake analysis, sextortion as an organized business model, crypto scams (rug pulls, fake airdrops, pump-and-dump), algorithmic manipulation, and the **legal landscape** — what's actually illegal in Canada (Criminal Code: extortion s.346, publication of intimate images s.162.1, fraud, identity theft) and where their rights sit as victims.
 
 | | |
 |---|---|

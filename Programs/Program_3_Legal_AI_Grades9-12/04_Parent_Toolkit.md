@@ -35,7 +35,7 @@ Your teen is in the **Wild West**: adult-grade threats (credential stuffing, voi
 2. **Preserve evidence:** don't delete conversations or accounts; screenshot everything (dates, usernames, messages). If something was already deleted, log what can still be recovered — never reconstruct or exaggerate evidence.
 3. **The 3 Do Nots apply to them too:** don't pay anything, don't reply to the scammer, don't let them feel they must fix it alone.
 4. **The reporting decision tree:** images of a minor or threats to safety → **police now**; everything else → **Cybertip.ca first** (confidential, Canada's national tipline). Intimate images of minors: also **Take It Down** and **Project Arachnid**. They can report themselves — walk it with them if they want.
-5. **The legal reality, said out loud:** the crime is committed by the threatener, every single time (extortion s.346; publication of intimate images s.276). Your teen is a victim, not a suspect. Say that sentence to their face.
+5. **The legal reality, said out loud:** the crime is committed by the threatener, every single time (extortion s.346; publication of intimate images s.162.1). Your teen is a victim, not a suspect. Say that sentence to their face.
 6. **Support over surveillance:** temporary changes framed as care, not punishment. Watch for trauma responses (sleep changes, withdrawal, grade drops) — **NeedHelpNow.ca** is 24/7 and anonymous; follow up with the counsellor if symptoms persist a week or more.
 7. **If you suspect your teen is on the OTHER side** (pressuring others): this is also a disclosure to handle calmly — often peer pressure or curiosity gone wrong. Guidance counsellor + C3P's restorative approaches exist for exactly this; shame guarantees it continues in secret.
 

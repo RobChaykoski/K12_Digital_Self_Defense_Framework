@@ -40,7 +40,7 @@
 | Offence | What it covers | Note |
 |---------|---------------|------|
 | Extortion (s.346) | Threats to obtain property/advantage | Applies to sextortion demands |
-| Publication of intimate images (s.276) | Sharing intimate images without consent, causing harm | Non-consensual deepfakes included |
+| Publication of intimate images (s.162.1) | Sharing intimate images without consent, causing harm | Non-consensual deepfakes included |
 | Fraud / identity theft | Deception for gain; using another's identity | Crypto payment rails don't hide you from investigation |
 | CSAEM offences | Child exploitation material | **Always reportable** — Project Arachnid works removals |
 *Informational, not legal advice. Victim = never the criminal.*

@@ -100,7 +100,7 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 |------|----------|
 | 10 min | Ground rules (Program 2 protocol). Frame: this is a **business analysis**, like dissecting any criminal enterprise — because that's what it is. |
 | 15 min | Teach the model: sourcing targets (gaming/social platforms) • grooming scripts • image acquisition (trick, or *deepfake fabrication* — no real photo needed anymore) • escalation & payment rails (gift cards → crypto, because untraceable and irreversible) • distribution threats as leverage. Scale: Cybertip.ca averages multiple sextortion reports **per day** nationally. |
-| 15 min | **The law panel:** what's actually criminal in Canada — extortion (Criminal Code s.346) • publication of intimate images without consent (s.276) • fraud & identity theft • child exploitation material offences. Key point for victims: *the crime is committed by the threatener, every single time.* Victim rights: reporting to police (it IS a reportable offence), Cybertip.ca, Take It Down, Project Arachnid for CSAEM. Informational only — not legal advice. |
+| 15 min | **The law panel:** what's actually criminal in Canada — extortion (Criminal Code s.346) • publication of intimate images without consent (s.162.1) • fraud & identity theft • child exploitation material offences. Key point for victims: *the crime is committed by the threatener, every single time.* Victim rights: reporting to police (it IS a reportable offence), Cybertip.ca, Take It Down, Project Arachnid for CSAEM. Informational only — not legal advice. |
 | 5 min | Anonymous question slips; counsellor closes with support resources (NeedHelpNow.ca). |
 
 **Materials:** business-model diagram (D5), law summary sheet (D6), slips.

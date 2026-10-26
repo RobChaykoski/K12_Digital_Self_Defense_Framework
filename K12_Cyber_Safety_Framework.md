@@ -132,7 +132,7 @@ This framework now incorporates two major AI literacy resources:
 | **Pillar 4: Sextortion & Digital Coercion** | Coercive control; financial sextortion rings (Snapchat/Instagram DMs); non-consensual image sharing; AI-enhanced social engineering | Understand the business model behind sextortion syndicates; legal response options | Analyze real case studies from Cybertip.ca; apply Canadian Criminal Code sections |
 | **Pillar 5: Crypto Scams** | NFT drops, "rug pulls," airdrop scams, fake exchange promotions | Distinguish legitimate crypto projects from pump-and-dump schemes | Simulated crypto investment exercise with loss/gain tracking |
 | **Pillar 6: Social Media Traps (Advanced)** | Algorithmic echo chambers, engagement bait, influencer affiliate traps | Understand how platforms monetize attention; AI-curated feeds | Audit personal social media feed for ad patterns; algorithm transparency report |
-| **Pillar 7: Legal AI & Canadian Law** | Criminal Code: extortion s.346, publication of intimate images s.276, fraud, identity theft; consent in digital space | Navigate legal landscape for AI-driven crimes | Guest panel (RCMP/IT forensics/lawyer); multi-platform incident response simulation |
+| **Pillar 7: Legal AI & Canadian Law** | Criminal Code: extortion s.346, publication of intimate images s.162.1, fraud, identity theft; consent in digital space | Navigate legal landscape for AI-driven crimes | Guest panel (RCMP/IT forensics/lawyer); multi-platform incident response simulation |
 
 **Key Protocols Taught:**
 - 🔍 **AI Detection Checklist:** Check for unnatural hand proportions, inconsistent lighting, mismatched shadows, audio lip-sync errors, spectral analysis for voice clones
