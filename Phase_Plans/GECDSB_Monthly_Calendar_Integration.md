@@ -111,7 +111,7 @@
 6. **Seasonal relevance** — Back-to-school in September, gaming in April, social media in June/summer
 
 ### Gaps Our Framework Fills
-1. **Sextortion depth** — GECDSB touches on it in February but doesn't have the "3 Do Nots" protocol
+1. **Sextortion depth** - GECDSB touches on it in February but doesn't have a named "3 Do Nots + Tell" protocol
 2. **AI forensics** — GECDSM mentions AI generally; we go deep into deepfake detection
 3. **Crypto scams** — Not covered by GECDSB at all
 4. **Voice cloning / Family Safe Word** — Unique to our framework

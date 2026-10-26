@@ -118,7 +118,7 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Show a student looking stressed while checking their phone. Ask: "What if someone sent you a video and wants $10?" Discuss reactions. |
 | 5-12 min | Direct Instruction | Teach the 3 Do Nots + Tell: (1) Do NOT pay or negotiate — paying proves you will pay again, (2) Do NOT reply — any reply feeds them; screenshot, then block, (3) Do NOT delete — screenshots are the evidence police and takedown services need, then (4) TELL a trusted adult and report. Explain why each rule matters with examples. |
-| 12-22 min | Guided Practice: "What Would You Do?" | Students receive scenario cards describing different sextortion situations. They write down which of the 3 Do Nots apply, what they would screenshot, and whom they would tell. Teacher reviews as a class. |
+| 12-22 min | Guided Practice: "What Would You Do?" | Students receive scenario cards describing different sextortion situations. They write down which of the 3 Do Nots + Tell moves apply, what they would screenshot, and whom they would tell. Teacher reviews as a class. |
 | 22-32 min | Resource Exploration: "Silent & Discreet Help" | Students use tablets to visit Take It Down, NeedHelpNow.ca, and Cybertip.ca. They take notes on what each site offers and how to access it anonymously. |
 | 32-45 min | Wrap-Up & Exit Ticket | Students complete a reflection: "Which Do Not is hardest to follow? Why? How does knowing about Take It Down help?" |
 
@@ -134,7 +134,7 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Show a wallet-sized card with QR codes. Ask: "What if you could carry help everywhere without anyone knowing?" |
 | 5-12 min | Direct Instruction | Explain the purpose of discreet resource cards: they contain QR codes to Take It Down, NeedHelpNow.ca, Kids Help Phone, and Cybertip.ca — all accessible without showing your phone screen. |
-| 12-22 min | Activity: "Design Your Card" | Students receive a blank card template. They draw or write key info on the front (3 Do Nots, safe word reminder) and paste QR codes on the back. Teacher provides printed QR code sheets. |
+| 12-22 min | Activity: "Design Your Card" | Students receive a blank card template. They draw or write key info on the front (3 Do Nots + Tell, safe word reminder) and paste QR codes on the back. Teacher provides printed QR code sheets. |
 | 22-32 min | Practice: "Scan & Save" | Students use tablets to scan their own QR codes and verify they link to the correct pages. They practice saving links to their phone's home screen for quick access. |
 | 32-45 min | Wrap-Up & Exit Ticket | Students write: "When would you use your resource card? Who might find it helpful?" |
 
@@ -181,7 +181,7 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-15 min | Review Game: "Digital Defense Jeopardy" | Categories: Phishing, MFA, Voice Cloning, Deepfakes, Sextortion. Teams compete for points. Include practical questions (e.g., "Show me how you'd set up Google Authenticator"). |
 | 15-25 min | Station Rotation (5 stations × 2 min each) | **Station A:** MFA setup simulation<br>**Station B:** Deepfake image sorting<br>**Station C:** Phishing email annotation<br>**Station D:** Sextortion role-play<br>**Station E:** Resource card scanning |
-| 25-35 min | Certificate Ceremony | Each student receives a "Digital Self-Defense Champion" certificate, a laminated wallet card with the 3 Do Nots and safe word space, and a QR code handout. |
+| 25-35 min | Certificate Ceremony | Each student receives a "Digital Self-Defense Champion" certificate, a laminated wallet card with the 3 Do Nots + Tell and safe word space, and a QR code handout. |
 | 35-45 min | Wrap-Up & Feedback | Students complete a feedback form: Favorite lesson? Hardest concept? What to learn next? Collect for future planning. |
 
 **Materials:** Jeopardy board materials, station supplies, certificates, laminated wallet cards, QR code handouts, feedback forms, pens, laminator (if available)
