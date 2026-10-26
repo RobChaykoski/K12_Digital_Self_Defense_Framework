@@ -132,17 +132,17 @@ By the end of this phase, students will be able to:
 
 ---
 
-#### Session 7: "The 3 Do Nots Deep Dive" — Sextortion Protocols in Action (50 min)
+#### Session 7: "The 3 Do Nots + Tell" — Sextortion Protocols in Action (50 min)
 
-**Objective:** Apply the three core rules of sextortion response to complex scenarios
+**Objective:** Apply the four-move sextortion response — don't pay, don't reply, don't delete, tell — to complex scenarios
 
 | Time | Activity | Description |
 |------|----------|-------------|
-| 0-5 min | Hook | Review the 3 Do Nots: Don't pay/negotiate, don't delete evidence, don't panic alone. Ask students why each rule matters with real examples. |
-| 5-12 min | Direct Instruction | Explain the psychology behind each rule: (1) Paying leads to more demands — the scam is a business, not a one-time event, (2) Deleting evidence loses the username and message timestamps, (3) Panic leads to impulsive decisions like paying immediately. |
-| 12-22 min | Scenario Workshop: "Complex Cases" | Students receive advanced scenarios: (1) Scammer threatens to post video at 6 PM but it's already 5:58, (2) Scammer asks for $50 via crypto wallet, (3) Scammer sends a screenshot of the student with a friend's face. Groups decide which Do Nots apply and why. |
-| 22-32 min | Group Presentations | Each group presents one scenario and their reasoning. Teacher facilitates discussion on edge cases and trade-offs. |
-| 32-50 min | Wrap-Up & Exit Ticket | Students write: "Which rule is hardest to follow in the moment? Why? Give one example where you might break a rule intentionally." |
+| 0-5 min | Hook | Review the protocol from memory: **don't pay**, **don't reply**, **don't delete**, **tell** a trusted adult. Ask students why each move exists before naming any of them. |
+| 5-12 min | Direct Instruction | Explain the reasoning behind each move: (1) Paying funds escalation — the scam is a business, and payment proves the victim will pay again; (2) Replying re-opens the channel and gives the scammer more material, so screenshot and block instead; (3) Deleting destroys the username, timestamps, and messages that police and takedown services need; (4) Telling is the move that ends the isolation the scammer depends on. |
+| 12-22 min | Scenario Workshop: "Complex Cases" | Students receive advanced scenarios: (1) Scammer threatens to post video at 6 PM but it's already 5:58, (2) Scammer asks for $50 via crypto wallet, (3) Scammer sends a screenshot of the student with a friend's face, (4) A "recovery agent" offers to get the money back for a fee. Groups decide which moves apply, in what order, and who they tell. |
+| 22-32 min | Group Presentations | Each group presents one scenario and their reasoning. Teacher facilitates discussion on edge cases and trade-offs — including why containment (changing exposed passwords, locking socials) happens *after* telling, never instead of it. |
+| 32-50 min | Wrap-Up & Exit Ticket | Students write the four moves from memory and one sentence they would say out loud to a trusted adult. |
 
 **Materials:** Projector, scenario workshop packets (printed), blank paper for analysis, timers
 

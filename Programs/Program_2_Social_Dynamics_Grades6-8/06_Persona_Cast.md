@@ -162,7 +162,7 @@ The Cyber Squad doesn't disappear — it becomes **the origin story**:
 | S3: The Clone Game | **Echo** | Static (safe word setup) | Memo: "Voice pack v4 live. Push the fake-urgent-parent script." |
 | S4: Spot the Fake | **Lens** | Ghost (photo harvesting) | Memo: "Deepfake kit updated — hands still fail QA. Avoid close-ups." |
 | S5: Sextortion Basics 🛑 | **Vault** | Static, Cipher (procedure framing only) | Memo shown as *evidence*, annotated: "Step 1 of their playbook — here's where victims can still exit." |
-| S6: The 3 Do Nots 🛑 | **Vault** | Static | Memo: "Reminder to all desks: victims who pay get escalated. Do not reward hesitation." |
+| S6: The 3 Do Nots + Tell 🛑 | **Vault** | Static | Memo: "Reminder to all desks: victims who pay get escalated. Do not reward hesitation." |
 | S7: Quickie Cards | **Static** | All crew (one tip each) | — (no memo this week; the lesson is about *students'* tools, not the enemy's) |
 | S8: Case Studies 🛑 | **Vault + Cipher** | Lens/Echo as needed per case | Full playbook exposed, step by step, exit points marked |
 | S9: Full Spectrum Drill | **Cipher** (incident commander) | All crew score their own domain | The drill *is* the syndicate's playbook, live |

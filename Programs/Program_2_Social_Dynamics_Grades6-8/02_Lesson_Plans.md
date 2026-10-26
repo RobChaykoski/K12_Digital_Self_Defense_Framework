@@ -73,7 +73,7 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 
 **Materials:** vignette printout, question slips, counsellor present.
 
-## Session 6: "The 3 Do Nots" — Sextortion Protocols 🛑 (45 min)
+## Session 6: "The 3 Do Nots + Tell" — Sextortion Protocols 🛑 (45 min)
 **In this session:** Vault leads; Static.
 **Objective:** Apply DON'T pay / DON'T reply / DON'T delete + tell a trusted adult. *(Counsellor present.)*
 

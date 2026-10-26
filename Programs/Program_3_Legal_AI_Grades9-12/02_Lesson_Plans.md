@@ -87,13 +87,13 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 
 **Materials:** business-model diagram (D5), law summary sheet (D6), slips.
 
-## Session 7: "The 3 Do Nots Deep Dive" — Protocols in Action 🛑 (50 min)
+## Session 7: "The 3 Do Nots + Tell" — Protocols in Action 🛑 (50 min)
 **In this session:** Vault + Clause lead; Static (reporting map).
 **Objective:** Execute the full victim protocol including evidence preservation and reporting decisions. *(Counsellor present.)*
 
 | Time | Activity |
 |------|----------|
-| 10 min | Recap the 3 Do Nots at adult depth: why paying funds escalation • why replying re-establishes contact • why deletion destroys the evidence chain police need. Add the fourth move: **contain** — change passwords on exposed accounts, lock socials, warn close friends in advance so a leak doesn't also become a phishing event. |
+| 10 min | Recap the 3 Do Nots + Tell at adult depth: why paying funds escalation • why replying re-establishes contact • why deletion destroys the evidence chain police need • why telling a trusted adult ends the isolation the scammer depends on. Then the follow-up move once the student has told someone: **contain** — change passwords on exposed accounts, lock socials, warn close friends in advance so a leak doesn't also become a phishing event. Containment supports the protocol; it never replaces Tell. |
 | 20 min | **Protocol gauntlet:** 3 full scenarios run end-to-end (demand → escalation → fake authority → attempted re-contact weeks later). Teams produce the complete response file: timeline log, evidence screenshots list, exact report text for Cybertip.ca/police, containment checklist. Teacher + counsellor audit each file against a rubric. |
 | 10 min | **The reporting decision tree:** when to call police vs. report online (images of minors → always reportable; threats against safety → police now; everything else → Cybertip first). Who can report: the victim, a parent, or anyone with evidence — anonymity options explained. |
 | 5 min | Silent reflection + slips. Counsellor availability signalled clearly for the rest of the week. |

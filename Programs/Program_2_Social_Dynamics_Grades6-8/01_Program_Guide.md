@@ -42,7 +42,7 @@ By the end of Program 2, students will be able to:
 | 3 | S3: The Clone Game — Voice Cloning & AI Audio |
 | 4 | S4: Spot the Fake — Visual Deepfakes & AI Images |
 | 5 | S5: Sextortion Basics — Stranger Danger in Gaming Chats 🛑 *(counsellor present)* |
-| 6 | S6: The 3 Do Nots — Sextortion Protocols 🛑 |
+| 6 | S6: The 3 Do Nots + Tell — Sextortion Protocols 🛑 |
 | 7 | S7: Quickie Cards — Discreet Resource Handouts |
 | 8 | S8: Sextortion Case Studies — Real-World Examples 🛑 |
 | 9 | S9: Full Spectrum Drill — Using All Skills |

@@ -131,7 +131,7 @@ The business from Program 2 didn't get caught — it **grew up**. The escalation
 | S4: Deepfake Detection Lab | **Lens** | Ghost (source-image tracing) | Memo: "Kit v9 — teeth QA still failing. Route close-ups to manual pass. Dwell-time targets unchanged." |
 | S5: Audio Forensics | **Echo** | Lens (lip-sync frame analysis crossover) | Memo: "Lip-sync offset under 2 frames on 60% of outputs. Victims who check audio first lose the call — push video-first scripts." |
 | S6: Sextortion Syndicates 🛑 | **Vault + Clause** | Ledger (payment rails), Static | Full playbook exposed with offence mapping per step; Ledger Division flowchart shown as *evidence* |
-| S7: The 3 Do Nots Deep Dive 🛑 | **Vault + Clause** | Static (reporting map) | Memo: "Escalation tier 3 live for non-responders. Reminder: victims who pay get re-tiered, not released." |
+| S7: The 3 Do Nots + Tell 🛑 | **Vault + Clause** | Static (reporting map) | Memo: "Escalation tier 3 live for non-responders. Reminder: victims who pay get re-tiered, not released." |
 | S8: Crypto Scam Basics | **Ledger** | Cipher (intro), Patch (guest — gift cards as cash-out) | The session *is* the Ledger Division's playbook, turned inside out with Money Maps |
 | S9: Social Media Algorithms | **Signal** | Ghost (paid amplification) | Memo: "Amplification budget up 30% around school-age cohorts. Rage-loop content outperforming neutral 4:1." |
 | S10: The Wild West Simulation | **Cipher** (incident commander) | All specialists score their domain; Signal runs the feed thread, Ledger runs the "you already paid" thread | Students respond to live syndicate script tiers across mixed platforms under time pressure |

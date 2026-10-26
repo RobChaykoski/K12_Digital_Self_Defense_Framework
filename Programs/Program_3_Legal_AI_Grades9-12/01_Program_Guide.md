@@ -42,7 +42,7 @@ By the end, students will be able to:
 | 4 | Deepfake Detection Lab — Visual Forensics | AI Forensics |
 | 5 | Audio Forensics — Cloned Voice & Lip-Sync Errors | AI Forensics |
 | 6 | Sextortion Syndicates — The Business Behind the Scam 🛑 | Legal & Exploitation |
-| 7 | The 3 Do Nots Deep Dive — Protocols in Action 🛑 | Legal & Exploitation |
+| 7 | The 3 Do Nots + Tell — Protocols in Action 🛑 | Legal & Exploitation |
 | 8 | Crypto Scam Basics — Rug Pulls, Airdrops & Pump-and-Dump | Money |
 | 9 | Social Media Algorithms — Echo Chambers & Engagement Bait | Manipulation |
 | 10 | The Wild West Simulation — Multi-Platform Scenario | Integration |
