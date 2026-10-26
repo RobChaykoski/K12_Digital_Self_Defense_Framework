@@ -54,7 +54,7 @@ By the end of Program 2, students will be able to:
 
 ## 🔗 ECNO / Curriculum Alignment
 - Ontario curriculum: *Media and Information Literacy* — evaluating online identities, privacy & security, recognizing manipulated media; *Health* — healthy relationships, coercion, and asking for help
-- Full crosswalk in `../ECNO_Alignment_Guide.md`
+- Full crosswalk in `../../ECNO_Alignment_Guide.md`
 
 ---
 

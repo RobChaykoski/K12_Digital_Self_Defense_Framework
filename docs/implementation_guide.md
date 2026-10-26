@@ -30,7 +30,7 @@ This guide provides step-by-step instructions for deploying the curriculum in sc
 
 ### Canvas
 1. Navigate to your course → **Settings** → **Import Course Content**
-2. Select `GitHub Repository` or upload PDF handouts from `exports/pdf/`
+2. Select `GitHub Repository`, upload the markdown handouts directly, or run `make pdf-export` first and upload the PDFs it writes to `exports/pdf/` (generated, not tracked)
 3. Create a module per session and attach:
    - `02_Lesson_Plans.md` (as Rich Text)
    - `07_CTF_Worksheets.md` (as File Upload or Page)
@@ -80,7 +80,7 @@ This guide provides step-by-step instructions for deploying the curriculum in sc
 ## Teacher Preparation
 
 1. **Review Lesson Plans** (`02_Lesson_Plans.md`) 48 hours before delivery
-2. **Print Worksheets** → `exports/pdf/` or copy-paste into LMS
+2. **Print Worksheets** → copy-paste into your LMS, or run `make pdf-export` to generate PDFs in `exports/pdf/`
 3. **Generate QR Codes** → Run `python scripts/generate_qr.py "URL" "filename.png"`
 4. **Set Up Flag Submission** → Create a Google Form, Microsoft Form, or custom landing page
 5. **Run a Dry-Run** → Complete the CTF challenge yourself to verify flag formats

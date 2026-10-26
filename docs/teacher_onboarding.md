@@ -128,7 +128,7 @@ A: Sessions build cumulatively. At minimum, teach Session 1 (Phishing/Link Sorti
 A: Open a [Bug Report Issue](https://github.com/RobChaykoski/K12_Digital_Self_Defense_Framework/issues/new?template=bug_report.md). Include file path and screenshot.
 
 **Q: Is there a certification for students?**  
-A: Yes! Upon completing all 7 sessions in a program, award the "Digital Self-Defense Certificate" (template provided in `assets/templates/`).
+A: Yes. Award the "Digital Self-Defense Certificate" on completing every session in a program — 6 sessions for Program 1 Track A (K–2), 8 for Track B (3–5), 10 for Program 2, and 12 for Program 3. The completion criteria and certificate wording are in each program's `05_Assessments_and_Materials.md`. Program 1 is explicit that everyone who completes the program receives the certificate — no child should feel they failed safety.
 
 ---
 

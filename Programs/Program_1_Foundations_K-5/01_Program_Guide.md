@@ -61,7 +61,7 @@ By the end of Program 1, students will be able to:
 ## 🔗 ECNO / Curriculum Alignment
 - **K–2:** Digital citizenship strands of Ontario's *Media and Information Literacy*; health curriculum (online safety as part of healthy relationships with technology)
 - **3–5:** Ontario curriculum expectations for *Thinking, Personal and Social Responsibility* in media literacy; safe online behaviour, privacy, and identifying misleading information
-- See `../ECNO_Alignment_Guide.md` for full crosswalks
+- See `../../ECNO_Alignment_Guide.md` for full crosswalks
 
 ---
 
