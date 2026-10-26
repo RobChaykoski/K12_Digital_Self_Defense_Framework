@@ -74,7 +74,7 @@
 4. A voice reading your name with slightly robotic rhythm → ______
 5. A photo of your school where the flag has nonsense symbols on it → ______ *(AI — flags/logos/text often come out wrong)*
 6. A handwritten letter from grandma with a smudged word → ______
-**The tell list:** extra fingers ☐ weird text/flags ☐ too-smooth faces ☐ sounds slightly off ☐ **Rule:** see/hear it ≠ real it.
+**The clue list (clues, not proof):** extra fingers ☐ weird text/flags ☐ too-smooth faces ☐ sounds slightly off ☐ **Rule:** see/hear it ≠ real it — ask where it came from, and check with an adult.
 
 ---
 
@@ -112,7 +112,7 @@ For each envelope message, tick every trick you find:
 1. **Phishing or Not?** (clue-spotting rounds)
 2. **Reel or Real?** (image judgment)
 3. **Lock Master** (passphrase rules — "which is stronger?" questions)
-4. **Robot or Human?** (AI tells)
+4. **Robot or Human?** (AI clues — clues, not proof)
 5. **The Scam Menu** (name the bait, name the catch)
 6. **Click or Don't** (link inspection under time pressure)
 *Teacher builds 4 questions per category from Handouts B1–B6; sample stems are in the handout rules.*

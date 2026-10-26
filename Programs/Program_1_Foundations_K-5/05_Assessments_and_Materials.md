@@ -20,11 +20,28 @@
 | **Email Detective Worksheet #1** | Session 1 | ≥4 of 6 correct with at least one valid clue per FAKE |
 | **Reel or Real sort** | Session 2 | ≥8 of 9 correct (answer key in Handout B2 notes) |
 | **Password Box + rule quiz** | Session 3 | Builds a valid passphrase; states all 3 lock rules |
-| **AI vs. Human sort** | Session 4 | ≥7 of 6–8 items correct; names at least one AI tell |
+| **AI vs. Human sort** | Session 4 | ≥5 of 6 items correct; names one clue and explains why a clue is not proof |
 | **Scavenger hunt log** | Session 7 | All 10 cards logged; ≥3 valid clues across the 4 fakes |
 | **Final scenario (S8)** | Session 8 | Correct decision + reasoning in 30 seconds → certification |
 
 **Certification criteria (Track B):** pass final scenario AND complete ≥6 of 8 exit tickets. Everyone who completes the program receives the certificate; the "Detective of the Term" badge is optional recognition, not a filter — **no child should feel they failed safety.**
+
+---
+
+## 🚩 CTF Worksheets
+
+`07_CTF_Worksheets.md` holds six short challenges. They are formative: use them inside the session or as an optional extension, not as the certification gate.
+
+| Worksheet | Session | What it practises |
+|-----------|---------|-------------------|
+| The Password Lockbox | Track A, S2 | Passphrase idea without writing a real password |
+| Link Lab Sorting | Track A, S3 | Green vs. red buttons and where a link really goes |
+| Social Media Mood Tracker | Track A, S4 | Noticing how a feed makes you feel |
+| Digital Footprint Trail | Track A, S5 | What stays online |
+| The Phishing Post Office | Track B, S1 | Sender, urgency, and link clues |
+| AI Art Detective | Track B, S4 | Noticing clues and checking with an adult — clues are not proof |
+
+Flags are teacher-facing answers, not a score. The format and rubric are documented in [docs/ctf_scoring_rubric.md](../../docs/ctf_scoring_rubric.md).
 
 ---
 
@@ -34,6 +51,7 @@
 - [ ] Mask prop + 10 green/red scenario cards × class size
 - [ ] Paper padlock templates + crayons
 - [ ] Large button cards (8–10) + green/red floor markers
+- [ ] CTF worksheets from `07_CTF_Worksheets.md` printed for the sessions being taught (optional extension)
 - [ ] "My Day" wheel templates + coloured pencils
 - [ ] Washable paint, paper strips, stamps (footprint art)
 - [ ] Sticker badges, cape templates, certificates
@@ -42,6 +60,7 @@
 ### Track B (3–5)
 - [ ] Projector + sample email slides (Session 1)
 - [ ] Handouts B1–B8 printed (worksheet, card sorts, link cards, log sheets, Jeopardy questions)
+- [ ] CTF worksheets from `07_CTF_Worksheets.md` printed for the sessions being taught (optional extension)
 - [ ] Cardboard boxes + word cards for Password Box
 - [ ] Mystery Message Envelope kits × number of groups (4 message props each)
 - [ ] Warning-label stickers

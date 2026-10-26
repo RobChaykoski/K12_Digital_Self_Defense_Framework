@@ -62,7 +62,7 @@ This principle is **developmentally adaptive**:
 - Before downloading anything
 - Before entering a password
 - When a social media post makes them feel inadequate
-- When an AI image or video looks "off"
+- When an AI image or video surprises you
 - When a notification causes a quick emotional reaction (excitement, fear, FOMO)
 
 **Teacher Script:**
@@ -85,7 +85,7 @@ This principle is **developmentally adaptive**:
 - Before sending a photo or video
 - Before accepting a friend request
 - Before commenting on a heated post
-- When a game voice chat sounds "robotic"
+- When a game voice chat sounds strange — verify through another channel rather than judging by ear
 - Before entering personal info on a new website
 - When multiple notifications fire at once (FOMO storm)
 
@@ -154,16 +154,17 @@ Before any action online, count to 4. In those 4 seconds, ask:
 
 ### Deepfake / AI Context
 - [ ] **STOP** — Before sharing or reacting to unusual media
-- [ ] **THINK** — Are there unnatural details? (Hands, lighting, lip-sync)
-- [ ] **THINK** — Does the story match known facts?
-- [ ] **ASK** — Check official sources before accepting
+- [ ] **THINK** — Where did this come from? Who published it first?
+- [ ] **THINK** — Does an independent source report the same thing?
+- [ ] **THINK** — Are there visual or audio clues? Treat them as clues, not proof
+- [ ] **ASK** — Check the original source before accepting or sharing
 - [ ] **BREAK** — If confused, come back with fresh eyes
 
 ### Sextortion Context
-- [ ] **STOP** — Before paying or responding
-- [ ] **THINK** — Can I afford it? Will they ask again?
-- [ ] **THINK** — Did I send the original photo publicly or privately?
-- [ ] **ASK** — Screenshot before blocking/reporting
+- [ ] **DON'T PAY** — Paying proves you will pay again; it never ends the demands
+- [ ] **DON'T REPLY** — Screenshot first, then block; any reply feeds them
+- [ ] **DON'T DELETE** — The messages and username are evidence police and takedown services need
+- [ ] **TELL** — Tell a trusted adult, then report to Cybertip.ca (and Take It Down if images are involved)
 - [ ] **BREAK** — Remember: one person's opinion ≠ your worth
 
 ### Crypto / Money Context

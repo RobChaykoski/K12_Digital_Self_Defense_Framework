@@ -40,7 +40,7 @@ This term, your child joins **Digital Foundations** — a K–Grade 5 program th
 | 1 | Show them a real phishing email you've received (blacked out) and ask them to find the clues. Or use Handout B1 at the kitchen table. |
 | 2 | Watch one influencer post together. Ask: "Reel or Real? What's missing from this picture of their life?" |
 | 3 | Have them build a passphrase with you (3 random words + number/symbol). Change ONE family account to it if appropriate. Never write it on the box! |
-| 4 | Show them an AI image (or generate one together, clearly labelled). Ask: "What gives it away?" Practice the tell list. |
+| 4 | Show them an AI image (or generate one together, clearly labelled). Ask: "Where might this have come from?" Then look for clues together — and say out loud that clues are not proof. |
 | 5 | Hunt for one real scam ad together (search "free [game] codes"). Point out every trick on the checklist. |
 | 6 | Next time they're about to tap a link from a message, pause together: hover/read first. Make it a family habit. |
 | 7 | Play the scavenger hunt at home: hide 3 note cards (2 real, 1 scam) around the house. |
