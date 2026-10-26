@@ -26,13 +26,13 @@ Inspect the URL. The flag is hidden in the discrepancy: `flag{spot_the_fake_link
 
 > ⚠️ **Do not score yourself on whether you could hear the difference.** Current voice cloning is often indistinguishable by ear. That is exactly why the rule is *verify through another channel* — not *listen harder*.
 
-| Clip ID | Real or AI? | Safe Word Used? | Tell Found |
-|---------|:-----------:|:---------------:|------------|
+| Clip ID | Real or AI? | Safe Word Used? | Clue noticed (not proof) |
+|---------|:-----------:|:---------------:|--------------------------|
 | A       | [ ] Real [ ] AI | [ ] Yes [ ] No | _________________________ |
 | B       | [ ] Real [ ] AI | [ ] Yes [ ] No | _________________________ |
 
 **🏆 CTF Challenge:**  
-The correct audio file's waveform visualization contains a QR code. Scan it for: `flag{safe_word_verified}`.
+The verification checklist handout for this session contains a QR code. Scan it for: `flag{safe_word_verified}`.
 
 ---
 

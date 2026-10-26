@@ -9,7 +9,7 @@
 | Scam Sort accuracy (S1) | Session 1 | Platform-specific scam recognition |
 | MFA checklist completion (S2) | Session 2 + home | Real-world skill transfer |
 | Clone-or-Real votes (S3) | Session 3 | Audio skepticism |
-| Deepfake evidence reports (S4) | Session 4 | Use of the tell list with justification |
+| Deepfake evidence reports (S4) | Session 4 | Source trace, corroboration, and clues used as supporting evidence with stated limits |
 | Protocol role-play rubric (S6) | Session 6 | Correct sequence + calm delivery |
 | Quickie Card completeness (S7) | Session 7 | Trusted-adult map exists (private check: nobody wrote "no one") |
 | Case timeline jigsaw (S8) | Session 8 | Identifies hook/isolation/escalation points |
@@ -21,9 +21,24 @@
 ## Answer Key — Drill Scenarios (Session 9)
 1. **Free Skins:** don't click • check domain (win-skins[.]com is look-alike) • report the user • tell an adult if pressured.
 2. **Voice Note:** safe word check • verify by text/call first • tell a parent immediately • never send money on urgency alone.
-3. **Shocking Video:** don't share • apply tell list / reverse image search • tell an adult • assume fake until verified.
-4. **Roblox Escalation:** 3 Do Nots (no pay/reply/delete) • screenshot evidence • Cybertip.ca + Take It Down if images • tell an adult same day.
+3. **Shocking Video:** don't share • trace the source / reverse image search • treat visual artefacts as clues • tell an adult • assume fake until verified.
+4. **Roblox Escalation:** 3 Do Nots + Tell (no pay / no reply / no delete / tell a trusted adult) • screenshot evidence • Cybertip.ca + Take It Down if images.
 5. **Hacked Email:** MFA check • password reset with parent • warn friends so they don't click • review what info the account held.
+
+## 🚩 CTF Worksheets
+
+`07_CTF_Worksheets.md` holds six challenges. They are formative practice; the primary assessment stays the Full Spectrum Drill in Session 9.
+
+| Worksheet | Session | What it practises |
+|-----------|---------|-------------------|
+| Discord Drop | S1 | URL inspection and look-alike domains |
+| Wi-Fi Whisperer | S2 | Why unencrypted traffic exposes credentials |
+| Voice of the Family | S3 | Safe-word verification instead of listening for tells |
+| Sextortion Station | S6 | Ordering the four moves correctly |
+| The Encrypted DM | S9 | Base64 and Caesar decoding |
+| Cyberbullying Cipher Decode | Digital Wellness extension | Decoding and the school's reporting pathway |
+
+Flags are teacher-facing answers, not a score. The format and rubric are documented in [docs/ctf_scoring_rubric.md](../../docs/ctf_scoring_rubric.md).
 
 ## Materials Checklist
 - [ ] Scenario card sets C1 (48 cards, 4 platforms) — printed on card stock
@@ -35,6 +50,7 @@
 - [ ] Quickie Card stock + markers (S7)
 - [ ] Case packets C6 × 3 sets + timeline templates (S8)
 - [ ] Drill cards C7 large-print + timers (S9)
+- [ ] CTF worksheets from `07_CTF_Worksheets.md` printed for the sessions being taught
 - [ ] Gymkhana station setup, certificates, reflection slips (S10)
 - [ ] **Guidance counsellor booked for Sessions 5–8**
 - [ ] Parent toolkit printed (one per family) + Family Pledge page

@@ -17,7 +17,7 @@ Your kid is now in the **social pressure zone**. The threats are no longer carto
 | 1 | Talk about a game your kid plays: what would a scammer offer in it? |
 | 2 | Help them turn on MFA for one important account (checklist C2) |
 | 3 | Agree on the family safe word together |
-| 4 | Watch a labelled deepfake video together; hunt for tells with the tell list |
+| 4 | Watch a labelled deepfake video together; trace where it came from, then note clues — and say out loud that clues are not proof |
 | 5 | Read the sextortion basics page together — then let them ask questions without judgment |
 | 6 | Pick their 3 trusted adults (you should be one) |
 | 7 | Practise the code phrase once, casually |

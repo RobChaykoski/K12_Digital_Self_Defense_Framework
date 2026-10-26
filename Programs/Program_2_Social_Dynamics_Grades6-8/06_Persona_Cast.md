@@ -41,8 +41,8 @@ The Cyber Squad doesn't disappear — it becomes **the origin story**:
 | 1 | **Cipher** | Incident commander / CTF captain | Trust but verify — the whole method | S1, S8, S9, S10 |
 | 2 | **Patch** | Security engineer (MFA, account hardening) | Lock It Down — passphrases + MFA | S2 |
 | 3 | **Echo** | Audio forensics analyst | Voice cloning — "a call from dad" can be fake | S3 |
-| 4 | **Lens** | Visual forensics / deepfake detection | Spot the Fake — 3+ tells, verify before you share | S4 |
-| 5 | **Vault** | Digital forensics / chain of custody | The 3 Do Nots — preserve evidence, never delete first | S5, S6, S8 |
+| 4 | **Lens** | Visual forensics / media verification | Spot the Fake — trace the source, then note clues; verify before you share | S4 |
+| 5 | **Vault** | Digital forensics / chain of custody | The 3 Do Nots + Tell — preserve evidence, never delete first | S5, S6, S8 |
 | 6 | **Static** | Comms officer (discreet channels) | The safe word + Quickie Cards + help lines | S7 (closes every session) |
 | 7 | **Ghost** | OSINT analyst | Your public posts are a dossier on you — footprint & doxxing | S1, S4 (guest), family missions |
 | ⚠️ | **The Glitch Syndicate** | Real-world scam syndicates | The organized business behind every scam | Every session (as the threat) |
@@ -80,10 +80,10 @@ The Cyber Squad doesn't disappear — it becomes **the origin story**:
 
 - **Who:** 17, the crew's oldest and its quietest. Lives half the time with headphones on. Desk is a tangle of cables and one very good microphone they refuse to let anyone touch ("It's calibrated. Don't.")
 - **Personality:** Speaks in short sentences; when they're excited it's terrifying because you can barely tell. Has a running bit: they will *always* ask a new person their "verification word" as a joke — and then, in S3, reveal that was the whole lesson.
-- **Superpower:** **The Waveform** — can look at any audio clip (on a big screen) and show the tells of a clone: too-perfect pitch, weird breaths (or none), timing that's slightly robotic, words said *almost* right.
+- **Superpower:** **The Waveform** — can put an audio clip on a big screen and point out anomalies: too-perfect pitch, missing breaths, timing that feels robotic. Also knows the limit: waveform anomalies are *clues*, and better generators erase them.
 - **Owns the concept:** Voice cloning — including the specific threat from the campaign: cloned voices used in prank calls and "freemium" game-currency scams, and (for the family mission) the fake-emergency call targeting parents. Owns **the Family Safe Word** as a countermeasure: an offline phrase only your real family knows, that no clone can guess.
 - **Catchphrase:** *"If it sounds perfect… ask the question only the real them could answer."*
-- **In lessons:** Stars S3 — runs the live demo (a clearly-labelled cloned clip of a cartoon character), teaches the waveform tells, and leads the class in writing their family safe word. The "verification word" bit pays off: students realize they've been practicing the defence since the hook.
+- **In lessons:** Stars S3 — runs the live demo (a clearly-labelled cloned clip of a cartoon character), uses the waveform to show why listening is unreliable, and leads the class in writing their family safe word. The "verification word" bit pays off: students realize they've been practising the defence since the hook.
 - **Design notes:** Headphones are the logo. Echo is always shown *listening*, not talking — that's the whole personality in one pose.
 
 ---
@@ -94,7 +94,7 @@ The Cyber Squad doesn't disappear — it becomes **the origin story**:
 - **Who:** 15, part photographer, part skeptic. Carries a camera everywhere and has a phone folder called "caught in 4K" full of fakes they've spotted and dissected. Wears one airpud at all times ("for calibration").
 - **Personality:** Fast-talking, slightly show-offy — but the class quickly learns their shows are *always right*, which earns them respect. Has a rule they tattoo on every worksheet: **"Surprising + Unverified = Not shared."**
 - **Superpower:** **The Zoom** — can take any image and walk through the forensic checklist with it: hands and fingers, teeth, text that's slightly wrong, lighting that doesn't match, edges around faces, reflections that lie.
-- **Owns the concept:** Visual deepfakes & AI images — at least 3 tells, plus the *behavioural* skill that matters more than any tell: **verify surprising media before you share it** (DM the person, check a second source). Also co-stars with Ghost on "how syndicates harvest your own photos to build fake profiles."
+- **Owns the concept:** Visual deepfakes & AI images — the *behavioural* skill that matters more than any artefact: **trace the source of surprising media and verify before you share it** (find the original, check a second source). Visual glitches are supporting clues, never a verdict. Also co-stars with Ghost on "how syndicates harvest your own photos to build fake profiles."
 - **Catchphrase:** *"Zoom in. Lies have edges."*
 - **In lessons:** Stars S4 — runs the Real-or-Robot image sort (upgraded from Track B's Pixel game: these are *harder*, closer to real), teaches the "caught in 4K" dissection method, and sets the verify-before-sharing rule that recurs in S9's drill.
 - **Design notes:** Camera strap is always on; one airpud always visible. Their aesthetic is "street photographer," not "tech bro" — denim, canvas, scuffed boots.
@@ -107,7 +107,7 @@ The Cyber Squad doesn't disappear — it becomes **the origin story**:
 - **Who:** 16, the crew's calmest person and the one students in crisis situations respond to most. Short sentences. Never flinches. Keeps a real evidence bag and evidence tags on their desk as props, and treats them with total seriousness.
 - **Personality:** The reason this character exists: in Block B, kids need an adult-coded figure who is **boring about the scary stuff.** Vault explains sextortion the way someone explains a fire drill — steps, roles, practice. No adjectives. No judgement. If a student discloses, Vault's scripted response is: *"Okay. You did the right thing telling us. Here's step one."*
 - **Superpower:** **Chain of Custody** — can take any incident and turn it into preserved, usable evidence: screenshot *before* you block, capture usernames and timestamps, save links, never delete "to make it go away," hand it to a professional (parent/counsellor → Cybertip.ca).
-- **Owns the concept:** **The 3 Do Nots** — DON'T pay, DON'T reply, DON'T delete (preserve evidence) — plus tell a trusted adult. Also owns the case-study method in S8: walks through an anonymized real syndicate case step by step and marks *exactly where the victim could still have exited.*
+- **Owns the concept:** **The 3 Do Nots + Tell** — DON'T pay, DON'T reply, DON'T delete (preserve evidence) — then TELL a trusted adult. Also owns the case-study method in S8: walks through an anonymized real syndicate case step by step and marks *exactly where the victim could still have exited.*
 - **Catchphrase:** *"Evidence first. Feelings later — both matter, but evidence doesn't wait."*
 - **In lessons:** The lead voice of all 🛑 sessions (alongside the counsellor). Vault's presence is a *signal to students*: when Vault is on screen, this is procedure training, nothing is shameful, and help is a process with steps. In S9's drill, Vault scores the evidence-preservation responses.
 - **Design notes:** Plain clothes, no logo — deliberately the least "cool-styled" character, because the point is that reliability looks ordinary. The evidence bag is their only prop and it must appear in every Block B illustration.
@@ -146,7 +146,7 @@ The Cyber Squad doesn't disappear — it becomes **the origin story**:
 - **Why an organization (pedagogy):**
   1. Matches reality — sextortion and account-takeover scams are run by professional syndicates (per the campaign's organized-scheme framing).
   2. Removes shame — the victim is never outsmarted by "a person like them"; they're processed by a *business with a playbook*, and playbooks can be memorized and beaten.
-  3. Makes the 3 Do Nots logical — you don't negotiate with a call center. Paying doesn't end it; it upgrades your account tier.
+  3. Makes the 3 Do Nots + Tell logical — you don't negotiate with a call center. Paying doesn't end it; it upgrades your account tier.
 - **How it appears on screen:** Never as a monster. As *documents* — the playbook (with its steps exposed and annotated by Cipher), the script templates, the "quality control" checklist where scammers rate each other. The horror is in how *boring* and *professional* it is. That's what makes students actually listen at 12.
 - **The running thread:** Every session ends with one line of syndicate "internal memo" text on screen (e.g., S3: *"New voice pack deployed — clone quality up 40%. Reminder: victims who verify lose the call. Push harder before they ask the safe question."*) Students learn to read the attacker's side of the board.
 - **Tagline (S10, printed on the certificate back):** *"The Glitch Syndicate has a playbook. Now you do too."*
@@ -178,7 +178,7 @@ In S5–S8, characters are **reduced to Vault + Static**, with Cipher limited to
 ### Printables & Props Checklist
 - [ ] One-page "Dossier" intro sheet (crew roster + Cipher's keychain detail) — printed Week 1
 - [ ] Patch's *Famous Weak Passwords Hall of Shame* poster (printable, black/white OK)
-- [ ] Echo's waveform handout: real vs. cloned audio screenshots with tells circled
+- [ ] Echo's waveform handout: real vs. cloned audio screenshots with anomalies circled and a note that they are clues, not proof
 - [ ] Lens's "Zoom In" forensic checklist card (pocket-size — becomes part of the Quickie Card set in S7)
 - [ ] Vault's evidence bag + tag props for the classroom (real, physical — students handle them in S6)
 - [ ] Static's Quickie Card template (students design their own in S7; final cards printed on index-card stock)

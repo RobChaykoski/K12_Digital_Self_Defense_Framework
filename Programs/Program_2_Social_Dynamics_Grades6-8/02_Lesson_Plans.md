@@ -27,7 +27,7 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 | 5 min | Hook: "Your passphrase is the lock. What happens when a scammer steals it?" (Credential stuffing — they try stolen passwords everywhere.) |
 | 10 min | Teach MFA in one metaphor: *the lock AND the guard dog.* Even with the key, no one gets in without the second check. Show: SMS codes (okay), authenticator apps (better), hardware keys (best). |
 | 20 min | **Lab:** on demo/school accounts (IT-approved), students enable MFA step by step: settings → security → add method → test a login from an incognito window. Checklist worksheet as they go. *(No-lab version: guided screenshots walkthrough + students do it at home with a parent this week — Home Mission 2.)* |
-| 5 min | Account hygiene sweep: unique passphrase per important account, privacy settings to strictest, review who's in their friends list. |
+| 5 min | Account hygiene sweep: unique passphrase per important account, privacy settings to strictest, review who's in their friends list — and never type a password on public or shared Wi-Fi without checking the connection, because unencrypted traffic is readable on the same network. |
 | 5 min | Exit ticket + assign the home MFA mission. |
 
 **Materials:** lab machines or screenshot pack (Handout C2), checklist worksheet, IT-approved demo accounts.
@@ -39,8 +39,8 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 | Time | Activity |
 |------|----------|
 | 5 min | Hook: play a 10-second AI-voice clip of a famous person saying something absurd. Real? |
-| 10 min | Teach: 30 seconds of someone's voice can train a clone. The classic scam: *"It's me dad, I'm in trouble, send money right now."* Urgency + emotion = the tell. Rule: **never act on an audio request; verify by another channel.** |
-| 15 min | **Clone or Real?** Audio round: 8 clips (clips of public figures/cartoon voices, clearly labelled as practice material). Teams vote CLONE/REAL, then reveal. Discuss tells: rhythm, breaths, emotion slightly off, background silence too clean. |
+| 10 min | Teach: 30 seconds of someone's voice can train a clone. The classic scam: *"It's me dad, I'm in trouble, send money right now."* Urgency and emotion are the pressure points. Rule: **never act on an audio request; verify by another channel.** |
+| 15 min | **Clone or Real?** Audio round: 8 clips (clips of public figures/cartoon voices, clearly labelled as practice material). Teams vote CLONE/REAL, then reveal. The point is *not* who guessed right: most listeners cannot reliably tell. Discuss why the safe word and call-back are the control, and treat any audible artefacts as clues only. |
 | 10 min | Family protocol: create a **family safe word** for exactly this scenario (details in S7; here students just draft one to confirm with their family). |
 | 5 min | Exit ticket: *If "mom" called asking for money urgently, my first move is ______.* (verify another channel / safe word) |
 
@@ -48,15 +48,15 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 
 ## Session 4: "Spot the Fake" — Visual Deepfakes & AI Images (45 min)
 **In this session:** Lens leads; Ghost.
-**Objective:** Spot visual deepfakes using at least 3 tells; verify before sharing.
+**Objective:** Verify surprising media before sharing; treat visual glitches as clues rather than proof.
 
 | Time | Activity |
 |------|----------|
-| 5 min | Hook: show a clearly-labelled celebrity deepfake video. "Find the fakes in my face." |
-| 10 min | Teach the **Deepfake Tell List**: ✋ hands/teeth/jewelry glitches • 👁️ eyes (blinking, reflections) • 🪞 hair edges & lighting mismatches • 📝 text/logos garbled • ⏱️ motion smearing • 🔊 audio out of sync. Plus process tells: where did it come from? who benefits? |
-| 15 min | **Forensics lab:** 6 images (3 real, 3 AI/deepfake — all clearly-labelled public material, NO classmates). Teams use zoom + the tell list to write their evidence report like detectives. Reveal + compare reports. *(Optional: try a free deepfake-detection tool if devices allow.)* |
+| 5 min | Hook: show a clearly-labelled celebrity deepfake video. "Before we decide if this is real, what would we need to know about where it came from?" |
+| 10 min | Teach the order of checks: **source** (who published it first?), **reverse image search**, **corroboration** (does an independent outlet report it?), then **clues**. The clue list: ✋ hands/teeth/jewellery glitches • 👁️ eyes (blinking, reflections) • 🪞 hair edges & lighting mismatches • 📝 text/logos garbled • ⏱️ motion smearing • 🔊 audio out of sync. Say plainly: generators improve every year, and compressed real photos produce the same artefacts — clues are not proof. |
+| 15 min | **Forensics lab:** 6 images (3 real, 3 AI/deepfake — all clearly-labelled public material, NO classmates). Teams trace the source where possible, run a reverse image search, note clues as supporting evidence, and write an evidence report that states what the evidence does *not* prove. Reveal + compare reports. *(Optional: try a free deepfake-detection tool if devices allow — then discuss why a score is not a verdict.)* |
 | 5 min | The sharing rule: *surprising media about a real person → verify before you share; if you can't verify, don't share.* |
-| 5 min | Exit ticket: name 3 tells. |
+| 5 min | Exit ticket: name one source check, one clue, and one thing the evidence cannot prove. |
 
 **Materials:** labelled image set (Handout C3), evidence report sheets, optional detection tool access.
 
@@ -82,7 +82,7 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 | 10 min | Teach the protocol as **first aid**: 🚫 **DON'T PAY** (paying never stops it — it proves you'll pay) • 🚫 **DON'T REPLY** (any reply feeds them; silence + block is the move) • 🚫 **DON'T DELETE** (screenshots = evidence for police and takedown services). Then: **TELL** a trusted adult, and report (Cybertip.ca / Take It Down if images are involved). |
 | 15 min | **Protocol role-play:** 4 stations, each a scripted scenario (money demand, "send one more or I post it", fake police demanding payment, the scammer threatening classmates). Pairs practise the exact words: *"I'm not paying. I'm blocking you. I've told my [adult]."* Counsellor circulates. |
 | 10 min | The trusted-adult map: each student privately writes down 3 adults they could actually tell (family, counsellor, teacher) + the safe word from S3. Kept in their Quickie Card (S7). |
-| 5 min | Exit ticket: the 3 Do Nots + the one sentence you say out loud. |
+| 5 min | Exit ticket: the 3 Do Nots + Tell and the one sentence you say out loud. |
 
 **Materials:** station scripts (Handout C4), protocol poster.
 
@@ -93,7 +93,7 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 | Time | Activity |
 |------|----------|
 | 10 min | Why discretion matters: sometimes you can't say "I need help" out loud in front of your brother. Teach the **code phrases**: "Can we get pizza?" / "I need my charger" = *I need to talk to you privately about something online.* Families practise this week (Home Mission 7). |
-| 15 min | Build the **Quickie Card** (Handout C5): front = the 3 Do Nots + code phrase; back = my 3 trusted adults, family safe word, Cybertip.ca / NeedHelpNow.ca / Take It Down. Laminate or write on card stock; it fits in a pocket or wallet. |
+| 15 min | Build the **Quickie Card** (Handout C5): front = the 3 Do Nots + Tell and code phrase; back = my 3 trusted adults, family safe word, Cybertip.ca / NeedHelpNow.ca / Take It Down. Laminate or write on card stock; it fits in a pocket or wallet. |
 | 10 min | Walk through each resource out loud: what it's for, that it's confidential, that calling/reporting is NOT getting in trouble. |
 | 5 min | **The Real Thing** (Bloom's beat returns): in pairs, students share one unfiltered true thing from their week — the highlight reel isn't you. Static closes the loop: *kindness online is self-defense too — mean words travel as fast as kind ones, and the quiet channel works for someone else's problem, not just your own.* |
 | 5 min | Exit ticket: *My code phrase is ______ and my first trusted adult is ______.* (collected privately by teacher — check nobody wrote "no one") |
@@ -120,7 +120,7 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 | Time | Activity |
 |------|----------|
 | 5 min | Briefing: the drill mixes ALL threats — phishing, MFA failure, voice-clone call, deepfake video, sextortion attempt. Rules: work in pairs, 3 minutes per scenario card, write your response protocol on the sheet. |
-| 25 min | **The Drill** (Appendix: Scenario Drill Packet): 5 scenarios rotated across the room. Sample: *"You get a Discord DM from a 'moderator' with a free-skin link"* → hover/inspect, don't click, report user. *"A voice note from 'your brother' begs for gift cards NOW"* → safe word check, verify by text, tell parent. *"A classmate shares a shocking video of a teacher"* → don't share, tell an adult, it may be deepfake. *"Someone you met in Roblox now demands money after you sent a photo"* → 3 Do Nots, Quickie Card, Cybertip. *"Your email got hacked and friends are getting weird messages from it"* → MFA check, password reset, tell parent, warn friends. |
+| 25 min | **The Drill** (Appendix: Scenario Drill Packet): 5 scenarios rotated across the room. Sample: *"You get a Discord DM from a 'moderator' with a free-skin link"* → hover/inspect, don't click, report user. *"A voice note from 'your brother' begs for gift cards NOW"* → safe word check, verify by text, tell parent. *"A classmate shares a shocking video of a teacher"* → don't share, tell an adult, it may be deepfake. *"Someone you met in Roblox now demands money after you sent a photo"* → 3 Do Nots + Tell, Quickie Card, Cybertip. *"Your email got hacked and friends are getting weird messages from it"* → MFA check, password reset, tell parent, warn friends. |
 | 15 min | Debrief: which scenario was hardest? Where did pairs disagree? Lock in the one rule that covers everything: **when in doubt — stop, verify, tell an adult.** |
 
 **Materials:** drill packet (Handout C7), timers.
@@ -131,7 +131,7 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 
 | Time | Activity |
 |------|----------|
-| 15 min | **Gymkhana review:** 6 stations (scam sort, MFA checklist quiz, clone-or-real audio, deepfake tells, 3 Do Nots rapid-fire, drill mini-scenario). Teams rotate. |
+| 15 min | **Gymkhana review:** 6 stations (scam sort, MFA checklist quiz, clone-or-real audio, source-check drill, 3 Do Nots + Tell rapid-fire, drill mini-scenario). Teams rotate. |
 | 10 min | Personal reflection (written): *One skill I'll use this month: ______. One adult I can tell anything to: ______. One real (unfiltered) thing I'm proud of how I handled online: ______.* Collected privately. |
 | 20 min | **Graduation:** certificates ("Certified Digital Self-Defender"), Quickie Cards officially issued, family guests welcome. Ends with the class **highlight reel**: each team reads one kind, true thing they witnessed in class this year (permission first if it names someone) — the term closes on The Real Thing, not the highlight reel. Send Home Mission 10 + the family safe-word confirmation sheet home. |
 

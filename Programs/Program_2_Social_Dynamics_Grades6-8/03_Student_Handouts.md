@@ -42,15 +42,14 @@ Print-ready content. C1–C7 referenced in the lesson plans.
 Parent check-in signature: ______________  Date: ______
 ```
 
-## C3 — Deepfake Tell List Poster (Session 4)
-**THE DEEPFAKE TELL LIST** — zoom in and look for:
-- ✋ **Hands & teeth:** extra fingers, melting jaws, weird teeth
-- 👁️ **Eyes:** uneven blinking, reflections that don't match
-- 🪞 **Edges:** hair that "cuts out", lighting from the wrong direction
-- 📝 **Text:** garbled letters on signs, logos, shirts
-- ⏱️ **Motion:** face smears or slips when turning quickly
-- 🔊 **Audio:** voice slightly out of sync with lips
-**Process tells:** Where did it come from? Who benefits if I believe it? Would the real person confirm?
+## C3 — Deepfake Evidence Checklist (Session 4)
+**THE ORDER OF CHECKS** — strongest first:
+1. **Source:** who published this first, and can that account be verified?
+2. **Reverse image search:** does it appear earlier, elsewhere, in another context?
+3. **Corroboration:** does an independent outlet report the same thing?
+4. **Clues:** extra fingers, melting jaws, weird teeth, uneven blinking, mismatched reflections, hair that "cuts out", lighting from the wrong direction, garbled text, smearing, out-of-sync audio.
+
+**Clues are not proof.** Generators improve every year, and compressed real photographs produce the same artefacts.
 *Rule: shocking media about a real person → verify before you share. Can't verify → don't share.*
 
 ## C4 — Protocol Role-Play Scripts (Session 6)
@@ -83,8 +82,8 @@ Three anonymized packets, each with: **timeline of messages** (10–12 entries),
 The 5 scenarios from the lesson plan, printed large on card stock:
 **Card 1 — Free Skins:** Discord DM from a "moderator": free limited skins at win-skins[.]com. *(Don't click; check domain; report user.)*
 **Card 2 — The Voice Note:** A voice note that sounds exactly like your brother: "I'm in the hospital, need $200 NOW, don't tell mom yet." *(Safe word! Verify by text/call first. Tell a parent.)*
-**Card 3 — Shocking Video:** A classmate shares a video of your teacher doing something unbelievable. Everyone's watching. *(Don't share. It may be deepfake. Tell an adult. Check the tell list.)*
-**Card 4 — The Roblox Escalation:** A "friend" from Roblox now demands money because you sent them a photo months ago. *(3 Do Nots. Quickie Card. Cybertip.ca. Tell an adult today, not tomorrow.)*
+**Card 3 — Shocking Video:** A classmate shares a video of your teacher doing something unbelievable. Everyone's watching. *(Don't share. It may be deepfake. Tell an adult. Trace where it came from before you believe it.)*
+**Card 4 — The Roblox Escalation:** A "friend" from Roblox now demands money because you sent them a photo months ago. *(3 Do Nots + Tell. Quickie Card. Cybertip.ca. Tell an adult today, not tomorrow.)*
 **Card 5 — Hacked Email:** Your email was hacked; friends are getting weird messages from it. *(MFA check, password reset with parent, warn friends, review what info the account held.)*
 
 ## C8 — Gamer's Scam Menu Poster (Session 1)

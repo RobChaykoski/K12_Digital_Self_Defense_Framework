@@ -11,7 +11,7 @@ This is the phase where risk becomes *social*: kids are now on Discord, Roblox v
 | Block | Sessions | Focus |
 |-------|----------|-------|
 | **A: Attack Surface** (S1–4) | Phishing in games/apps, MFA & account fortification, voice cloning, visual deepfakes |
-| **B: The Hard Conversation** (S5–8) | Sextortion basics, the 3 Do Nots protocol, discreet resources, real case studies *(guidance counsellor present)* |
+| **B: The Hard Conversation** (S5–8) | Sextortion basics, the 3 Do Nots + Tell protocol, discreet resources, real case studies *(guidance counsellor present)* |
 | **C: Proof of Skill** (S9–10) | Full-spectrum drill, review & certification |
 
 **Design principle:** Teens test boundaries and distrust authority that lectures. Every session therefore leads with *their* platforms, uses case studies instead of warnings, and ends with a concrete skill they can use tonight. The sextortion block is taught as **protocol training** (like fire drills), not morality — shame keeps kids silent.
@@ -24,9 +24,9 @@ By the end of Program 2, students will be able to:
 1. Identify social-engineering phishing in games and apps (Discord invites, Roblox "free item" scams, fake friend requests)
 2. Enable and use multi-factor authentication (MFA) on their own accounts with a parent's help
 3. Recognize voice-cloning and explain why "a call from dad" can be faked
-4. Spot visual deepfakes using at least 3 tells; verify surprising media before sharing
+4. Verify surprising media before sharing: trace the source, check for corroboration, and treat visual glitches as clues rather than proof
 5. Explain what sextortion is in plain, clinical terms — and that **it is never the victim's fault**
-6. Apply the **3 Do Nots**: DON'T pay, DON'T reply, DON'T delete (preserve evidence) + tell a trusted adult
+6. Apply the **3 Do Nots + Tell**: DON'T pay, DON'T reply, DON'T delete (preserve evidence), then TELL a trusted adult
 7. Use discreet resources: safe-word with family, Quickie Cards, Cybertip.ca, NeedHelpNow.ca, Take It Down
 8. Analyze a real sextortion syndicate case study and identify the manipulation steps
 9. Pass the full-spectrum drill: respond correctly to 5 mixed scenarios under time pressure
@@ -64,7 +64,7 @@ By the end of Program 2, students will be able to:
 2. **Case-study method:** anonymized real incidents beat hypothetical warnings at this age
 3. **Protocol over morality:** sextortion is taught as a *procedure* (like first aid), with vocabulary kept clinical and non-judgmental
 4. **Discretion by design:** Quickie Cards fit in a pocket; the family safe word lets a student get help without a long conversation in front of siblings
-5. **Skill proof:** every session ends with something they can DO (enable MFA, write their safe word, run the 3 Do Nots)
+5. **Skill proof:** every session ends with something they can DO (enable MFA, write their safe word, run the 3 Do Nots + Tell)
 6. **No shaming, ever:** "If this happened to you, you did nothing wrong. Scammers are professionals; you're 12. The protocol is how we beat them."
 
 ---
