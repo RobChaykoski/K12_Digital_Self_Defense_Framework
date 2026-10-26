@@ -70,49 +70,49 @@ By the end of this phase, students will be able to:
 
 #### Session 3: "The Clone Wars" — Voice Cloning for Parents & Teens (50 min)
 
-**Objective:** Detect voice clones and use safe words to verify calls
+**Objective:** Verify identity when a call or voice note might be a clone, using an out-of-band check rather than listening for tells
 
 | Time | Activity | Description |
 |------|----------|-------------|
-| 0-5 min | Hook | Play two audio clips: one real parent leaving a voicemail, one AI-cloned parent saying "It's me, I'm at the airport, call me back!" Students guess which is real. |
-| 5-12 min | Direct Instruction | Explain voice cloning technology: AI needs only 3-5 seconds of voice samples to create a clone. Show examples of scams targeting parents (fake emergency calls, bail money requests). |
-| 12-22 min | Activity: "Family Safe Word Workshop" | Students draft safe words with family input. Practice using them in different contexts ("What's the capital of Mars?" vs. "What did we have for breakfast?"). Discuss storing safe words securely. |
-| 22-32 min | Role-Play: "The Clone Call Scenarios" | In pairs, students role-play scenarios: (1) Parent calling from hospital, (2) Sibling asking for money, (3) Friend with cloned voice. They practice verifying identity. |
-| 32-50 min | Wrap-Up & Exit Ticket | Students write: "What makes a strong safe word? Give one example of a clue that might reveal a clone vs. real voice." |
+| 0-5 min | Hook | Play two audio clips: one real parent leaving a voicemail, one AI-cloned parent saying "It's me, I'm at the airport, call me back!" Students vote on which is real. Then reveal the answer and the point: most classes split roughly 50/50, and that is not a failure of attention — it is why ears are not a security control. |
+| 5-12 min | Direct Instruction | Explain voice cloning: a convincing clone can be built from roughly **30 seconds of clear speech**, sometimes less, and most people have published far more than that. Show examples of scams targeting parents (fake emergency calls, bail money requests). The defence is procedural, not perceptual: agree a safe word in advance, and verify by calling back on a number you already have. |
+| 12-22 min | Activity: "Family Safe Word Workshop" | Students draft safe words with family input. Practice using them in different contexts ("What's the capital of Mars?" vs. "What did we have for breakfast?" — the second is better: it is unguessable from a feed). Discuss storing safe words securely and changing one if it has been used online. |
+| 22-32 min | Role-Play: "The Clone Call Scenarios" | In pairs, students role-play scenarios: (1) Parent calling from hospital, (2) Sibling asking for money, (3) Friend with cloned voice. They practice verifying identity, including the case where the caller *does not know the safe word* — hang up and call back on a known number. |
+| 32-50 min | Wrap-Up & Exit Ticket | Students write: "What makes a strong safe word? What do you do if the caller fails the check — or refuses to do it?" |
 
-**Materials:** Audio clips (record family members if possible), scenario cards, blank paper for drafting safe words, timers
+**Materials:** Audio clips (licensed or public-domain recordings, or clips the teacher generated from synthetic voices — **do not record students or their families**), scenario cards, blank paper for drafting safe words, timers
 
 ---
 
 #### Session 4: "Deepfake Detection Lab" — Visual Forensics (50 min)
 
-**Objective:** Apply visual forensics techniques to identify AI-generated images
+**Objective:** Judge whether an image can be trusted using provenance first, and state the limits of the evidence
 
 | Time | Activity | Description |
 |------|----------|-------------|
-| 0-5 min | Hook | Show a viral deepfake celebrity photo. Ask students to identify clues. Reveal that hands, teeth, and background details are common telltale signs. |
-| 5-12 min | Direct Instruction | Teach the deepfake checklist: (1) Hand anatomy (extra/missing fingers), (2) Lighting/shadow consistency, (3) Eye reflections (catchlights), (4) Hair strands vs. clumps, (5) Background distortion. Use annotated images. |
-| 12-22 min | Guided Practice: "Forensic Analysis" | Students receive a worksheet with 6 deepfake images. They annotate each with at least 3 forensic clues. Teacher reviews as a class. |
-| 22-32 min | Computer Lab Activity: "Reverse Image Search" | Students use Google Images or TinEye to reverse-search suspected deepfakes. They document whether the image appears on multiple sites (common for AI-generated content). |
-| 32-50 min | Wrap-Up & Exit Ticket | Students write: "Which forensic clue is most reliable? Why might reverse image search fail for new AI images?" |
+| 0-5 min | Hook | Show a viral deepfake celebrity photo. Before anyone hunts for clues, ask: *who published this, when, and does any independent source show the same moment?* |
+| 5-12 min | Direct Instruction | Teach the checks in order of strength: (1) **Source** — who posted it, on what account, and is that account verifiable; (2) **Reverse image search** — does the image appear earlier, elsewhere; (3) **Corroboration** — does anyone else report the event; (4) **Visual clues** — hand anatomy, lighting and shadow, eye reflections, hair strands vs. clumps, background distortion, garbled text. Clues are the *weakest* check: current generators make them less reliable every year, and the same "clue" appears in compression artefacts and real photographs. |
+| 12-22 min | Guided Practice: "Forensic Analysis" | Students receive a worksheet with 6 images. For each they must record the strongest check available, the visual clues they can see, and one line on *what would change their mind*. Teacher reviews as a class, marking down any claim that rests only on visual clues. |
+| 22-32 min | Computer Lab Activity: "Reverse Image Search" | Students use Google Images or TinEye to reverse-search the same images. They document where each first appeared. Key lesson: no earlier match does **not** prove an image is fake — a genuinely new photo has no match either. |
+| 32-50 min | Wrap-Up & Exit Ticket | Students write: "Which check would you trust most, and what can it *not* tell you?" |
 
-**Materials:** Projector, sample deepfake images (printed), annotation worksheets, tablets/computers with internet access, reverse image search accounts
+**Materials:** Projector, sample images (printed), annotation worksheets, tablets/computers with internet access
 
 ---
 
-#### Session 5: "Audio Forensics" — Detecting Cloned Voice & Lip-Sync Errors (50 min)
+#### Session 5: "Audio Forensics" — Cloned Voice & Lip-Sync Errors (50 min)
 
-**Objective:** Identify audio-based deepfakes and lip-sync inconsistencies
+**Objective:** Explain why audio and video "tells" are unreliable, and apply source verification to media
 
 | Time | Activity | Description |
 |------|----------|-------------|
-| 0-5 min | Hook | Play a video of a celebrity speaking with slightly off lip movements. Ask students to spot the mismatch. Discuss how AI struggles with precise mouth movements. |
-| 5-12 min | Direct Instruction | Teach audio deepfake clues: (1) Unnatural breathing pauses, (2) Monotone delivery in emotional passages, (3) Background noise consistency, (4) Lip-sync errors. Show annotated video examples. |
-| 12-22 min | Guided Practice: "Audio Detective" | Students receive audio clips from real and AI-generated speakers. They annotate timing differences, tone shifts, and breathing patterns. |
-| 22-32 min | Computer Lab Activity: "Free Tools Demo" | Students use free tools like Fakespot or Deepware to analyze uploaded audio/video files for AI signatures. |
-| 32-50 min | Wrap-Up & Exit Ticket | Students write: "Which audio clue is easiest to spot? Why might a good actor be harder to detect than a bad one?" |
+| 0-5 min | Hook | Play a video of a celebrity speaking with slightly off lip movements. Ask students to spot the mismatch. Then ask the harder question: *if the lip-sync were perfect, what would you check next?* |
+| 5-12 min | Direct Instruction | Teach the clues and their limits: (1) Unnatural breathing pauses, (2) flattened delivery in emotional passages, (3) background noise that does not match the room, (4) lip-sync drift. These are real but fading — a careful clone shows none of them. The reliable check is whether the clip can be traced to a source that published it independently. |
+| 12-22 min | Guided Practice: "Audio Detective" | Students receive labelled clips from real and AI-generated speakers. They describe differences in timing, tone, and breathing — then mark each description as *strong* or *weak* evidence, and write what would settle it. |
+| 22-32 min | Computer Lab Activity: "Detector Demo and Its Limits" | If a public detector demo is available (e.g. Deepware or Hive), run one clip through it. Then discuss the output honestly: detectors are probabilistic, produce false positives and false negatives, and cannot say *why*. A "94% AI" score is a prompt to check provenance, not a verdict. If no detector is available, run the provenance exercise instead: locate the original upload and compare uploader history. |
+| 32-50 min | Wrap-Up & Exit Ticket | Students write: "Why is 'the detector said 94% AI' not proof? What would you do before you shared the clip?" |
 
-**Materials:** Projector, sample video clips with lip-sync errors, annotated audio examples, tablets/computers with internet, free detection tool accounts
+**Materials:** Projector, sample clips, annotated audio examples, tablets/computers with internet; a public detector demo is optional, never required
 
 ---
 
@@ -245,13 +245,13 @@ By the end of this phase, students will be able to:
 - [ ] Sample headlines and case study packets (printed)
 - [ ] Paper for password maps, colored markers
 - [ ] Authenticator app QR codes for scanning
-- [ ] Audio clips (real and AI-cloned voices)
+- [ ] Audio clips (licensed or synthetic — never recordings of students or their families)
 - [ ] Scenario cards for role-play
-- [ ] Sample deepfake images (printed)
+- [ ] Sample images (printed)
 - [ ] Annotation worksheets
 - [ ] Tablets/computers with internet access for reverse image search
-- [ ] Free detection tool accounts (Deepware, Fakespot)
-- [ ] Annotated video clips with lip-sync errors
+- [ ] Optional: access to a public detector demo (Deepware or Hive); the session runs without it
+- [ ] Sample clips with lip-sync errors
 - [ ] Flowchart handouts for sextortion syndicates
 - [ ] Case study packets (printed)
 - [ ] Blank paper for syndicate profiles

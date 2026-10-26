@@ -245,7 +245,7 @@ Every student receives age-appropriate materials:
   - Can set up 2FA
   - Identifies phishing emails
   - Understands sextortion protocols
-  - Recognizes AI-generated content using basic tells
+  - Recognizes that AI-generated media can look flawless, and verifies surprising content by source before sharing
   - Audits AI app permissions and data collection
   - Applies Indigenous data sovereignty principles to personal AI use
   - Uses the "Family Safe Word" for voice clone verification

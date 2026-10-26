@@ -14,8 +14,8 @@ The **Wild West phase**. Students now face adult-grade threats with adult conseq
 By the end, students will be able to:
 1. Run a personal credential audit and eliminate password reuse; explain **credential stuffing** and breach databases.
 2. Implement **app-based MFA** (authenticator apps), set up recovery options, and explain why SMS is weaker.
-3. Analyze cloned audio and lip-sync video using forensic tells; verify identity before acting on any digital request.
-4. Dismantle a **deepfake** using at least 4 technical tells + free detection tools (reverse image search, metadata, detector apps).
+3. Explain why audio and video forensic tells are unreliable, and verify identity through a second channel before acting on any digital request.
+4. Assess an **image or clip** using at least four lines of evidence, including provenance (reverse image search, metadata, uploader history) — and state what the evidence does not prove.
 5. Explain sextortion as an organized business model (syndicates, scripts, payment rails) and apply the full victim protocol including legal reporting options.
 6. Identify Canadian law that applies: extortion, intimate image publication, fraud, identity theft — and what "consent" means digitally.
 7. Evaluate **crypto scams** (rug pulls, fake airdrops, pump-and-dump, influencer shilling) using a red-flag framework; explain why "recovery agents" are second-layer scams.

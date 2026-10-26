@@ -48,7 +48,7 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 
 ## Session 4: "Deepfake Detection Lab" — Visual Forensics (50 min)
 **In this session:** Lens leads; Ghost.
-**Objective:** Dismantle deepfakes using ≥4 technical tells and free tools.
+**Objective:** Assess a synthetic image using at least four lines of evidence — at least one of which is provenance rather than a visual tell.
 
 | Time | Activity |
 |------|----------|
@@ -56,7 +56,7 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 | 10 min | Teach the forensic stack: Program 2's tell list + **tools** — reverse image search (where did this originate?) • metadata/EXIF basics • free detection tools & browser extensions (demo 1–2) • the provenance question (original source, uploader history, timing vs. events). |
 | 20 min | **Lab:** 4 labelled samples (video + stills, public material). Teams run the full pipeline: tells → reverse search → metadata → verdict with confidence level + written evidence brief. Reveal ground truth; compare which method caught what. *(Never use classmates' images. AI-CSAEM is discussed at pattern level only — never shown.)* |
 | 5 min | The legal lens: non-consensual deepfakes of real people — intimate ones are criminal in Canada (publication of intimate images); even non-intimate ones carry defamation/identity-theft exposure. |
-| 5 min | Exit ticket: *Name 4 tells AND 2 tools you'd use on an unknown video.* |
+| 5 min | Exit ticket: *Name 2 tells, 2 tools, and say which piece of evidence is strongest — and what it still cannot prove.* |
 
 **Materials:** labelled sample set, tool accounts/devices, evidence brief template (D4).
 
