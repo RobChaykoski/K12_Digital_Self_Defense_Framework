@@ -62,11 +62,11 @@ This guide provides step-by-step instructions for deploying the curriculum in sc
 | **Phase 4: Review & Iterate** | Ongoing | Compile teacher feedback, update worksheets, publish v2.0 |
 
 ### ECNO Alignment Verification Checklist
-- [ ] All sessions map to at least one ECNO category (Cyber Safety Basics, Digital Wellness, AI, Social Media/Gaming)
+- [ ] All sessions map to at least one of the four 2026 themes (Digital Me, Digital Us, Digital Families, Digital Minds)
 - [ ] Ontario-specific resources referenced: Cybertip.ca, NeedHelpNow.ca, Take It Down, Kids Help Phone
 - [ ] French-language resources available for bilingual schools (Mois de la Cybersensibilisation)
 - [ ] October Cyber Awareness Month campaign dates synced with framework rollout
-- [ ] ECNO "Cyber Heroes Unite" activity packs integrated into K–5 sessions
+- [ ] ECNO theme videos, tip sheets, and activities mapped to the matching sessions
 
 ### Rollout Checklist
 - [ ] Print QR codes and attach to physical worksheets

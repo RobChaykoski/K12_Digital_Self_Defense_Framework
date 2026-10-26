@@ -18,13 +18,13 @@
 | Privacy settings review | All phases | Home activity: audit one social media account |
 | Auto-lock & secure WiFi tips | Phases 1–2 | "Set your phone to auto-lock" challenge |
 
-### October — K-12 Cyber Awareness Month + (ECNO Aligned)
+### October — K-12 Cyber Awareness Month (ECNO Aligned)
 | GECDSB Content | Phase Alignment | Integration Idea |
 |---|---|---|
-| Weekly topics: Basics, Wellness, AI, Social/Gaming | All phases | Run our full week-long campaign |
-| ECNO Lesson Resource Library | All phases | Assign ECNO activities as homework |
-| "Cyber Heroes Unite" (K-8) | Phases 1–3 | Award Cyber Hero certificates |
-| "Digital Me" (9-12) | Phase 4 | Student self-audit project |
+| Four campaign themes: Digital Me, Digital Us, Digital Families, Digital Minds | All phases | Run the matching phase sessions under each theme across the month |
+| ECNO theme videos, tip sheets, and activities | All phases | Assign the theme activity as the session hook; run our activity as the practice |
+| Communications Leaders toolkit | All phases | Align board-level messaging; see `ECNO_Alignment_Guide.md` |
+| `Find Help` page | Phases 2–4 | Print with our pocket cards, with Cybertip.ca hours stated correctly |
 
 ### November — Be Kind Online / Cyberbullying
 | GECDSB Content | Phase Alignment | Integration Idea |

@@ -24,9 +24,13 @@ The framework is divided into **three programs**, each targeting a specific deve
 | **Program 2** | 6–8 | Social media safety, URL inspection, ciphers | Caesar cipher decryption, packet sniffing concepts |
 | **Program 3** | 9–12 | AI forensics, MFA workflows, system boot | Boot2Root simulations, auth token analysis |
 
-> 📌 *ECNO Alignment:* Each program maps to ECNO's two pillars:
-> - **Cyber Heroes Unite (K–8):** Programs 1 & 2 cover Cyber Safety Basics, Digital Wellness, and Social Media/Gaming
-> - **Digital Me (9–12):** Program 3 covers AI, Algorithm Literacy, and Year-round Resources
+> 📌 *ECNO Alignment:* Each program maps across ECNO's four 2026 campaign themes:
+> - **Digital Me** — individual risk recognition and safe choices (all programs)
+> - **Digital Us** — respect, responsibility, and healthy online communities (Programs 2 & 3)
+> - **Digital Families** — home conversations, screen time, family safe word (Programs 1 & 2)
+> - **Digital Minds** — safe and responsible AI use, checking information, protecting privacy (Programs 2 & 3)
+>
+> See `ECNO_Alignment_Guide.md` for the full phase-by-theme crosswalk.
 
 ---
 

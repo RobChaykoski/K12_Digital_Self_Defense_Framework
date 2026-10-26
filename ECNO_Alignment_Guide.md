@@ -1,148 +1,135 @@
 # ECNO Cyber Awareness Month Alignment & Integration Guide
-## Mapping Our K-12 Framework to k-12cyberawareon.ca Resources
+## Mapping the K-12 Digital Self-Defense Framework to Ontario's 2026 Campaign
 
-**Prepared:** September 2026  
-**Purpose:** Align our expanded K-12 Digital Self-Defense framework with the Ontario ECNO Cyber Awareness Month campaign structure
-
----
-
-## 🗺️ ECNO Campaign Structure Overview
-
-The ECNO (Expert Council for Networked Ontario) **k-12cyberawareon.ca** website is Ontario's official K-12 Cyber Awareness Month campaign. It organizes resources into two main programs:
-
-| ECNO Program | Grade Band | Focus |
-|-------------|-----------|-------|
-| **Cyber Heroes Unite** | Grades K–8 | Empowers students to make the right decisions for their digital identity and technology use |
-| **Digital Me** | Grades 9–12 | Encourages students to take control of their digital knowledge and online presence |
-
-### ECNO Resource Categories:
-1. **Cyber Safety Basics** — Passwords, links, privacy settings, screen time
-2. **Digital Wellness** — Mental health, balance, social comparison, cyberbullying
-3. **Artificial Intelligence** — AI tools, deepfakes, chatbots, ethical AI use
-4. **Social Media & Gaming** — Platforms, in-game purchases, streaming safety
-5. **Year-round Resources** — Ongoing activities, newsletters, printable guides
+**Organization:** Educational Collaborative Network of Ontario (ECNO)
+**Campaign:** Cyber Awareness Month 2026 — k-12cyberawareon.ca
+**Framework version aligned:** 3.0
+**Guide version:** 2.0
+**Last verified against source:** October 2026
 
 ---
 
-## 📊 Our Framework → ECNO Category Crosswalk
+## 1. What ECNO is
 
-| Our Phase | ECNO Categories Addressed | Overlap with ECNO Campaign |
-|-----------|--------------------------|---------------------------|
-| **Phase 1 (K-2)** | Cyber Safety Basics + Digital Wellness | Aligns with "Cyber Heroes Unite" early grades; can use ECNO's picture books and screen time guides |
-| **Phase 2 (Grades 3-5)** | Cyber Safety Basics + AI intro + Social Media/Gaming | Expands ECNO's middle-elementary content with phishing, passphrases, and AI art detection |
-| **Phase 3 (Grades 6-8)** | Cyber Safety Basics + AI + Digital Wellness + Social Media/Gaming | Direct overlap with "Cyber Heroes Unite"; our sextortion protocols complement ECNO's digital footprint content |
-| **Phase 4 (Grades 9-12)** | All categories + Year-round Resources | Direct overlap with "Digital Me"; our crypto scam and algorithm sections go beyond ECNO's current offerings |
+ECNO is the **Educational Collaborative Network of Ontario** — the provincial body through which Ontario school boards coordinate educational technology. It publishes the annual K-12 Cyber Awareness Month campaign and the supporting classroom resources.
 
----
+Two things follow from that, and they matter for how this framework should be positioned:
 
-## 🔗 Integration Opportunities
+- ECNO is a **provincial campaign and resource publisher**, not a curriculum authority. It supplies themes, videos, tip sheets, and activities; boards and teachers still own the year-long sequence.
+- The campaign is **themed, not sequenced**. It does not prescribe grade-by-grade progression. That is precisely the gap this framework fills, and it is a better reason to adopt it than novelty.
 
-### 1. Leverage Existing ECNO Assets
+## 2. The 2026 campaign: four themes
 
-| ECNO Resource | How to Use in Our Framework |
-|--------------|----------------------------|
-| **ECNO Cyber Awareness Month slide decks** | Supplement our session materials with official branding and Ontario-specific examples |
-| **"Cyber Heroes Unite" activity packs** | Integrate into Phase 1 (K-2) and Phase 2 (Grades 3-5) as supplementary hands-on activities |
-| **ECNO newsletter archives** | Use for parent communication handouts and "Digital Me" reading assignments in Phase 4 |
-| **French-language resources** | Bilingual schools can use the mirrored French content (Mois de la Cybersensibilisation) alongside English materials |
+The 2026 campaign replaces the earlier two-program split ("Cyber Heroes Unite" for K–8 and "Digital Me" for 9–12). It is organised around **four themes**, each with videos, tip sheets, and activities:
 
-### 2. Fill ECNO Gaps Our Framework Addresses
+| Theme | What the campaign says it covers | Campaign framing |
+|---|---|---|
+| **Digital Me** | Recognising risks and making safe choices online; building confidence, good judgment, and habits that last | The individual |
+| **Digital Us** | Respecting others, taking responsibility for online actions, and helping create digital spaces where everyone feels safe and included | The community |
+| **Digital Families** | Talking regularly about technology at home; managing screen time, online safety, and digital wellbeing together | The household |
+| **Digital Minds** | Using AI safely and responsibly — checking information, protecting privacy, and treating AI as support for learning and creativity rather than a replacement for human thinking and relationships | AI and cognition |
 
-| Gap in Current ECNO Site | Our Framework's Addition |
-|--------------------------|-------------------------|
-| No dedicated **sextortion** protocol for middle school | Our "3 Do Nots" + Stop/Screenshot/Block/Report protocols (Phase 3 & 4) |
-| Limited **crypto scam** content | Full crypto module in Phase 4 (rug pulls, airdrops, pump-and-dump) |
-| No **voice cloning** / Family Safe Word concept | Deep integration in Phase 3 & 4 sessions |
-| Minimal **AI forensics** depth | Detailed deepfake detection lab with visual/audio clues (Phase 3 & 4) |
-| Limited **algorithm literacy** | Social media algorithm audit and engagement bait analysis (Phase 4) |
+The campaign's closing line is *"Think Safe. Share Safe. Stay Safe Together."* A `Find Help` page and a Communications Leaders toolkit (for board-level rollout) sit alongside the four themes. French-language material is published as *Mois de la Cybersensibilisation*.
 
-### 3. Alignment with ECNO's "Digital Wellness" Pillar
-
-Our framework extends ECNO's digital wellness content by adding:
-
-- **Social comparison tracking** (Phase 2 journaling activity)
-- **Mental health impact of sextortion** (Phase 3 case studies)
-- **Algorithmic mood effects** (Phase 4 feed audit)
-- **Screen time contracts** (Phase 1 family activities)
-- **Cyberbullying coping strategies** via NeedHelpNow.ca integration
+**Why the four-theme structure suits this framework:** the themes are *perspectives* (me → us → family → mind), while this framework is a *progression* (K-2 → 3-5 → 6-8 → 9-12). The two axes are orthogonal, so every phase touches every theme, at a different depth. That is a cleaner mapping than the old grade-split model, and it is the basis for the tables below.
 
 ---
 
-## 📅 Suggested Integration Timeline for Ontario Schools
+## 3. Framework → theme crosswalk
 
-| Month | ECNO Campaign Focus | Our Framework Sessions to Run |
-|-------|--------------------|------------------------------|
-| **September** | Preview & parent communication | Phase 4 Session 11 (Guest Speaker Panel) — invite local ECNO contacts |
-| **October** | **Cyber Awareness Month** (full campaign launch) | Run any phase's sessions aligned with the month's theme; use ECNO branding on handouts |
-| **November** | Year-round resources activation | Continue remaining phases; integrate ECNO newsletter activities |
-| **December** | Winter break screen time tips | Phase 1 screen time contracts + family safe word practice |
-| **January–March** | Ongoing reinforcement | Quarterly "Cyber Safety Moments" refreshers using our review sessions |
+Each phase is mapped against all four themes. "Primary" means the phase does the heavy lifting; "secondary" means it reinforces.
 
----
-
-## 🏫 School Board Partnership Pathways
-
-### Communications Leaders (ECNO's primary audience)
-- Use our framework as a **ready-to-deploy curriculum supplement** to ECNO's slide decks
-- Align assessment milestones with ECNO's yearly reporting requirements
-- Share student work (deepfake analyses, crypto evaluations) via school board social media
-
-### School Boards
-- Adopt our framework as the **district-wide K-12 digital literacy standard**
-- Use Phase 4 (Grades 9-12) for high school graduation requirements in digital citizenship
-- Coordinate with ECNO's annual Cyber Awareness Month campaign for October push
-
-### Parents and Guardians
-- Distribute our **Family Cyber Safety Guide** alongside ECNO's parent resources
-- Host joint "Digital Me" evenings where parents and teens learn together (Phase 4 Session 11 format)
-- Share the Family Safe Word concept via school board newsletters
+| Phase | Digital Me | Digital Us | Digital Families | Digital Minds |
+|---|---|---|---|---|
+| **Phase 1 (K–2)** | **Primary** — stranger danger online, safe/unsafe actions, the traffic-light rule | Secondary — sharing, kind words, telling an adult | **Primary** — screen-time agreements, family safe word introduced | Secondary — "a computer made this" (AI as a helper, not a person) |
+| **Phase 2 (Grades 3–5)** | **Primary** — passphrases, phishing clues, link inspection | Secondary — bystander vs. upstander, cyberbullying | Secondary — home mission activities with a parent | **Primary** — real vs. synthetic images, first deepfake tells |
+| **Phase 3 (Grades 6–8)** | **Primary** — MFA, account recovery, password reuse | **Primary** — sextortion protocol, consent, group-chat responsibility | Secondary — family safe word for voice clones; parent toolkit | **Primary** — voice cloning, AI-manipulated media |
+| **Phase 4 (Grades 9–12)** | **Primary** — credential stuffing, MFA architecture, password managers | **Primary** — sextortion as an organised business, legal landscape | Secondary — parent as "backup node", not monitor | **Primary** — deepfake forensics, provenance, crypto and algorithm literacy |
 
 ---
 
-## 🇨🇦 Ontario-Specific Resources We Can Add
+## 4. Where this framework extends the theme-level material
 
-Based on ECNO's campaign, consider integrating these Ontario-specific elements:
+The campaign is deliberately broad and shallow so it can serve every board. This framework goes deeper in five places. These are offered as additions to the themes, not as corrections of them.
 
-| Resource | Source | Integration Point |
-|----------|--------|------------------|
-| **Cybertip.ca** | Canadian tip line for online child exploitation | Phase 3 & 4 sextortion resources |
-| **NeedHelpNow.ca** | BC-based digital wellbeing support | Phase 3 discreet resource cards |
-| **Take It Down (NCMEC)** | Anonymous image takedown tool | Phase 3 QR code handouts |
-| **Kids Help Phone** | 24/7 crisis support for youth | All phases — poster resources |
-| **Ontario Ministry of Education Digital Literacy** | Provincial curriculum links | Map our framework to Ontario's computer science and health curriculum expectations |
-| **eSafety Commissioner (Australia)** | International best practices | Phase 4 guest speaker content |
-
----
-
-## 📋 Implementation Checklist: Combining Our Framework + ECNO Resources
-
-- [ ] Download ECNO Cyber Awareness Month slide decks from k-12cyberawareon.ca
-- [ ] Order ECNO "Cyber Heroes Unite" activity packs for Grades K-5
-- [ ] Print our framework's pocket resource cards (phishing clues, 3 Do Nots, AI checklist)
-- [ ] Sync October campaign dates with ECNO's Cyber Awareness Month launch
-- [ ] Coordinate with school guidance teams for sextortion support (Phase 3 & 4)
-- [ ] Share parent guides through school board communications channels
-- [ ] Promote discreet QR resources on school handouts and ending slides
-- [ ] Recruit student ambassadors from Phase 4 to mentor younger grades
-- [ ] Plan guest speaker sessions with local ECNO cybersecurity contacts
-- [ ] Submit student project examples for ECNO's annual campaign showcase
+| Extension | Theme it deepens | What it adds |
+|---|---|---|
+| **Aged sextortion protocol** | Digital Us | A named, ordered response (the 4-Ds: don't pay, don't reply, don't delete, tell) plus evidence handling and reporting routing, differentiated for Grades 6–8 and 9–12 |
+| **Crypto and investment scams** | Digital Me / Digital Minds | Rug pulls, fake airdrops, pump-and-dump, and "recovery agent" second-layer scams — a Phase 4 module the theme material does not reach |
+| **Voice cloning and the family safe word** | Digital Families | An offline verification habit a family can actually run, taught in Phase 3 and reinforced in Phase 4 |
+| **AI provenance over AI "tells"** | Digital Minds | Source tracing, reverse image search, corroboration, and confidence statements rather than visual-artifact spotting, which does not survive contact with current generators |
+| **Algorithm literacy** | Digital Me / Digital Minds | A feed audit and engagement-bait analysis, so students see how attention is monetised rather than only that it is |
 
 ---
 
-## 💡 Why This Alignment Matters
+## 5. Integration opportunities
 
-1. **Familiar Branding:** Schools already recognize the ECNO Cyber Awareness Month umbrella — our framework slots in seamlessly under it
-2. **Resource Efficiency:** Leverage existing ECNO slides, activity packs, and parent guides rather than creating everything from scratch
-3. **Ontario-Specific Content:** Our crypto scams, AI forensics, and sextortion protocols add depth to ECNO's foundational content
-4. **Year-Round vs. October-Only:** ECNO runs primarily in October; our framework provides a year-round curriculum structure
-5. **Assessment Alignment:** Map our progression milestones to ECNO's yearly reporting for school boards
+| ECNO asset | How to use it here | Where |
+|---|---|---|
+| **Four theme pages** (videos, tip sheets, activities) | Assign the theme material as the *hook* for a session, then run this framework's activity as the *practice*. The campaign supplies context; the framework supplies sequence. | All phases |
+| **`Find Help` page** | Print alongside this framework's pocket resource cards. Ensure Cybertip.ca hours are stated correctly — see the resource table below | Phases 3–4 |
+| **Communications Leaders toolkit** | Board-level rollout messaging; pairs with `docs/implementation_guide.md` | District rollout |
+| **French-language mirror** (*Mois de la Cybersensibilisation*) | Bilingual and French-immersion delivery; the framework's activities are language-neutral | All phases |
+| **Cyber Champion Challenge** (ecno.org) | Optional recognition layer that maps onto this framework's certification language without conflicting with it | Grades 3–12 |
+| **Cyber Basics / AI / Social Media & Gaming / Digital Wellness** (ecno.org year-round sections) | Reference reading for teachers who want background before a session | Teacher prep |
 
 ---
 
-*"When local frameworks meet provincial campaigns, students get the best of both: deep, progressive skill-building wrapped in familiar, trusted branding."*
+## 6. Timing
+
+Cyber Awareness Month is **October**. The framework is designed to run all year, with October as the visibility peak.
+
+| Period | Campaign focus | What to run |
+|---|---|---|
+| **September** | Pre-campaign | Teacher onboarding (`docs/teacher_onboarding.md`); print pocket cards; confirm guest speakers |
+| **October** | **Cyber Awareness Month** | Lead with the four themes; run the matching phase sessions; use campaign branding on handouts |
+| **November** | Post-campaign | Continue the sequence; use the campaign's `Digital Us` material for anti-bullying follow-up |
+| **December** | — | Phase 1 screen-time agreements and family safe-word practice |
+| **January–March** | — | Remaining sessions; quarterly refreshers |
+| **April–June** | — | Assessment, certification, and the Phase 4 capstone |
 
 ---
 
-**Document Version:** 1.0  
-**Prepared:** September 2026  
-**Next Review:** March 2027 (with ECNO campaign updates)
+## 7. Ontario and Canadian resources
+
+Verified as of October 2026. Where a resource has limited hours, the hours are stated — this matters more than the URL.
+
+| Resource | What it is | Use it for |
+|---|---|---|
+| **Cybertip.ca** — 1-866-658-9022 | Canada's tipline for the **online sexual exploitation of children**, operated by the Canadian Centre for Child Protection (C3P). Mon–Fri, 8:30 a.m.–4:00 p.m. CT. **Not 24/7.** | Sextortion, luring, and abusive-image reporting (Phases 3–4) |
+| **9-1-1** | Police / emergency | Immediate danger. Cybertip's own guidance routes crises here |
+| **Kids Help Phone** — 1-800-668-6868 | 24/7 youth support | Any phase; poster and pocket-card resource |
+| **9-8-8** | Suicide Crisis Helpline, 24/7 | Any phase |
+| **NeedHelpNow.ca** | Support for youth dealing with online harm and image sharing | Phase 3 discreet resource cards |
+| **Take It Down** (NCMEC) | Anonymous takedown of explicit images of minors | Phase 3–4 image incidents |
+| **Project Arachnid** (C3P) | Automated removal of child sexual abuse material | Phase 4, CSAEM escalation |
+| **Ontario Ministry of Education** curriculum expectations | Provincial curriculum links | Mapping to health and computer studies expectations |
+| **eSafety Commissioner (Australia)** | International reference material | Phase 4 guest-speaker background; comparative practice |
+
+---
+
+## 8. Rollout checklist
+
+- [ ] Read the four theme pages on k-12cyberawareon.ca before term start
+- [ ] Decide which phase runs in which term; October is the visibility peak, not the whole programme
+- [ ] Print pocket resource cards with **correct** Cybertip hours and a 9-1-1 line
+- [ ] Align October messaging with the board's Communications Leaders toolkit
+- [ ] Brief guidance staff on the sextortion protocol before Phase 3 or 4 runs
+- [ ] Confirm French-language delivery route if needed
+- [ ] Nominate one teacher per school as the framework contact
+- [ ] Collect lesson feedback through `.github/ISSUE_TEMPLATE/lesson_feedback.md`
+
+---
+
+## 9. What changed in this version
+
+Version 1.0 of this guide described a two-program campaign ("Cyber Heroes Unite" K–8, "Digital Me" 9–12) and named the organisation the "Expert Council for Networked Ontario". Neither is correct:
+
+- The organisation is the **Educational Collaborative Network of Ontario**.
+- The 2026 campaign is organised around **four themes**, not two programmes. "Digital Me" is now one theme among four, not a standalone Grades 9–12 programme; "Cyber Heroes Unite" is not part of the 2026 structure.
+
+The crosswalk, integration table, and resource list above have been rebuilt against the 2026 site. The resource table was also corrected: it previously implied Cybertip.ca offers 24/7 crisis support, which it does not.
+
+---
+
+**Next review:** September 2027, when the following year's campaign themes are published.
