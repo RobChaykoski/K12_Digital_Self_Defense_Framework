@@ -144,11 +144,12 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 
 | Session | CTF Scenario | Cheat Sheet Category | Worksheet Reference |
 |---------|--------------|---------------------|-------------------|
-| S1 | Discord Drop | Web Hacking (URL Inspection) | `07_CTF_Worksheets.md#discord-drop` |
-| S3 | Voice of the Family | Crypto (Audio/Cipher) | `07_CTF_Worksheets.md#voice-family` |
-| S4 | Wi-Fi Whisperer | Forensics (Packet Sniffing) | `07_CTF_Worksheets.md#wifi-whisperer` |
-| S6 | Sextortion Station | File Hacking (Logic) | `07_CTF_Worksheets.md#sextortion-station` |
-| S9 | The Encrypted DM | Crypto (Caesar/Base64) | `07_CTF_Worksheets.md#encrypted-dm` |
+| S1 | Discord Drop | Web Hacking (URL Inspection) | `07_CTF_Worksheets.md#discord-drop-session-1` |
+| S2 | Wi-Fi Whisperer | Forensics (Packet Sniffing) | `07_CTF_Worksheets.md#wi-fi-whisperer-session-2` |
+| S3 | Voice of the Family | Crypto (Audio/Cipher) | `07_CTF_Worksheets.md#voice-of-the-family-session-3` |
+| S6 | Sextortion Station | File Hacking (Logic) | `07_CTF_Worksheets.md#sextortion-station-session-6` |
+| S9 | The Encrypted DM | Crypto (Caesar/Base64) | `07_CTF_Worksheets.md#the-encrypted-dm-session-9` |
+| Advisory | The Cyberbullying Cipher Decode | Digital Wellness | `07_CTF_Worksheets.md#cyberbullying-cipher-decode-digital-wellness-extension` |
 
 **Implementation Notes:**
 - Flags follow the format `flag{answer}`.

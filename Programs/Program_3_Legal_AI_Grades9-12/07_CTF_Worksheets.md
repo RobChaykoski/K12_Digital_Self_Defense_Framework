@@ -33,7 +33,9 @@ Correct completion reveals: `flag{multi_layer_active}`.
 | 📝 Text / Logos Garbled | [ ] Real [ ] AI | [ ] Real [ ] AI | _________________________ |
 
 **🏆 CTF Challenge:**  
-Run a reverse image search. The metadata/EXIF data contains the flag hash: `flag{truth_detected}`.
+Run a reverse image search and check the file's metadata (right-click → Properties → Details). **Neither check is conclusive:** most platforms strip EXIF, and a real photo can be re-uploaded without it. Submit the flag once you can name the AI image *and* the evidence that supports your call: `flag{truth_detected}`
+
+> ⚠️ **The tells in the table above are clues, not proof.** They are getting rarer every year. The durable skills are source tracing, reverse search, and corroboration — decide what the image *claims* and whether anything independent supports it.
 
 ---
 
@@ -70,7 +72,7 @@ The breach simulation flowchart leads to a simulated VM login. Root access revea
 
 ---
 
-## Privilege Climb (Session 10)
+## Privilege Climb (extension — follows The School Server)
 **Mapped CTF:** *Privilege Climb* | **Category:** PrivEsc (Linux Permissions)
 
 **Instructions:** After getting a "user" shell, look for misconfigured permissions or SUID binaries to become `root`.
@@ -86,19 +88,25 @@ Escalating privileges reveals the admin flag: `flag{priv_escalated_success}`.
 
 ---
 
-## Algorithmic Mood Audit (Session 6 — Digital Wellness Extension)
+## Algorithmic Mood Audit (Session 9 — Social Media Algorithms)
 **Mapped CTF:** *The Algorithmic Mood Audit* | **Category:** Digital Wellness (Mental Health & Social Comparison)
 
 **Student Name:** ____________________  
 **Date:** ______________  
 
-**Instructions:** ECNO's Digital Wellness pillar warns about algorithmic mood effects. Track your feed for 15 minutes:
+**Instructions:** The Digital Minds theme covers how feeds are built to hold attention. Track your own feed for 15 minutes (or use the teacher's screenshot pack):
 - Note 3 posts that made you feel **inferior**
 - Note 3 posts that made you feel **inspired**
-- Identify the **engagement bait** pattern
+- Identify the **engagement bait** pattern in each
 
 | Post Type | Mood Impact | Engagement Bait? |
 |-----------|-------------|------------------|
 | Influencer outfit | 😟 Inferior | Yes (likes/comments) |
 | Friend graduation | 😊 Inspired | No |
-| "}]
+| "You won't believe #4" | 😟 Anxious | Yes (curiosity gap) |
+| Study-tips carousel | 😊 Inspired | No |
+
+**🏆 CTF Challenge:**  
+The goal is not a "correct" mood — it is spotting the mechanism. Write one sentence naming the pattern the feed used on you, then submit: `flag{feed_pattern_found}`
+
+> 💡 *ECNO Alignment:* Extends the **Digital Minds** theme (safe and responsible AI use, protecting privacy) and the **Digital Me** theme (recognising risk) into algorithmic literacy — a Phase 4 module the theme-level material does not reach. Run alongside Session 9.

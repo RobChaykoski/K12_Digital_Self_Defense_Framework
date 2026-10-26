@@ -24,6 +24,8 @@ Inspect the URL. The flag is hidden in the discrepancy: `flag{spot_the_fake_link
 
 **Instructions:** Listen to two audio clips. One is real, one is AI-cloned. Use the "Family Safe Word" list to verify.
 
+> ⚠️ **Do not score yourself on whether you could hear the difference.** Current voice cloning is often indistinguishable by ear. That is exactly why the rule is *verify through another channel* — not *listen harder*.
+
 | Clip ID | Real or AI? | Safe Word Used? | Tell Found |
 |---------|:-----------:|:---------------:|------------|
 | A       | [ ] Real [ ] AI | [ ] Yes [ ] No | _________________________ |
@@ -47,14 +49,14 @@ The correct audio file's waveform visualization contains a QR code. Scan it for:
 | **4** | ✅ **TELL** a trusted adult & Report to Cybertip.ca / Take It Down | [ ] |
 
 **🏆 CTF Challenge:**  
-Combine the first letters of your 4 protocol steps in order: `flag{stop_screenshot_block_report}`.
+Write the four moves in order, lowercase, joined by underscores: `flag{dont_pay_dont_reply_dont_delete_tell}`.
 
 ---
 
-## Wi-Fi Whisperer (Session 4)
+## Wi-Fi Whisperer (Session 2)
 **Mapped CTF:** *Wi-Fi Whisperer* | **Category:** Forensics (Packet Sniffing)
 
-**Instructions:** Analyze the provided `.pcap` hex dump or use a web-based Wireshark demo. Look for unencrypted HTTP traffic containing login details.
+**Instructions:** Analyze the provided `.pcap` hex dump or use a web-based Wireshark demo. Look for unencrypted HTTP traffic containing login details. This is why "look for the padlock" matters: on an unencrypted connection, a password is readable by anyone on the same network.
 
 | Packet # | Protocol | Payload Preview | Flag Found? |
 |----------|:--------:|-----------------|:-----------:|
@@ -75,29 +77,30 @@ The plaintext password in the packet reveals: `flag{unencrypted_found}`.
 | Cipher Type | Encoded String | Decoded Result |
 |:----------:|----------------|----------------|
 | Base64     | `ZmxhZ3tteV9zZWNyZXRfaXNfc2F0ZX0=` | _________________________ |
-| Caesar (Shift 3) | `#kdwg#lr#wklqw` | _________________________ |
+| Caesar (Shift 3, `#` stands for a space) | `#nhhs#lw#vhfuhw` | _________________________ |
 
 **🏆 CTF Challenge:**  
 Decoded text reveals: `flag{my_secret_is_safe}`.
 
 ---
 
-## Cyberbullying Cipher Decode (Session 6 — Digital Wellness Extension)
+## Cyberbullying Cipher Decode (Digital Wellness extension)
 **Mapped CTF:** *The Cyberbullying Cipher Decode* | **Category:** Digital Wellness (Mental Health & Coping)
 
 **Student Name:** ____________________  
 **Date:** ______________  
 
-**Instructions:** ECNO's Digital Wellness pillar emphasizes coping with cyberbullying. A classmate posts an unkind comment: `xli qvwxuv wkh phzj`. Use a Caesar cipher (shift +3) to decode the message.
+**Instructions:** ECNO's Digital Wellness theme covers coping with cyberbullying. A classmate posts an unkind comment, encrypted with a Caesar cipher: each letter was shifted **forward 3** in the alphabet (A→D, B→E, …). Shift each letter **back 3** to read it.
+
+Ciphertext: `xqnlg zrugv kxuw`
 
 | Encoded | Decoded |
 |---------|--------|
-| xli | ___ |
-| qvwxuv | ___ |
-| wkh | ___ |
-| phzj | ___ |
+| xqnlg | ___ |
+| zrugv | ___ |
+| kxuw | ___ |
 
 **🏆 CTF Challenge:**  
-Write the decoded message on your worksheet. Submit: `flag{the big mean}`
+Write the decoded message on your worksheet. Submit: `flag{unkind_words_hurt}`
 
-> 💡 *ECNO Alignment:* Addresses **Digital Wellness** by practicing decoding unkind messages and applying the Stop/Screenshot/Block/Report protocol — complementing ECNO's middle-school cyberbullying resources.
+> 💡 *ECNO Alignment:* Addresses the **Digital Minds / Digital Me** themes by practising a decoding skill on a message about online cruelty — a 10-minute advisory or homeroom activity, not tied to a numbered session. The response protocol attached to bullying is the same **3 Do Nots + Tell** used in Session 6, minus the payment step: don't reply, don't delete, tell an adult, and report through the school's pathway.

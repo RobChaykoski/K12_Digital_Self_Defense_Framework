@@ -211,11 +211,12 @@ Trick checklist: ☐ rush me ☐ scare me ☐ ask for info ☐ ask me to click �
 
 | Session | CTF Scenario | Cheat Sheet Category | Worksheet Reference |
 |---------|--------------|---------------------|-------------------|
-| S1 | The Phishing Post Office | Web Hacking (Source Code) | `07_CTF_Worksheets.md#phishing-post-office` |
-| S2 | The Password Lockbox | File Hacking (Basics) | `07_CTF_Worksheets.md#password-lockbox` |
-| S3 | Red Light, Green Light Links | Web Hacking (Visual) | `07_CTF_Worksheets.md#link-lab-sorting` |
-| S4 | AI Art Detective | Forensics (Visual) | `07_CTF_Worksheets.md#ai-art-detective` |
-| S5 | The Digital Footprint Trail | File Hacking (Steganography) | `07_CTF_Worksheets.md#digital-footprint-trail` |
+| Track B, S1 | The Phishing Post Office | Web Hacking (Source Code) | `07_CTF_Worksheets.md#the-phishing-post-office-track-b-session-1` |
+| Track A, S2 | The Password Lockbox | File Hacking (Basics) | `07_CTF_Worksheets.md#the-password-lockbox-track-a-session-2` |
+| Track A, S3 | Red Light, Green Light Links | Web Hacking (Visual) | `07_CTF_Worksheets.md#link-lab-sorting-track-a-session-3` |
+| Track A, S4 | The Social Media Mood Tracker | Digital Wellness (Journaling) | `07_CTF_Worksheets.md#social-media-mood-tracker-track-a-session-4--screen-time-boundaries` |
+| Track B, S4 | AI Art Detective | Forensics (Visual) | `07_CTF_Worksheets.md#ai-art-detective-track-b-session-4` |
+| Track A, S5 | The Digital Footprint Trail | File Hacking (Steganography) | `07_CTF_Worksheets.md#digital-footprint-trail-track-a-session-5` |
 
 **Implementation Notes:**
 - Flags follow the format `flag{answer}`.

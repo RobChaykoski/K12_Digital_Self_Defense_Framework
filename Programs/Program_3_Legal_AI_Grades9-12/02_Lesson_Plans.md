@@ -173,11 +173,12 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 
 | Session | CTF Scenario | Cheat Sheet Category | Worksheet Reference |
 |---------|--------------|---------------------|-------------------|
-| S1 | The School Server | System (Boot2Root) | `07_CTF_Worksheets.md#school-server` |
-| S2 | MFA Mayhem | Web Hacking (Auth) | `07_CTF_Worksheets.md#mfa-mayhem` |
-| S4 | Deepfake Detectives | Forensics (EXIF/Hash) | `07_CTF_Worksheets.md#deepfake-detectives` |
-| S8 | Crypto Rush & Rug Pulls | Crypto (Smart Contracts) | `07_CTF_Worksheets.md#crypto-scam-autopsy` |
-| S10 | Privilege Climb | PrivEsc (Linux Permissions) | `07_CTF_Worksheets.md#priv-escalation` |
+| S1 | The School Server | System (Boot2Root) | `07_CTF_Worksheets.md#the-school-server-session-1` |
+| S2 | MFA Mayhem | Web Hacking (Auth) | `07_CTF_Worksheets.md#mfa-mayhem-session-2` |
+| S4 | Deepfake Detectives | Forensics (EXIF/Hash) | `07_CTF_Worksheets.md#deepfake-detectives-session-4` |
+| S8 | Crypto Rush & Rug Pulls | Crypto (Smart Contracts) | `07_CTF_Worksheets.md#crypto-rush--rug-pulls-session-8` |
+| S9 | The Algorithmic Mood Audit | Digital Wellness | `07_CTF_Worksheets.md#algorithmic-mood-audit-session-9--social-media-algorithms` |
+| Extension | Privilege Climb | PrivEsc (Linux Permissions) | `07_CTF_Worksheets.md#privilege-climb-extension--follows-the-school-server` |
 
 **Implementation Notes:**
 - Flags follow the format `flag{answer}`.
