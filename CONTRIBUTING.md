@@ -28,16 +28,16 @@ Use the [Issue Templates](.github/ISSUE_TEMPLATE/) to submit:
 - **CTF Flags**: Format as `flag{description}`
 - **Tables**: Align columns for readability
 - **Images/Assets**: Place in `/assets/` and reference with relative paths
-- **File Naming**: Use snake_case (e.g., `07_ctf_worksheets.md`)
+- **File Naming**: follow the neighbours in the folder you are editing. The numbered program series uses `NN_Title_Case.md` (`07_CTF_Worksheets.md`); `docs/` uses `lower_snake_case.md` (`ctf_scoring_rubric.md`). Do not rename files without updating every reference — `make validate` checks this.
 
 ## 🧪 Testing & Validation
 
-Run the included scripts to validate your changes:
+Run the validator before you commit. It exits non-zero on failure, so it works in CI:
 ```bash
-make validate    # Check markdown syntax
-make qr-generate # Generate QR codes for worksheets
-make pdf-export  # Compile handouts to PDF (requires pandoc)
+python3 scripts/validate_repo.py   # conflict markers, BOMs, links and anchors, CTF flags
+make validate                      # the same check, wrapped for make users
 ```
+It checks that no merge-conflict marker survived, no file carries a UTF-8 BOM, every relative link and heading anchor resolves, and every CTF flag matches both its format rule and the scoring rubric.
 
 ## ❓ Questions?
 Open a [Discussion](https://github.com/RobChaykoski/K12_Digital_Self_Defense_Framework/discussions) or tag `@RobChaykoski` in issues.
