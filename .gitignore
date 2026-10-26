@@ -21,6 +21,14 @@ ENV/
 *.log
 logs/
 
+# Generated / temporary artifacts
+_temp_tree.txt
+*.tmp
+~$*
+*-Copy.md
+unsloth-tmp/
+.unsloth_attachments/
+
 # Compiled assets
 *.pdf
 *.docx

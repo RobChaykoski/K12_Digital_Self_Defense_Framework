@@ -1,0 +1,21 @@
+# Normalize line endings.
+#
+# This repository is edited on Windows and read on GitHub. Without this file,
+# mixed CRLF/LF endings produce phantom diffs on every edit and make `git blame`
+# unreliable. Text is stored LF in the repo and checked out LF everywhere.
+* text=auto eol=lf
+
+*.md      text eol=lf
+*.py      text eol=lf
+*.svg     text eol=lf
+*.yml     text eol=lf
+*.yaml    text eol=lf
+Makefile  text eol=lf
+
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.pdf     binary
+*.docx    binary
+*.xlsx    binary
