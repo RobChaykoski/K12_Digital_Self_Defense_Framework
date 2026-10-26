@@ -33,7 +33,7 @@ Your teen is in the **Wild West**: adult-grade threats (credential stuffing, voi
 **Their first 24 hours matter more than any investigation.**
 1. **No blame, no anger, no device seizure as punishment.** Say: "Thank you for telling me. This is not your fault. Here's what we'll do."
 2. **Preserve evidence:** don't delete conversations or accounts; screenshot everything (dates, usernames, messages). If something was already deleted, log what can still be recovered — never reconstruct or exaggerate evidence.
-3. **The 3 Do Nots apply to them too:** don't pay anything, don't reply to the scammer, don't let them feel they must fix it alone.
+3. **The 3 Do Nots + Tell apply to them too:** don't pay anything, don't reply to the scammer, don't delete the messages (screenshots are evidence) — and make sure they know they don't have to fix it alone.
 4. **The reporting decision tree:** images of a minor or threats to safety → **police now**; everything else → **Cybertip.ca first** (confidential, Canada's national tipline). Intimate images of minors: also **Take It Down** and **Project Arachnid**. They can report themselves — walk it with them if they want.
 5. **The legal reality, said out loud:** the crime is committed by the threatener, every single time (extortion s.346; publication of intimate images s.162.1). Your teen is a victim, not a suspect. Say that sentence to their face.
 6. **Support over surveillance:** temporary changes framed as care, not punishment. Watch for trauma responses (sleep changes, withdrawal, grade drops) — **NeedHelpNow.ca** is 24/7 and anonymous; follow up with the counsellor if symptoms persist a week or more.

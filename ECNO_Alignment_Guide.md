@@ -54,7 +54,7 @@ The campaign is deliberately broad and shallow so it can serve every board. This
 
 | Extension | Theme it deepens | What it adds |
 |---|---|---|
-| **Aged sextortion protocol** | Digital Us | A named, ordered response (the 4-Ds: don't pay, don't reply, don't delete, tell) plus evidence handling and reporting routing, differentiated for Grades 6–8 and 9–12 |
+| **Aged sextortion protocol** | Digital Us | A named, ordered response (the **3 Do Nots + Tell** — don't pay, don't reply, don't delete, tell) plus evidence handling and reporting routing, differentiated for Grades 6–8 and 9–12 |
 | **Crypto and investment scams** | Digital Me / Digital Minds | Rug pulls, fake airdrops, pump-and-dump, and "recovery agent" second-layer scams — a Phase 4 module the theme material does not reach |
 | **Voice cloning and the family safe word** | Digital Families | An offline verification habit a family can actually run, taught in Phase 3 and reinforced in Phase 4 |
 | **AI provenance over AI "tells"** | Digital Minds | Source tracing, reverse image search, corroboration, and confidence statements rather than visual-artifact spotting, which does not survive contact with current generators |

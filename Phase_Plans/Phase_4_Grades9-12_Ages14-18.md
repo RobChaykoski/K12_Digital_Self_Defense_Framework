@@ -307,9 +307,9 @@ By the end of this phase, students will be able to:
 
 **Night — Sextortion Response:**
 > Stranger in Discord sent video of student doing a handstand. Message: "Nice! Send $10 via crypto wallet 0xAbC... or I'll post it at 6 PM."  
-> *Action:* Apply Stop, Screenshot, Block, Report. Decide: pay, wait, or block?
+> *Action:* Apply the 3 Do Nots + Tell — don't pay, don't reply, don't delete, tell. Decide: pay, reply, or preserve and report?
 
-*Answers:* (1) Phishing — misspelled sender + urgency + suspicious link → report, (2) Voice clone — use safe word → verify before sending, (3) Deepfake — unnatural hands → scroll past, (4) Crypto scam — guaranteed returns + unknown wallet → wait/skip, (5) Sextortion — apply all 4 steps → block and report.
+*Answers:* (1) Phishing — misspelled sender + urgency + suspicious link → report, (2) Voice clone — use safe word → verify before sending, (3) Deepfake — unnatural hands are a clue, not proof → verify the source before acting, (4) Crypto scam — guaranteed returns + unknown wallet → wait/skip, (5) Sextortion — apply the 3 Do Nots + Tell → don't pay, don't reply, don't delete, tell.
 
 ---
 

@@ -56,7 +56,7 @@ That last point is the strongest single justification for this framework's sexto
 | Legal tools to combat deepfakes | Program 3 legal panel — Criminal Code s.162.1, extortion s.346, and the limits of what a victim can do alone |
 | Safeguarding children's information and online activity | Password and identity hygiene (Phase 3–4), privacy settings audits (all phases), data minimisation in every activity |
 | AI transparency and watermarking | Provenance-first media analysis; students learn to ask *where did this come from* rather than *does it look fake* |
-| Online safety and reporting | The 4-Ds sextortion protocol, Cybertip.ca routing, evidence preservation |
+| Online safety and reporting | The 3 Do Nots + Tell sextortion protocol, Cybertip.ca routing, evidence preservation |
 
 ### Explicitly not claimed
 

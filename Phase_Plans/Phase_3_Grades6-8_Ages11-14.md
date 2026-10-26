@@ -23,7 +23,7 @@ By the end of this phase, students will be able to:
 1. Identify phishing in Discord, Roblox, and Snapchat contexts using sender analysis and link previewing
 2. Set up multi-factor authentication (MFA) on at least two personal accounts
 3. Explain how voice cloning works and use a "Family Safe Word" to verify calls
-4. Apply the "Stop, Screenshot, Block, Report" protocol when facing sextortion
+4. Apply the "3 Do Nots + Tell" protocol when facing sextortion
 5. Recognize basic signs of AI-generated images and audio
 
 ---
@@ -96,13 +96,13 @@ By the end of this phase, students will be able to:
 
 #### Session 5: "Sextortion Basics" — Stranger Danger in Gaming Chats (45 min)
 
-**Objective:** Understand the sextortion process and apply the "Stop, Screenshot, Block, Report" protocol
+**Objective:** Understand the sextortion process and apply the "3 Do Nots + Tell" protocol
 
 | Time | Activity | Description |
 |------|----------|-------------|
 | 0-5 min | Hook | Show a cartoon of a gamer chatting with a stranger who asks them to move to Snapchat. Ask: "Why would they do that?" Discuss the idea of moving to unmonitored apps. |
 | 5-12 min | Direct Instruction | Explain sextortion simply: someone records a video/photo of you, then asks for money to not share it publicly. Show a flowchart of the process. |
-| 12-22 min | Guided Practice: "The 4 Steps" | Students practice each step with sample screenshots: (1) Stop — don't panic or reply, (2) Screenshot — capture usernames and messages, (3) Block — cut off the scammer, (4) Report — tell a trusted adult. |
+| 12-22 min | Guided Practice: "The 3 Do Nots + Tell" | Students apply the four moves to sample screenshots: (1) **DON'T PAY** — paying proves you will pay again and never stops the demands, (2) **DON'T REPLY** — any reply feeds them; screenshot first, then block, (3) **DON'T DELETE** — screenshots are the evidence police and takedown services need, (4) **TELL** a trusted adult, then report to Cybertip.ca (and Take It Down if images are involved). |
 | 22-32 min | Role-Play: "The Sextortion Scenario" | In pairs, students act out a sextortion scenario using printed scenario cards. One plays the victim, one plays the scammer. They practice all 4 steps. |
 | 32-45 min | Wrap-Up & Exit Ticket | Students write: "What's the most important step? Why shouldn't you delete the evidence right away?" |
 
@@ -110,15 +110,15 @@ By the end of this phase, students will be able to:
 
 ---
 
-#### Session 6: "The 3 Do Nots" — Sextortion Protocols (45 min)
+#### Session 6: "The 3 Do Nots + Tell" — Sextortion Protocols (45 min)
 
-**Objective:** Apply the three key rules of sextortion response and use discreet resources
+**Objective:** Apply the three key rules of sextortion response, tell a trusted adult, and use discreet resources
 
 | Time | Activity | Description |
 |------|----------|-------------|
 | 0-5 min | Hook | Show a student looking stressed while checking their phone. Ask: "What if someone sent you a video and wants $10?" Discuss reactions. |
-| 5-12 min | Direct Instruction | Teach the 3 Do Nots: (1) Do NOT pay or negotiate, (2) Do NOT delete evidence, (3) Do NOT panic alone. Explain why each rule matters with examples. |
-| 12-22 min | Guided Practice: "What Would You Do?" | Students receive scenario cards describing different sextortion situations. They write down which of the 3 Do Nots apply and why. Teacher reviews as a class. |
+| 5-12 min | Direct Instruction | Teach the 3 Do Nots + Tell: (1) Do NOT pay or negotiate — paying proves you will pay again, (2) Do NOT reply — any reply feeds them; screenshot, then block, (3) Do NOT delete — screenshots are the evidence police and takedown services need, then (4) TELL a trusted adult and report. Explain why each rule matters with examples. |
+| 12-22 min | Guided Practice: "What Would You Do?" | Students receive scenario cards describing different sextortion situations. They write down which of the 3 Do Nots apply, what they would screenshot, and whom they would tell. Teacher reviews as a class. |
 | 22-32 min | Resource Exploration: "Silent & Discreet Help" | Students use tablets to visit Take It Down, NeedHelpNow.ca, and Cybertip.ca. They take notes on what each site offers and how to access it anonymously. |
 | 32-45 min | Wrap-Up & Exit Ticket | Students complete a reflection: "Which Do Not is hardest to follow? Why? How does knowing about Take It Down help?" |
 
@@ -253,7 +253,7 @@ By the end of this phase, students will be able to:
 > Stranger in Roblox: "Send me a video of you doing a handstand. I'll give you 10,000 Robux!"  
 > [Student sends video. Stranger replies: "Nice! Send $5 to unlock the full version or I'll post it."]
 
-*Answers:* (1) Phishing — misspelled sender + urgency + suspicious link, (2) Voice clone — use safe word ("What's for dinner?"), (3) Deepfake — unnatural hands, (4) Sextortion — apply Stop, Screenshot, Block, Report.
+*Answers:* (1) Phishing — misspelled sender + urgency + suspicious link, (2) Voice clone — use safe word ("What's for dinner?"), (3) Deepfake — unnatural hands (a clue, not proof), (4) Sextortion — apply the 3 Do Nots + Tell: don't pay, don't reply, don't delete, tell.
 
 ---
 

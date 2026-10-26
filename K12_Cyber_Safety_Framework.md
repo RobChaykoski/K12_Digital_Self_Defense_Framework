@@ -88,14 +88,15 @@ This framework now incorporates two major AI literacy resources:
 | **Pillar 1: Account Fortification & Scams** | Phishing via Discord/Roblox/Snapchat; account takeovers via fake login links | Understand credential stuffing and password reuse | Create a password manager; practice identifying fake login pages |
 | **Pillar 2: AI & Synthetic Media** | Voice cloning for prank calls or "freemium" game currency scams; spotting synthetic imagery | Learn the "Family Safe Word" to counter voice clones | Record family safe words; play AI voice clone audio samples |
 | **Pillar 3: AI Data Privacy & Ethics** | AI tools collecting data; ethical guardrails; Indigenous data sovereignty | Understand what data AI tools collect and how it's used | Audit AI app permissions; create a personal data privacy plan |
-| **Pillar 4: Sextortion & Digital Coercion** | Stranger danger in gaming chats; moving chats to unmonitored secondary apps (Snap/Insta) | Master "Stop, Screenshot, Block, Report" protocol | Role-play sextortion scenarios with discreet reporting |
+| **Pillar 4: Sextortion & Digital Coercion** | Stranger danger in gaming chats; moving chats to unmonitored secondary apps (Snap/Insta) | Master the "3 Do Nots + Tell" protocol | Role-play sextortion scenarios with discreet reporting |
 
 **Key Protocols Taught:**
-- 🔒 **The 3 Do Nots of Sextortion:**
-  1. Do NOT pay or negotiate (paying always leads to more demands)
-  2. Do NOT delete evidence immediately (screenshot first!)
-  3. Do NOT panic alone (loop in a trusted adult)
-- 🤖 **AI Detection Basics:** Check for unnatural patterns, inconsistent lighting, mismatched details in AI images; listen for robotic speech patterns in audio
+- 🔒 **The 3 Do Nots + Tell (sextortion):**
+  1. Do NOT pay or negotiate — paying proves you will pay again and never ends the demands
+  2. Do NOT reply — any reply feeds them; screenshot, then block
+  3. Do NOT delete — screenshots are the evidence police and takedown services need
+  4. **TELL** a trusted adult, then report — Cybertip.ca for online sexual exploitation of children, Take It Down if images are involved, 9-1-1 if anyone is in immediate danger
+- 🤖 **Synthetic media: provenance first.** Visual and audio "tells" are clues, not proof — current generators make fewer errors every year. Verify by source, reverse image search, and corroboration before you act on what an image or voice claims.
 
 **AI Literacy For All Resources:**
 - **The Clone Game:** Voice cloning detection exercise

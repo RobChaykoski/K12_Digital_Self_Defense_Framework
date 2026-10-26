@@ -225,7 +225,7 @@ This "Stop & Think" principle aligns with:
 - **ISED AI Literacy** — thoughtful AI engagement
 - **ISED AI for All** — accessible, mindful AI use for all ages
 - **Kids Help Phone** — "When in doubt, reach out"
-- **Cybertip.ca** — Stop, screenshot, share
+- **Cybertip.ca** — report online sexual exploitation of children (Mon–Fri 8:30–4:00 CT; call 9-1-1 in an emergency)
 
 ---
 

@@ -29,7 +29,7 @@ Your kid is now in the **social pressure zone**. The threats are no longer carto
 **Their first 24 hours matter more than any investigation.**
 1. **No blame, no anger, no device seizure as punishment.** Say: "Thank you for telling me. This is not your fault. Here's what we'll do."
 2. **Preserve evidence:** don't delete the conversations or accounts; screenshot everything (dates, usernames, messages).
-3. **The 3 Do Nots apply to them too:** don't pay anything, don't reply to the scammer, don't let them feel they must fix it alone.
+3. **The 3 Do Nots + Tell apply to them too:** don't pay anything, don't reply to the scammer, don't delete the messages (screenshots are evidence) — and make sure they know they don't have to fix it alone.
 4. **Report:** **Cybertip.ca** (confidential, Canada's national tipline — sextortion is one of its top report types). If images are involved: **Take It Down** (NCMEC, anonymous takedown) and **NeedHelpNow.ca** for youth support.
 5. **Support over surveillance:** temporary screen-time changes are fine as *care*, framed as "we're resting your eyes/brain", not punishment. Watch for trauma responses (sleep changes, withdrawal, grade drops) — follow up with a counsellor if they persist.
 6. **If you suspect your child is on the OTHER side** (pressuring others): this is also a disclosure to handle calmly — it's often peer pressure or curiosity gone wrong. Guidance counsellor + C3P's restorative approaches exist for exactly this; shame guarantees it continues in secret.
