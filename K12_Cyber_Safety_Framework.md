@@ -8,7 +8,7 @@
 - ISED Canada's National AI Strategy — AI for All (ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all)
 - AI Literacy For All Curriculum (educators.ailiteracyforall.ca/the-curriculum)
 **Target Audience:** Kindergarten through Grade 12 (K-12)  
-**Version:** 2.0 — Updated October 2026
+**Version:** 3.0 — Updated October 2026
 
 ---
 
@@ -150,11 +150,11 @@ This framework now incorporates two major AI literacy resources:
 - **Indigenous AI Principles:** Reflection on data sovereignty and community governance
 
 **ISED National AI Strategy — AI for All Integration:**
-- **National AI Policy Debate:** Research Canada's 5-pillar AI strategy and present on one pillar
-- **AIDA (AI & Data Act):** Understand Canada's proposed AI legislation and its impact on students
-- **Canadian AI Careers:** Explore careers in AI research, policy, ethics, and development
-- **AI for All Challenge:** Design an AI tool that serves an underserved community
-- **Canada.AI Transparency:** Analyze how the federal government uses AI in public services
+- **National AI Policy Debate:** Research Canada's *six*-pillar AI strategy (Protecting Canadians; Empowering Canadians; Powering AI adoption; Building the sovereign AI foundation; Scaling Canadian champions; Trusted partnerships) and present on one
+- **AI Literacy Gap Analysis:** Examine the strategy's finding that Canada ranks 44th of 47 countries on AI training and literacy — and who locally has and hasn't had access
+- **Canadian AI Careers:** Explore roles in AI safety, evaluation, policy, accessibility, and research (Mila, Vector, Amii)
+- **AI for All Challenge:** Design an AI tool that serves an underserved community, then place it under the pillar it belongs to
+- **Transparency and Watermarking Audit:** Examine the strategy's commitments on labelling AI-generated content and identify where real-world labelling is absent
 
 **Key Takeaway:** *The internet rewards the informed and punishes the impulsive. Think before you click, invest, share, or trust AI content. Your data is yours — govern it wisely.*
 
@@ -175,7 +175,7 @@ This framework integrates AI literacy with existing subjects, following the AI L
 | **Health/Physical Education** | AI health apps, sleep tracking, mental health chatbots | Screen time impact, eye strain, posture, mental health from AI-curated feeds |
 | **Art** | AI-generated art, style transfer, deepfake visual analysis | Digital ownership, AI art licensing, ethical use of creative content |
 | **Business/Entrepreneurship** | AI in marketing, customer service, e-commerce | Crypto scams, influencer affiliate traps, AI-powered social proof |
-| **Indigenous Studies** | Indigenous data sovereignty, AI in language preservation | Community governance of digital data, traditional knowledge in AI, CPTPP AI guidelines |
+| **Indigenous Studies** | Indigenous data sovereignty, AI in language preservation | Community governance of digital data, traditional knowledge in AI, Indigenous-led AI initiatives |
 
 ### AI Literacy For All - Pedagogical Agency Integration
 
@@ -326,8 +326,6 @@ This principle is developmentally adaptive:
 ### v3.0 Change Log:
 - Added ISED Canada's National AI Strategy — AI for All as integrated resource
 - Added Canadian AI innovator spotlights (Mila, Vector, Amii)
-- Added AIDA (AI & Data Act) policy context for high school
-- Extended Indigenous data sovereignty with CPTPP AI guidelines
 - Added National AI Policy Debate and AI for All Challenge capstone projects
 **Prepared:** September 2026 | **Updated:** October 2026
 **Next Review:** March 2027 (with threat landscape update)

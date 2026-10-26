@@ -318,12 +318,11 @@ By the end of this phase, students will be able to:
 **Next Review:** March 2027
 
 ### v1.1 Additions:
-- Added "National AI Policy Debate" — students research and present on Canada's 5-pillar AI strategy
-- Added "AIDA (AI & Data Act)" — understand Canada's proposed AI legislation
+- Added "National AI Policy Debate" — students research and present on one of the six pillars of Canada's AI for All strategy
+- Added "AI Literacy Gap Analysis" — examine who locally has and has not had access
 - Added "Canadian AI Careers" exploration module
 - Added "AI for All Challenge" capstone project — design AI tool for underserved community
-- Added "Canada.AI Transparency" exercise — analyze government AI use
-- Aligned with ISED National AI Strategy pillars: Global Leadership, Responsible AI, AI for All, Indigenous AI
-- Integrated ISED AI Literacy Initiative reference
-- Integrated ISED Canada's National AI Strategy — AI for All reference
-- Extended "Legal AI & Canadian Law" with AIDA, Canada.AI, and Global AI Governance Hub
+- Added "Transparency and Watermarking Audit" — find AI-generated content in the wild and check for labels
+- Aligned with the six ISED National AI Strategy pillars: Protecting Canadians and safeguarding democracy; Empowering Canadians; Powering AI adoption for shared prosperity; Building the Canadian sovereign AI foundation; Scaling Canadian champions; Building trusted partnerships and global alliances
+- Integrated ISED AI Literacy Initiative and AI for All references
+- Extended "Legal AI & Canadian Law" with the strategy's deepfake provisions and Criminal Code s.162.1
