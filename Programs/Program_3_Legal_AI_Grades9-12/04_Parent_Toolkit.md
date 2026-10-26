@@ -19,7 +19,7 @@ Your teen is in the **Wild West**: adult-grade threats (credential stuffing, voi
 | 1 | Do the audit together — each family member names their crown-jewel account (sites only, no passwords aloud); optionally check one email at Have I Been Pwned. |
 | 2 | Your teen sets up an authenticator app on a family account — they're the expert; you store your backup codes somewhere safe and tell them where. |
 | 3 | Agree on the family safe word + callback number; run one practice drill (you call, they verify). |
-| 4 | Watch a labelled deepfake together and hunt for at least 4 tells with the tell list. |
+| 4 | Watch a labelled deepfake together; trace where it came from, then note clues — and say out loud that clues are not proof. |
 | 5 | Listen to a voice-clone clip together; talk elder fraud — does your family have grandparents who'd be targeted? |
 | 6 | Read the sextortion business-model page (D5/D6) together — then let them ask questions without judgment. |
 | 7 | Protocol night: you act out one scenario, they walk you through the full response file step by step. |

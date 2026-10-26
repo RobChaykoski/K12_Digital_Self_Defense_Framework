@@ -23,19 +23,19 @@ Correct completion reveals: `flag{multi_layer_active}`.
 ## Deepfake Detectives (Session 4)
 **Mapped CTF:** *Deepfake Detectives* | **Category:** Forensics (EXIF/Hash)
 
-**Instructions:** Analyze the two provided images. Use the forensic stack to determine which is REAL and which is AI/Deepfake.
+**Instructions:** Analyze the two provided images. Work in the order of evidence strength, then decide which image the available evidence supports calling AI — and state what the evidence does **not** prove.
 
-| Forensic Check | Image A (Real/AI?) | Image B (Real/AI?) | Evidence / Tells Found |
-|----------------|:------------------:|:------------------:|------------------------|
-| ✋ Hands / Teeth / Jewelry Glitches | [ ] Real [ ] AI | [ ] Real [ ] AI | _________________________ |
-| 👁️ Eyes (Blinking, Reflections) | [ ] Real [ ] AI | [ ] Real [ ] AI | _________________________ |
-| 🪞 Hair Edges & Lighting Mismatches | [ ] Real [ ] AI | [ ] Real [ ] AI | _________________________ |
-| 📝 Text / Logos Garbled | [ ] Real [ ] AI | [ ] Real [ ] AI | _________________________ |
+| Check (in order) | Image A | Image B | Evidence / limit |
+|------------------|---------|---------|------------------|
+| **1. Source** — who published it first, and is that account verifiable? | _____________ | _____________ | _________________________ |
+| **2. Reverse image search** — earlier appearance elsewhere? | _____________ | _____________ | _________________________ |
+| **3. Corroboration** — independent report of the same thing? | _____________ | _____________ | _________________________ |
+| **4. Clues** — hands/teeth glitches, eyes/reflections, hair edges, lighting, garbled text | [ ] Real [ ] AI | [ ] Real [ ] AI | _________________________ |
 
 **🏆 CTF Challenge:**  
-Run a reverse image search and check the file's metadata (right-click → Properties → Details). **Neither check is conclusive:** most platforms strip EXIF, and a real photo can be re-uploaded without it. Submit the flag once you can name the AI image *and* the evidence that supports your call: `flag{truth_detected}`
+Run a reverse image search and check the file's metadata (right-click → Properties → Details). **Neither check is conclusive:** most platforms strip EXIF, and a real photo can be re-uploaded without it. Submit the flag once you can name the AI image *and* the evidence that supports your call, plus one line on what the evidence cannot prove: `flag{truth_detected}`
 
-> ⚠️ **The tells in the table above are clues, not proof.** They are getting rarer every year. The durable skills are source tracing, reverse search, and corroboration — decide what the image *claims* and whether anything independent supports it.
+> ⚠️ **The clues are not proof.** They are getting rarer every year. The durable skills are source tracing, reverse search, and corroboration — decide what the image *claims* and whether anything independent supports it.
 
 ---
 

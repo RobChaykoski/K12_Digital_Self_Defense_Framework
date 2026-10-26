@@ -53,26 +53,26 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 | Time | Activity |
 |------|----------|
 | 5 min | Hook: a labelled celebrity deepfake video played twice — first at normal speed, then paused frame-by-frame. "Now find it." |
-| 10 min | Teach the forensic stack: Program 2's tell list + **tools** — reverse image search (where did this originate?) • metadata/EXIF basics • free detection tools & browser extensions (demo 1–2) • the provenance question (original source, uploader history, timing vs. events). |
-| 20 min | **Lab:** 4 labelled samples (video + stills, public material). Teams run the full pipeline: tells → reverse search → metadata → verdict with confidence level + written evidence brief. Reveal ground truth; compare which method caught what. *(Never use classmates' images. AI-CSAEM is discussed at pattern level only — never shown.)* |
+| 10 min | Teach the order of checks: **source** (who published it first, and what does the uploader's history show?) → **reverse image search** → **corroboration** (does any independent outlet report it?) → **clues** (visual artefacts, and what else could explain them). Metadata/EXIF is taught as *usually stripped on upload* and therefore weak; free detection tools are demonstrated as probabilistic prompts to check provenance, not verdicts. |
+| 20 min | **Lab:** 4 labelled samples (video + stills, public material). Teams run the full pipeline in order — source → reverse search → corroboration → clues — and write an evidence brief with a confidence level that states what the evidence does *not* prove. Reveal ground truth; compare which check caught what. *(Never use classmates' images. AI-CSAEM is discussed at pattern level only — never shown.)* |
 | 5 min | The legal lens: non-consensual deepfakes of real people — intimate ones are criminal in Canada (publication of intimate images); even non-intimate ones carry defamation/identity-theft exposure. |
-| 5 min | Exit ticket: *Name 2 tells, 2 tools, and say which piece of evidence is strongest — and what it still cannot prove.* |
+| 5 min | Exit ticket: *Name 2 source checks, 2 clues, and say which piece of evidence is strongest — and what it still cannot prove.* |
 
 **Materials:** labelled sample set, tool accounts/devices, evidence brief template (D4).
 
 ## Session 5: "Audio Forensics" — Cloned Voice & Lip-Sync Errors (50 min)
 **In this session:** Echo leads; Lens.
-**Objective:** Detect synthetic audio and lip-sync failures using waveform/visual analysis.
+**Objective:** Explain why waveform and lip-sync artefacts are clues rather than proof, and verify an audio claim by tracing its source.
 
 | Time | Activity |
 |------|----------|
 | 5 min | Hook: same sentence, three versions (human, cloned, TTS) — blind vote. Reveal. "You just did the hard part: your ear can't be trusted alone." |
-| 10 min | Teach audio tells: missing breaths/micro-pauses • robotic cadence on emphasis • background noise too uniform • **lip-sync:** mouth shape vs. phoneme mismatches, jaw timing, frame interpolation smearing. Intro to waveform visualization (free online tool) — synthetic speech has telltale silence patterns. |
-| 20 min | **Forensics lab:** 6 audio/video clips (labelled set). Teams assign roles (ear-tester, waveform analyst, lip-sync watcher, provenance researcher) and file a joint verdict with the strongest single piece of evidence. Debrief: which tell was most reliable? |
+| 10 min | Teach the order of checks and the artefacts. Source first: who published the clip, on what account, and does the claimed context match the timing? Then corroboration: can another channel confirm the request? Only then the audio clues — missing breaths/micro-pauses, robotic emphasis, uniform background noise, lip-sync mismatches, frame interpolation smearing. Waveform visualisation can show anomalies, but it does not deliver a verdict; better generators erase the patterns. |
+| 20 min | **Forensics lab:** 6 audio/video clips (labelled set). Teams assign roles (ear-tester, waveform analyst, lip-sync watcher, provenance researcher) and file a joint verdict that names the strongest check and what it cannot prove. Debrief: which check was most reliable, and which artefact would a better generator remove? |
 | 10 min | **Identity-theft connection:** cloned voice + deepfake face = full identity attack — fake "CEO" wire requests, fake family emergencies, synthetic alibis. Tie to S1/S2: your verification protocol is the defence at human scale. |
-| 5 min | Exit ticket: *One audio tell, one visual tell, and the one question that beats both.* (Who benefits if I believe this?) |
+| 5 min | Exit ticket: *One clue, one source check, and the one question that beats both.* (Who benefits if I believe this?) |
 
-**Materials:** labelled clip set, waveform tool access, role cards.
+**Materials:** labelled clip set, waveform visualisation (optional), role cards.
 
 ## Session 6: "Sextortion Syndicates" — The Business Behind the Scam 🛑 (50 min)
 **In this session:** Vault + Clause lead; Ledger (payment rails), Static.

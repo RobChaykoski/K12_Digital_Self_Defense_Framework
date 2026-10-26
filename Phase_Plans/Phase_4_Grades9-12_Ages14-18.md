@@ -218,10 +218,10 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-15 min | Review Game: "Cyber Jeopardy" | Categories: Passwords & MFA, Voice/Visual Deepfakes, Sextortion Syndicates, Crypto Scams, Social Media Algorithms. Teams compete for points. Include practical questions (e.g., "Audit this account's security settings"). |
 | 15-25 min | Station Rotation (6 stations × 1.5 min each) | **Station A:** MFA setup simulation<br>**Station B:** Deepfake image sorting<br>**Station C:** Phishing email annotation<br>**Station D:** Sextortion role-play<br>**Station E:** Crypto scam evaluation<br>**Station F:** Algorithm bias identification |
-| 25-35 min | Certificate Ceremony | Each student receives a "Digital Self-Defense Champion" certificate, a laminated crypto scam decision tree, and an AI detection checklist. Teacher gives a brief speech about their growth. |
+| 25-35 min | Certificate Ceremony | Each student receives a "Digital Self-Defense Champion" certificate, a laminated crypto scam decision tree, and a media provenance checklist. Teacher gives a brief speech about their growth. |
 | 35-50 min | Wrap-Up & Feedback | Students complete a feedback form: Favorite lesson? Hardest concept? What to learn next? Collect for future planning. Group photo with certificates. |
 
-**Materials:** Jeopardy board materials, station supplies, certificates, laminated crypto decision trees, AI detection checklists, feedback forms, pens, laminator (if available), camera for photos
+**Materials:** Jeopardy board materials, station supplies, certificates, laminated crypto decision trees, media provenance checklists, feedback forms, pens, laminator (if available), camera for photos
 
 ---
 
@@ -266,7 +266,7 @@ By the end of this phase, students will be able to:
 - [ ] Station supplies for all 6 rotation stations
 - [ ] "Digital Self-Defense Champion" certificates
 - [ ] Laminated crypto scam decision trees
-- [ ] AI detection checklists
+- [ ] Media provenance checklists
 - [ ] Feedback forms
 - [ ] Pens and laminator (if available)
 

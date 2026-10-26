@@ -42,7 +42,7 @@ Each phase is mapped against all four themes. "Primary" means the phase does the
 | Phase | Digital Me | Digital Us | Digital Families | Digital Minds |
 |---|---|---|---|---|
 | **Phase 1 (K–2)** | **Primary** — stranger danger online, safe/unsafe actions, the traffic-light rule | Secondary — sharing, kind words, telling an adult | **Primary** — screen-time agreements, family safe word introduced | Secondary — "a computer made this" (AI as a helper, not a person) |
-| **Phase 2 (Grades 3–5)** | **Primary** — passphrases, phishing clues, link inspection | Secondary — bystander vs. upstander, cyberbullying | Secondary — home mission activities with a parent | **Primary** — real vs. synthetic images, first deepfake tells |
+| **Phase 2 (Grades 3–5)** | **Primary** — passphrases, phishing clues, link inspection | Secondary — bystander vs. upstander, cyberbullying | Secondary — home mission activities with a parent | **Primary** — real vs. synthetic images, first provenance checks |
 | **Phase 3 (Grades 6–8)** | **Primary** — MFA, account recovery, password reuse | **Primary** — sextortion protocol, consent, group-chat responsibility | Secondary — family safe word for voice clones; parent toolkit | **Primary** — voice cloning, AI-manipulated media |
 | **Phase 4 (Grades 9–12)** | **Primary** — credential stuffing, MFA architecture, password managers | **Primary** — sextortion as an organised business, legal landscape | Secondary — parent as "backup node", not monitor | **Primary** — deepfake forensics, provenance, crypto and algorithm literacy |
 

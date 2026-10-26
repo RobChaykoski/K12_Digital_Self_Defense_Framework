@@ -29,7 +29,7 @@ By the end, students will be able to:
 | Phishing | "Stranger DMs" | Link-in-bio traps | Spear-phishing, credential stuffing |
 | Social media | Highlight reels | Streaks & FOMO pressure | Algorithmic manipulation, echo chambers |
 | AI/Deepfakes | Talking photos | Celebrity face swaps | Audio forensics, AI-CSAEM, identity theft |
-| Sextortion | "Send a pic for a code" | $20–50 demands, 3 Do Nots | Business models, crypto payments, legal response |
+| Sextortion | "Send a pic for a code" | $20–50 demands, 3 Do Nots + Tell | Business models, crypto payments, legal response |
 | Money scams | — | Gift-card urgency | Rug pulls, airdrops, pump-and-dump |
 | Response | Teacher mediates | School + counsellor protocol | **Police + school coordination; victim rights** |
 

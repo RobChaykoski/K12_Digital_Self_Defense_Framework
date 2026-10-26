@@ -9,8 +9,8 @@
 | Password audit completion (S1) | S1 + home mission | Crown-jewel identification, reuse awareness |
 | MFA lab checklist + lost-phone recovery (S2) | S2 + home | Real-world skill transfer — primary Identity-block assessment |
 | Verification protocol quality (S3) | S3 | Safe word / callback / delay rule designed and defended |
-| Deepfake evidence brief (S4) | S4 | ≥4 tells + 2 tools, verdict with justified confidence |
-| Forensics role performance (S5) | S5 | Audio/visual tell identification; "strongest single evidence" discipline |
+| Deepfake evidence brief (S4) | S4 | Source trace + corroboration + clues used as supporting evidence, with stated limits |
+| Forensics role performance (S5) | S5 | Artefact identification framed as clues; source verification; "strongest check and what it cannot prove" discipline |
 | Business model + law summary (S6) | S6 | Maps each syndicate stage to the right Criminal Code offence |
 | Protocol response file rubric (S7) | S7 | Full victim protocol incl. evidence preservation & reporting — primary Legal-block assessment |
 | Red-flag framework votes (S8) | S8 | INVEST / AVOID / REPORT with reasons; "any two = walk" applied consistently |
@@ -35,24 +35,40 @@ Score per wave: **+1 correct first move • +1 evidence preserved where relevant
 
 1. **Phishing link ("school" email):** don't click • check sender domain / look-alike tells • flag + report to school IT (don't delete) • screenshot as evidence • tell a trusted adult if pressured.
 2. **Cloned-voice money request (client's "parent"):** safe word check fails → callback to the *known* number, never the caller • no money/gift cards/crypto on urgency alone • log timestamp + number • report to family; police if it persists (elder fraud is a reportable offence).
-3. **Deepfake video circulating:** ground truth = synthetic (AI-generated, depicts a real school staff member in a compromising context) • don't share or download • run the pipeline: tells → reverse image search → provenance • report to school + police — publication of intimate images (s.162.1) applies to real people • preserve evidence; victim is never at fault.
-4. **Sextortion demand (old photo):** 3 Do Nots (no pay / no reply / no delete) • screenshot everything incl. username & dates • contain: change passwords on exposed accounts, lock socials, warn close friends • report Cybertip.ca — police NOW if threats to safety or any image of a minor • counsellor debrief.
+3. **Deepfake video circulating:** ground truth = synthetic (AI-generated, depicts a real school staff member in a compromising context) • don't share or download • run the checks in order: source → reverse image search → corroboration → clues • report to school + police — publication of intimate images (s.162.1) applies to real people • preserve evidence; victim is never at fault.
+4. **Sextortion demand (old photo):** 3 Do Nots + Tell (no pay / no reply / no delete / tell a trusted adult) • screenshot everything incl. username & dates • contain: change passwords on exposed accounts, lock socials, warn close friends • report Cybertip.ca — police NOW if threats to safety or any image of a minor • counsellor debrief.
 5. **"Recovery agent" DM:** second-layer scam — correct play is to **ignore AND report** (no engagement, no "fee", connect nothing) • screenshot the offer • report Cybertip.ca • note: paying a recovery agent only loses more money.
 
 **Complication injections:**
 - *Evidence "deleted":* check backups/screenshots/device history; log what remains; never fabricate evidence — police and Cybertip work with what exists.
 - *Peer pressure to stay quiet:* the protocol holds regardless of who's asking; silence protects the syndicate, not the victim; tell a trusted adult anyway (counsellor availability signalled).
 
+## 🚩 CTF Worksheets
+
+`07_CTF_Worksheets.md` holds six challenges. They are formative practice; the primary assessments stay the S7 protocol file and the S10 simulation.
+
+| Worksheet | Session | What it practises |
+|-----------|---------|-------------------|
+| The School Server | S1 | Reading a fictional credential dump and identifying reused secrets |
+| MFA Mayhem | S2 | Ranking authentication methods and choosing a recovery plan |
+| Deepfake Detectives | S4 | Provenance first, then artefacts as supporting clues |
+| Crypto Rush & Rug Pulls | S8 | Applying the red-flag framework to documented patterns |
+| Privilege Climb | Extension after S1 | Least privilege and lateral movement, on a fictional host |
+| Algorithmic Mood Audit | S9 | Recognising engagement bait and feed incentives |
+
+Flags are teacher-facing answers, not a score. The format and rubric are documented in [docs/ctf_scoring_rubric.md](../../docs/ctf_scoring_rubric.md).
+
 ## Materials Checklist
 - [ ] Audit worksheet D1 × class size + IT-approved breach-checker access (S1)
 - [ ] Demo accounts/devices + pre-approved authenticator app for MFA lab, or screenshot pack (S2)
-- [ ] Labelled audio clip set S3/S5: real / cloned / TTS — **public figures only, labelled in advance** + waveform tool access
+- [ ] Labelled audio clip set S3/S5: real / cloned / TTS — **public figures only, labelled in advance** + optional waveform visualisation used to show anomalies, not to deliver a verdict
 - [ ] Deepfake sample set S4: 4+ labelled samples (video + stills), all public material — **never classmates**; AI-CSAEM pattern-level discussion only, never shown
 - [ ] Business-model diagram D5 + law summary sheet D6 + anonymous question slips (S6)
 - [ ] Gauntlet scenario files D7 × 3 sets + decision-tree poster + audit rubric (S7)
 - [ ] Crypto case printouts: 3 real, publicly documented, labelled + red-flag card D8 + voting slips (S8) — defensive only, no platforms/tokens promoted
 - [ ] Feed audit worksheet D9 + sample feeds for no-device version (S9)
 - [ ] Simulation packet D10: 5 wave cards + role cards + decision log sheets + timers (S10)
+- [ ] CTF worksheets from `07_CTF_Worksheets.md` printed for the sessions being taught
 - [ ] Guest panel: bios printed, question slips pre-collected, A/V check (S11)
 - [ ] Champion Challenge station setup × 8, certificates, ambassador pledge forms, Quickie Card v3 stock (S12)
 - [ ] **Guidance counsellor booked for Sessions 6–7** + guest panel confirmed for S11
