@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <!-- Background -->
+  <rect width="1600" height="1200" fill="#fafafa"/>
+  
+  <!-- Title -->
+  <text x="800" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#333">K-12 Digital Self-Defense: Character & Skill Growth Journey</text>
+  <text x="800" y="95" font-family="Arial, sans-serif" font-size="16" fill="#666">From Kindergarten Awareness to Grade 12 Advanced Defense</text>
+
+  <!-- Legend -->
+  <g transform="translate(1400, 80)">
+    <rect width="300" height="200" rx="10" fill="#ffffff" stroke="#cccccc" stroke-width="1"/>
+    <text x="15" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">Legend</text>
+    
+    <circle cx="15" cy="40" r="8" fill="#FFD700"/>
+    <text x="25" y="44" font-family="Arial, sans-serif" font-size="12" fill="#333">K-5 (Awareness & Basics)</text>
+    
+    <circle cx="15" cy="60" r="8" fill="#FF6B6B"/>
+    <text x="25" y="64" font-family="Arial, sans-serif" font-size="12" fill="#333">Middle School (Building Skills)</text>
+    
+    <circle cx="15" cy="80" r="8" fill="#4ECDC4"/>
+    <text x="25" y="84" font-family="Arial, sans-serif" font-size="12" fill="#333">High School (Advanced Defense)</text>
+    
+    <rect x="15" y="100" width="270" height="60" rx="5" fill="#E8F4F8" stroke="#4ECDC4" stroke-width="1"/>
+    <text x="20" y="113" font-family="Arial, sans-serif" font-size="12" fill="#4ECDC4" font-weight="bold">Common Skill: Privacy & Safety</text>
+    
+    <rect x="15" y="165" width="270" height="60" rx="5" fill="#E8F4F8" stroke="#FFD700" stroke-width="1"/>
+    <text x="20" y="178" font-family="Arial, sans-serif" font-size="12" fill="#FFD700" font-weight="bold">Common Skill: Critical Thinking</text>
+  </g>
+
+  <!-- K-5 Section -->
+  <g transform="translate(100, 200)">
+    <rect width="400" height="350" rx="15" fill="#FFF9E6" stroke="#FFD700" stroke-width="2"/>
+    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFD700">Kindergarten - Grade 5</text>
+    <text x="200" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">Awareness & Foundations</text>
+    
+    <!-- K-5 Character: Curious Explorer -->
+    <circle cx="200" cy="80" r="35" fill="#FFD700" stroke="#E6C200" stroke-width="2"/>
+    <text x="200" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Curious</text>
+    
+    <!-- K-5 Skill 1 -->
+    <rect x="30" y="160" width="200" height="90" rx="8" fill="#fff" stroke="#FFD700" stroke-width="2"/>
+    <text x="130" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFD700">Privacy Basics</text>
+    <text x="130" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Share less online</text>
+    
+    <!-- K-5 Skill 2 -->
+    <rect x="270" y="160" width="200" height="90" rx="8" fill="#fff" stroke="#FFD700" stroke-width="2"/>
+    <text x="370" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFD700">Friendship Rules</text>
+    <text x="370" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Don't share secrets</text>
+    
+    <!-- K-5 Skill 3 -->
+    <rect x="30" y="280" width="200" height="90" rx="8" fill="#fff" stroke="#FFD700" stroke-width="2"/>
+    <text x="130" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFD700">Adult Help</text>
+    <text x="130" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Tell a trusted adult</text>
+  </g>
+
+  <!-- Middle School Section -->
+  <g transform="translate(550, 200)">
+    <rect width="400" height="350" rx="15" fill="#FFE6E6" stroke="#FF6B6B" stroke-width="2"/>
+    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FF6B6B">Middle School</text>
+    <text x="200" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">Grades 6-8 | Building Digital Skills</text>
+    
+    <!-- MS Character: Navigating Friendships -->
+    <circle cx="200" cy="80" r="35" fill="#FF6B6B" stroke="#E55A5A" stroke-width="2"/>
+    <text x="200" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Aware</text>
+    
+    <!-- MS Pillar 1 -->
+    <rect x="30" y="160" width="200" height="90" rx="8" fill="#fff" stroke="#FF6B6B" stroke-width="2"/>
+    <text x="130" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF6B6B">Account Security</text>
+    <text x="130" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Strong passwords & 2FA</text>
+    
+    <!-- MS Skill 1 -->
+    <rect x="270" y="160" width="200" height="90" rx="8" fill="#fff" stroke="#FF6B6B" stroke-width="2"/>
+    <text x="370" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF6B6B">Spotting Scams</text>
+    <text x="370" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Phishing recognition</text>
+    
+    <!-- MS Skill 2 -->
+    <rect x="30" y="280" width="200" height="90" rx="8" fill="#fff" stroke="#FF6B6B" stroke-width="2"/>
+    <text x="130" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF6B6B">Digital Boundaries</text>
+    <text x="130" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Saying no to requests</text>
+    
+    <!-- MS Skill 3 -->
+    <rect x="270" y="280" width="200" height="90" rx="8" fill="#fff" stroke="#FF6B6B" stroke-width="2"/>
+    <text x="370" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF6B6B">Anonymous Help</text>
+    <text x="370" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Take It Down tools</text>
+  </g>
+
+  <!-- High School Section -->
+  <g transform="translate(1050, 200)">
+    <rect width="400" height="350" rx="15" fill="#E6F7F7" stroke="#4ECDC4" stroke-width="2"/>
+    <text x="200" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#4ECDC4">High School</text>
+    <text x="200" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">Grades 9-12 | Advanced Defense</text>
+    
+    <!-- HS Character: Cyber Citizen -->
+    <circle cx="200" cy="80" r="35" fill="#4ECDC4" stroke="#3ABFB7" stroke-width="2"/>
+    <text x="200" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Defensive</text>
+    
+    <!-- HS Pillar 1 -->
+    <rect x="30" y="160" width="200" height="90" rx="8" fill="#fff" stroke="#4ECDC4" stroke-width="2"/>
+    <text x="130" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4ECDC4">Credential Hygiene</text>
+    <text x="130" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Multi-factor auth mastery</text>
+    
+    <!-- HS Skill 1 -->
+    <rect x="270" y="160" width="200" height="90" rx="8" fill="#fff" stroke="#4ECDC4" stroke-width="2"/>
+    <text x="370" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4ECDC4">AI Detection</text>
+    <text x="370" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Deepfake & voice cloning</text>
+    
+    <!-- HS Skill 2 -->
+    <rect x="30" y="280" width="200" height="90" rx="8" fill="#fff" stroke="#4ECDC4" stroke-width="2"/>
+    <text x="130" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4ECDC4">Coercion Response</text>
+    <text x="130" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Sextortion protocol (3 Do Nots)</text>
+    
+    <!-- HS Skill 3 -->
+    <rect x="270" y="280" width="200" height="90" rx="8" fill="#fff" stroke="#4ECDC4" stroke-width="2"/>
+    <text x="370" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4ECDC4">Evidence Preservation</text>
+    <text x="370" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">Screenshot before deletion</text>
+  </g>
+
+  <!-- Connecting Flow Lines -->
+  <line x1="450" y1="400" x2="550" y2="380" stroke="#999" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="950" y1="400" x2="1050" y2="380" stroke="#999" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Arrow Definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#999"/>
+    </marker>
+  </defs>
+
+</svg>
