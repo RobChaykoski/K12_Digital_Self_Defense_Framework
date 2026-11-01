@@ -38,7 +38,7 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Show two emails side by side: one from "school@windsor.edu" and one from "sch00l-windsor@gmail.com." Ask students to spot the differences. |
 | 5-12 min | Direct Instruction | Teach the 3 clues of phishing: (1) Weird sender address, (2) Urgent language ("Act NOW!"), (3) Suspicious links. Use color-coded highlighters on projected examples. |
-| 12-22 min | Guided Practice: "Email Detective" | Students receive a worksheet with 5 sample emails. They highlight phishing clues in yellow and mark safe emails in green. Teacher circulates to assist. |
+| 12-22 min | Guided Practice: "Email Detective" | Students receive a worksheet with 6 sample emails. They highlight phishing clues in yellow and mark safe emails in green. Teacher circulates to assist. |
 | 22-32 min | Group Activity: "Create Your Own Phish" | In pairs, students write a fake email from "Free Fortnite Skins!" including at least 2 phishing clues. Volunteers read theirs aloud for the class to evaluate. |
 | 32-40 min | Wrap-Up & Exit Ticket | Students complete a 3-question exit ticket: Identify the sender issue, urgency word, and link problem in a sample phishing email. |
 
@@ -70,27 +70,27 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Show a padlock being picked in under 3 seconds vs. one requiring a 4-digit code + letter + symbol. Ask which feels safer. |
 | 5-12 min | Direct Instruction | Teach the passphrase method: string together 4 random words (e.g., "PurpleElephantDancesFast!"). Explain why this beats single-word passwords or simple numbers. |
-| 12-22 min | Practice: "Build Your Passphrase" | Students create 3 different passphrases for different purposes (game account, email, YouTube). They practice writing them down and explaining why each is strong. |
-| 22-30 min | Game: "Guess My Password" | In small groups, students take turns presenting a passphrase. Others guess if it's weak or strong based on length, word variety, and special characters. Points for correct judgments. |
-| 30-40 min | Wrap-Up & Exit Ticket | Students write their strongest passphrase on a sticky note and place it in the "password box" (a decorated shoebox). Teacher collects for review. |
+| 12-22 min | Practice: "Build Your Passphrase" | Students build **practice** passphrases from word cards for imaginary accounts (game, email, school portal) and explain why each is strong. They do not write down a passphrase for a real account. |
+| 22-30 min | Game: "Guess My Password" | In small groups, students take turns presenting a practice passphrase. Others judge whether it is weak or strong based on length, word variety, and special characters. |
+| 30-40 min | Wrap-Up & Exit Ticket | Students put their **practice** passphrase card in the "password box" (a decorated shoebox) as a class display — the box holds invented examples only, never a real credential. |
 
-**Materials:** Sample padlocks or images, password strength chart handout, sticky notes, decorated shoebox ("password box"), practice worksheets
+**Materials:** Sample padlocks or images, password strength chart handout, decorated shoebox ("password box"), practice worksheets
 
 ---
 
 #### Session 4: "What is AI?" — Computers Making Things (40 min)
 
-**Objective:** Define AI in simple terms and compare AI-generated content to human-made content
+**Objective:** Define AI in simple terms, compare AI-generated and human-made content, and learn that the source matters more than how convincing the result looks
 
 | Time | Activity | Description |
 |------|----------|-------------|
 | 0-5 min | Hook | Show two images side by side: a hand-drawn cat and an AI-generated cat. Ask students to guess which is which. Reveal answers and discuss clues (unnatural paws, strange fur patterns). |
 | 5-12 min | Direct Instruction | Explain AI as "a computer that learned from lots of examples." Use the analogy: "If you showed a dog 1,000 pictures, it could draw a new one. AI does the same with words and images." |
-| 12-22 min | Activity: "AI or Human?" | Students receive a worksheet with 6 image pairs (AI vs. human). They identify which is which and write one clue for each choice. Teacher reviews as a class. |
+| 12-22 min | Activity: "AI or Human?" | Students receive a worksheet with 6 image pairs (AI vs. human). First they ask, *"Who made this, and where did it come from?"* Then they note clues — and the teacher reveals that clues alone cannot settle it. |
 | 22-30 min | Creative: "Prompt Challenge" | In pairs, students write an AI image prompt (e.g., "A robot playing soccer on Mars") and predict what the AI might generate. Volunteers share prompts. |
-| 30-40 min | Wrap-Up & Exit Ticket | Students answer: "Give one example of something AI can do well. Give one example of where AI makes mistakes." |
+| 30-40 min | Wrap-Up & Exit Ticket | Students answer: "Give one example of something AI can do well. Give one example of where AI makes mistakes. Name one thing you would check before believing an image." |
 
-**Materials:** Sample image pairs (printed), worksheets, blank paper for prompt writing, optional: free AI image generator (e.g., Bing Image Creator) for live demo
+**Materials:** Sample image pairs (printed), worksheets, blank paper for prompt writing; teacher-prepared examples only (no live generation)
 
 ---
 
@@ -118,7 +118,7 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Project a link that says "Click Here for Free Stuff!" but actually goes to "windsor-school.ca/login.php?user=steal." Reveal the real destination by hovering. Surprise factor! |
 | 5-12 min | Direct Instruction | Teach the hover technique: move your mouse over a link (without clicking) to see where it really goes. Explain common tricks: bit.ly links, misspelled brand names, extra dots or dashes. |
-| 12-22 min | Computer Lab Activity: "Hover and Discover" | Students use tablets/computers to practice hovering over links on a sample webpage (teacher-prepared). They record the real destination for each link in a worksheet. |
+| 12-22 min | Computer Lab Activity: "Hover and Discover" | Students use tablets/computers to practise hovering over the 5 links on Handout B6 (plus teacher-added examples). They record the real destination for each link in a worksheet. |
 | 22-30 min | Game: "True or Fake URL?" | Project URLs one at a time. Students hold up green cards for real, red cards for fake. Discuss why each is correct. |
 | 30-40 min | Wrap-Up & Exit Ticket | Students write the hover technique in their own words and give one example of a suspicious URL pattern. |
 
@@ -133,12 +133,12 @@ By the end of this phase, students will be able to:
 | Time | Activity | Description |
 |------|----------|-------------|
 | 0-5 min | Hook | Review the phishing checklist from Session 1. Quick quiz: Show 3 email subjects — students vote which is most likely phishing. |
-| 5-10 min | Instructions | Explain the scavenger hunt: Students receive an envelope with 4 "mystery messages" (emails, texts, game chats). They must analyze each using all clues learned. |
-| 10-30 min | Scavenger Hunt Activity | In groups of 3-4, students work through the envelope. Each message requires them to identify sender issues, urgency language, and link safety. Groups earn points for correct analysis. Teacher circulates and provides hints. |
+| 5-10 min | Instructions | Explain the scavenger hunt: 10 message cards (6 real, 4 scams) are hidden around the room. Teams must find and analyse each one using all the clues they have learned. |
+| 10-30 min | Scavenger Hunt Activity | In groups of 3-4, students find the hidden cards and log each one. Every message requires them to identify sender issues, urgency language, and link safety. Groups earn points for correct analysis. Teacher circulates and provides hints. |
 | 30-35 min | Group Debrief | Each group shares one message they found tricky and explains their reasoning. Teacher clarifies any misconceptions. |
 | 35-40 min | Wrap-Up & Exit Ticket | Students complete a reflection: "What clue helped you the most? What will you do differently next time you see a suspicious message?" |
 
-**Materials:** Mystery message envelopes (printed), analysis worksheets, point tracking sheet for teacher, timer
+**Materials:** 10 hidden message cards (6 real, 4 scams), team log sheets, point tracking sheet for teacher, timer
 
 ---
 
@@ -149,7 +149,7 @@ By the end of this phase, students will be able to:
 | Time | Activity | Description |
 |------|----------|-------------|
 | 0-10 min | Review Game: "Digital Detective Jeopardy" | Create a simple jeopardy-style game with categories: Phishing, Passwords, AI, Scams, Social Media. Teams compete for points. |
-| 10-20 min | Station Rotation (4 stations × 2.5 min each) | **Station A:** Hover-and-preview links<br>**Station B:** Passphrase building challenge<br>**Station C:** AI vs. human image sorting<br>**Station D:** Scam scenario role-play |
+| 10-20 min | Station Rotation (4 stations × 2.5 min each) | **Station A:** Hover-and-preview links<br>**Station B:** Passphrase building challenge<br>**Station C:** AI source-check and image sorting (clues, not proof)<br>**Station D:** Scam scenario role-play |
 | 20-30 min | Certificate Ceremony | Each student receives a "Digital Detective" certificate and a laminated "Phishing Clue Card" (pocket-sized reference). Teacher gives a brief speech about their growth. |
 | 30-40 min | Wrap-Up & Feedback | Students complete a short feedback form: What was their favorite lesson? What was hardest? What do they want to learn next? Collect for future planning. |
 
@@ -161,7 +161,7 @@ By the end of this phase, students will be able to:
 
 | Method | Description |
 |--------|-------------|
-| **Worksheet Completion** | Email detective worksheet, AI vs. human sorting, URL hover records |
+| **Worksheet Completion** | Email detective worksheet, AI source-check and sorting, URL hover records |
 | **Oral Presentations** | Scam role-play evaluations, group debrief participation |
 | **Exit Tickets** | Brief written responses after each session checking comprehension |
 | **Practical Lab** | Computer lab activity assessing ability to hover and identify real URLs |
@@ -223,14 +223,17 @@ By the end of this phase, students will be able to:
 
 ---
 
-**Document Version:** 1.1 (Updated October 2026)  
-**Prepared:** September 2026 | **Updated:** October 2026  
-**Next Review:** March 2027
+**Document Version:** 3.0 (Updated October 2026) | **Prepared:** September 2026 | **Updated:** October 2026 | **Next Review:** March 2027
+
+### v3.0 alignment (October 2026)
+- Passphrase practice uses invented accounts; no real credentials are written down.
+- AI activities now check the source first and treat visual clues as supporting evidence.
+- ISED alignment wording corrected to the published *AI for All* commitments.
 
 ### v1.1 Additions:
 - Added "Canadian AI Innovators" worksheet — students research Mila, Vector, Amii
 - Integrated "AI for All — AI Sprouts in Daily Tools" concept
 - Added Canadian AI context to phishing/scam sessions
-- Aligned with ISED National AI Strategy pillars: Skills & Talent, Adoption, Indigenous Data
+- Aligned with the *AI for All* commitments on AI literacy and accessibility (Pillar 2: Empowering Canadians)
 - Integrated ISED AI Literacy Initiative reference
 - Integrated ISED Canada's National AI Strategy — AI for All reference

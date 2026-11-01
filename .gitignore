@@ -39,4 +39,5 @@ dotenv
 .env
 
 # QR code images (generated)
+assets/qr_codes/
 assets/qr_*.png

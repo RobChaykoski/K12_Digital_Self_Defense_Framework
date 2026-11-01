@@ -45,7 +45,7 @@ Each program contains **7 standardized files**:
 | `03_Student_Handouts.md` | Printable worksheets | Distribute to students |
 | `04_Parent_Toolkit.md` | At-home reinforcement | Share via parent portal |
 | `05_Assessments_and_Materials.md` | Rubrics & grading keys | Grade CTF submissions |
-| `06_Persona_Cast.md` | Roleplay characters | Frame scenarios (e.g., "Agent Nova") |
+| `06_Persona_Cast.md` | Roleplay characters | Frame scenarios (e.g., Cipher, Vault) |
 | `07_CTF_Worksheets.md` | Capture-the-Flag challenges | Primary student activity |
 
 > 💡 **Tip:** Read `02_Lesson_Plans.md` fully before teaching. Each lesson includes timing estimates and tech requirements.
@@ -62,7 +62,7 @@ flag{your_answer_here}
 ### Example Flow (Program 1)
 1. Student receives worksheet with link-sorting table
 2. Scans QR code → lands on submission page
-3. Enters `flag{3}` (if 3 safe links found)
+3. Enters `flag{2}` (if 2 safe links found)
 4. System validates → displays ✅ or ❌
 
 ### Flag Validation

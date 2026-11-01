@@ -112,7 +112,7 @@
 
 ### Gaps Our Framework Fills
 1. **Sextortion depth** - GECDSB touches on it in February but doesn't have a named "3 Do Nots + Tell" protocol
-2. **AI forensics** — GECDSM mentions AI generally; we go deep into deepfake detection
+2. **AI forensics** — GECDSB mentions AI generally; we go deep into provenance-based media analysis
 3. **Crypto scams** — Not covered by GECDSB at all
 4. **Voice cloning / Family Safe Word** — Unique to our framework
 5. **Project-based assessments** — Jeopardy reviews, account audits, deepfake labs
@@ -139,7 +139,7 @@ This gives schools a **3-source rotation**:
 |----------|-----------|----------|
 | Kids Help Phone | 1-800-668-6868 / text 686868 | Mental health, digital wellness |
 | Cybertip.ca | cybertip.ca | Report the online sexual exploitation of children (luring, sextortion, abusive images) |
-| NeedHelpNow.ca | needhelponow.ca | Image sharing & cyberbullying |
+| NeedHelpNow.ca | needhelpnow.ca | Image sharing & cyberbullying |
 | Take It Down | takeitdown.ncmec.org | Anonymous image takedown |
 | Canadian Anti-Fraud Centre | 1-888-495-8501 | Scam reporting |
 | Human Trafficking Hotline | 1-833-900-1010 | Online luring/grooming |
@@ -151,17 +151,17 @@ This gives schools a **3-source rotation**:
 
 | Month | GECDSB Theme | Our Phase Focus | ECNO Alignment |
 |-------|-------------|-----------------|----------------|
-| **September** | Cyber Hygiene | Phase 1: Passwords & Links | Basics |
-| **October** | Cyber Awareness Month + | Full campaign rollout | All pillars |
-| **November** | Be Kind Online / Cyberbullying | Phase 2: Social Media Traps | Wellness |
-| **December** | Scams & Phishing | Phase 3: Account Fortification | AI |
-| **January** | Keep Info Private | Phase 4: Deepfakes & Crypto | Social/Gaming |
-| **February** | Grooming & Luring | Sextortion protocols | All pillars |
-| **March** | Backup Your Data | Digital decluttering | Basics |
-| **April** | Gaming & Metaverse | Voice cloning / Safe Word | AI |
-| **May** | Digital Wellness | Screen time / mental health | Wellness |
-| **June** | Social Media (Summer) | FOMO / location privacy | Social/Gaming |
-| **July** | Summer Cleanup | End-of-year reset | Basics |
+| **September** | Cyber Hygiene | Phase 1: Passwords & Links | Digital Me |
+| **October** | Cyber Awareness Month | Full campaign rollout | All four themes |
+| **November** | Be Kind Online / Cyberbullying | Phase 2: Social Media Traps | Digital Us |
+| **December** | Scams & Phishing | Phase 3: Account Fortification | Digital Minds |
+| **January** | Keep Info Private | Phase 4: Deepfakes & Crypto | Digital Me |
+| **February** | Grooming & Luring | Sextortion protocols | Digital Us / Digital Families |
+| **March** | Backup Your Data | Digital decluttering | Digital Families |
+| **April** | Gaming & Metaverse | Voice cloning / Safe Word | Digital Minds |
+| **May** | Digital Wellness | Screen time / mental health | Digital Families |
+| **June** | Social Media (Summer) | FOMO / location privacy | Digital Us |
+| **July** | Summer Cleanup | End-of-year reset | Digital Me |
 
 ---
 

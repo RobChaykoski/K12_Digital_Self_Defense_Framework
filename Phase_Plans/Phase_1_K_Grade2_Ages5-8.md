@@ -39,7 +39,7 @@ By the end of this phase, students will be able to:
 | 0-5 min | Hook | Show two cartoon characters: one waving from a playground, one peeking through a window. Ask: "How do you know which is safe?" |
 | 5-12 min | Story Time | Read "The Internet Playground" (custom story about a child who meets three characters online — one friend, one stranger, one mystery). Pause for predictions. |
 | 12-20 min | Group Discussion | Show screenshots of game avatars and video call windows. Students raise green/red cards to identify safe/unfamiliar contacts. |
-| 20-27 min | Activity: "Name Tag Game" | Students create paper name tags with their online usernames. Practice asking: "Do I know this person in real life?" before chatting. |
+| 20-27 min | Activity: "Name Tag Game" | Students create paper name tags with **pretend** online usernames (never a real account name). Practice asking: "Do I know this person in real life?" before chatting. |
 | 27-30 min | Wrap-Up | Sing the "Safe Stranger Song" (to tune of "If You're Happy and You Know It"): *"If you know them, give a thumbs up! If you don't, wave hello!"* |
 
 **Materials:** Story handout, green/red cards, paper name tags, markers
@@ -54,8 +54,8 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Bring a real padlock and key. Show how it locks a box. Ask: "What locks your tablet or game?" |
 | 5-12 min | Direct Instruction | Explain that passwords are like digital keys. Demonstrate: show a locked game account vs. an unlocked one (with screenshots). |
-| 12-20 min | Craft Activity: "Build Your Lock" | Students create a paper padlock craft. On the front, they write their first password (e.g., favorite animal + number). Inside, they draw what's "locked" inside (their games, photos, drawings). |
-| 20-27 min | Practice: "Say It Out Loud" | In pairs, students practice saying their passwords out loud (like secret codes) without sharing them. Emphasize: "Tell your parents, but not your friends." |
+| 12-20 min | Craft Activity: "Build Your Lock" | Students create a paper padlock craft. On the front, they invent a **pretend** password (e.g., favourite animal + number) — never a real one — and draw what's "locked" inside (their games, photos, drawings). |
+| 20-27 min | Practice: "Say It Out Loud" | In pairs, students practise saying their **pretend** password out loud, then practise the real rule: *"I only tell a trusted grown-up, and I never type my real password into a game or message."* |
 | 27-30 min | Wrap-Up | Quick quiz: Teacher says scenarios ("A friend asks your password"), students respond with thumbs up/down. |
 
 **Materials:** Paper padlock templates, scissors, glue, markers, sample screenshots of locked/unlocked accounts
@@ -178,14 +178,16 @@ By the end of this phase, students will be able to:
 
 ---
 
-**Document Version:** 1.1 (Updated October 2026)  
-**Prepared:** September 2026 | **Updated:** October 2026  
-**Next Review:** March 2027
+**Document Version:** 3.0 (Updated October 2026) | **Prepared:** September 2026 | **Updated:** October 2026 | **Next Review:** March 2027
+
+### v3.0 alignment (October 2026)
+- Password and username activities use invented examples only; no real credentials.
+- ISED alignment wording corrected to the published *AI for All* commitments.
 
 ### v1.1 Additions:
 - Added "AI for All — AI Helps Everyone" concept to Session integration
 - Integrated Canadian AI innovator spotlights (Mila, Vector, Amii)
 - Added "Canada's AI Helpers" coloring page to materials
-- Aligned with ISED National AI Strategy pillars: Skills & Talent, Accessibility
+- Aligned with the *AI for All* commitments on AI literacy and accessibility (Pillar 2: Empowering Canadians)
 - Integrated ISED AI Literacy Initiative reference
 - Integrated ISED Canada's National AI Strategy — AI for All reference

@@ -22,7 +22,7 @@ Program 1 consolidates the two early-phase plans into a single K–Grade 5 curri
 ### Track A (K–2)
 By the end of Program 1, students will be able to:
 1. Explain that people online may not be who they say they are ("stranger danger online")
-2. Say their password only to a trusted adult — never to a "friend" online
+2. Explain that a password is private and is only shared with a trusted adult — never with a "friend" online
 3. Distinguish safe (green) actions from risky (red) actions when prompted online
 4. Accept screen-time boundaries as fair rules, like other family rules
 5. Understand that things posted online can stay forever ("digital footprints")
@@ -32,7 +32,7 @@ By the end of Program 1, students will be able to:
 By the end of Program 1, students will be able to:
 1. Identify at least 3 warning signs of a phishing/fake email or message
 2. Explain why social media shows a "highlight reel" that isn't real life
-3. Build and store a strong passphrase (not just a password)
+3. Build a strong passphrase and know how to keep it private (not just a password)
 4. Describe in simple terms what AI is and how it can make fake images, voices, and text
 5. Spot "too good to be true" online offers (free games, prizes, coins)
 6. Practice link-hovering / "ask before you click" habits
@@ -84,6 +84,8 @@ By the end of Program 1, students will be able to:
 | `03_Student_Handouts.md` | Printable handouts, worksheets, and game cards for students |
 | `04_Parent_Toolkit.md` | Parent/guardian guide + Home Missions per session |
 | `05_Assessments_and_Materials.md` | Exit tickets, rubrics, materials checklist, resource links |
+| `06_Persona_Cast.md` | The Cyber Squad characters and continuity notes |
+| `07_CTF_Worksheets.md` | Printable CTF challenges and answer keys |
 
 ---
 

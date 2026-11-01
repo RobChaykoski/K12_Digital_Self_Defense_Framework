@@ -339,7 +339,7 @@ Students should understand that:
 - The response is the **3 Do Nots + Tell** — don't pay, don't reply, don't delete, tell a trusted adult — followed by reporting
 - Screenshots are evidence, and takedown services need them
 - Support and reporting routes are Cybertip.ca (online sexual exploitation of children), Take It Down (image removal), NeedHelpNow.ca, Kids Help Phone, and 9-1-1 in an emergency
-- Being a victim is not a offence and not a disciplinary matter in this framework; the protocol is designed so a student can follow it while frightened
+- Being a victim is not an offence and not a disciplinary matter in this framework; the protocol is designed so a student can follow it while frightened
 
 > ⚠️ **Not legal advice.** This section is a teaching summary. Boards should have their own legal counsel review any materials that describe offences, and staff should follow board policy on mandatory reporting.
 

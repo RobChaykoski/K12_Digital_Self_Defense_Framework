@@ -22,7 +22,7 @@ This is the phase where risk becomes *social*: kids are now on Discord, Roblox v
 
 By the end of Program 2, students will be able to:
 1. Identify social-engineering phishing in games and apps (Discord invites, Roblox "free item" scams, fake friend requests)
-2. Enable and use multi-factor authentication (MFA) on their own accounts with a parent's help
+2. Enable and use multi-factor authentication (MFA) on IT-approved demo or school-managed accounts, with an optional family-account home mission
 3. Recognize voice-cloning and explain why "a call from dad" can be faked
 4. Verify surprising media before sharing: trace the source, check for corroboration, and treat visual glitches as clues rather than proof
 5. Explain what sextortion is in plain, clinical terms — and that **it is never the victim's fault**
@@ -78,6 +78,8 @@ By the end of Program 2, students will be able to:
 | `03_Student_Handouts.md` | Quickie Cards, protocol posters, drill packets |
 | `04_Parent_Toolkit.md` | Parent guide + the Week-4 sensitive-block notice |
 | `05_Assessments_and_Materials.md` | Rubrics, drill scoring, materials checklist, resources |
+| `06_Persona_Cast.md` | The Counter-Intelligence Crew characters and continuity notes |
+| `07_CTF_Worksheets.md` | Printable CTF challenges and answer keys |
 
 ---
 

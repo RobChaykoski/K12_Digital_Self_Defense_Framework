@@ -15,7 +15,31 @@ toolkit, and the teacher training must say.
 
 ## [Unreleased]
 
-Nothing yet.
+### Fixed
+
+- **Remaining v3.0 consistency gaps.** The phase plans still had students write
+  real passwords or passphrases (Phases 1–2), set up MFA on personal accounts
+  (Phases 3–4), and record family voices (Phase 3). Those activities now use
+  invented credentials, demo or school-managed accounts, and synthetic or
+  licensed audio.
+- **Provenance-first media checks completed.** Phases 2–4, the Program 1
+  AI Art Detective worksheet, the Program 3 evidence brief, and the Program 2–3
+  Lens persona still led with visual tells. They now use source → reverse image
+  search → corroboration → clues, and the Program 1 flag changed from
+  `flag{ai_detected}` to `flag{check_the_source}` (rubric updated).
+- **Resource and reporting-route corrections.** NeedHelpNow.ca is no longer
+  described as a 24/7 line; C3P is no longer credited with restorative-practice
+  programmes; reporting routes now distinguish Cybertip.ca (online sexual
+  exploitation of children) from police and the Canadian Anti-Fraud Centre
+  (adult image and fraud cases).
+- **Worksheet and mapping corrections.** Program 1 worksheets now match their
+  lesson counts (6 emails, 8 cards, 6 AI items, 5 links, 10 scavenger cards),
+  and the "Link Lab Sorting" worksheet was renamed to match its Track A
+  session.
+- **Build and documentation fixes.** `make pdf-export` no longer overwrites each
+  program's handout PDF; the QR output path is consistent across the script,
+  `.gitignore`, Makefile, and assets README; stale "Agent Nova" and `flag{3}`
+  examples were corrected; the phase plans carry the v3.0 version label.
 
 ---
 

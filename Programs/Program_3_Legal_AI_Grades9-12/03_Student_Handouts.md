@@ -11,7 +11,7 @@
 | 6 | My recovery plan: backup codes stored where? Recovery email protected? | ______ |
 
 ## D2: MFA Lab Checklist
-- [ ] Authenticator app installed & backed up to my own account
+- [ ] Authenticator app installed and recovery codes backed up securely
 - [ ] TOTP enrolled on Account A + Account B (demo accounts)
 - [ ] Backup codes generated for both — stored in a secure offline location
 - [ ] "Lost phone" recovery completed using backup codes only
@@ -26,11 +26,15 @@
 | Message asking for codes/OTP | Never shared. Period. I will ____ instead |
 | "Your account is locked" urgency | I verify through the official app/site only: ____________ |
 
-## D4: Deepfake Evidence Brief (template)
-**Sample:** ______ **Source found via reverse search:** ______
-**Tells observed (≥2):** 1. ______ 2. ______
-**Metadata/provenance notes:** ______
+## D4: Media Evidence Brief (template)
+**Sample:** ______
+**1. Source:** who published it first, and is the account verifiable? ______
+**2. Reverse image search:** where else does it appear? ______
+**3. Corroboration:** does an independent source report the same thing? ______
+**4. Clues:** what artefacts are present, and what else could explain them? ______
+**Metadata:** usually stripped on upload — what does it add, and what can it not prove? ______
 **Verdict + confidence:** ☐ real ☐ synthetic ☐ uncertain — because: ______
+**What the evidence does not prove:** ______
 
 ## D5: Sextortion Business Model Diagram (label it)
 `[Target sourcing] → [Grooming/trick or deepfake fabrication] → [Image acquisition] → [Escalation & threat] → [Payment: gift cards → CRYPTO] → [Distribution if unpaid / silence if paid — not guaranteed]`
@@ -40,7 +44,7 @@
 | Offence | What it covers | Note |
 |---------|---------------|------|
 | Extortion (s.346) | Threats to obtain property/advantage | Applies to sextortion demands |
-| Publication of intimate images (s.162.1) | Sharing intimate images without consent, causing harm | Non-consensual deepfakes included |
+| Publication of intimate images (s.162.1) | Publishing, distributing, transmitting, selling, making available, or advertising an intimate image without consent (or reckless); threats under s.162.1(1.1) | Includes AI-generated depictions likely to be mistaken for a real recording — s.162.1(2)(b) |
 | Fraud / identity theft | Deception for gain; using another's identity | Crypto payment rails don't hide you from investigation |
 | CSAEM offences | Child exploitation material | **Always reportable** — Project Arachnid works removals |
 *Informational, not legal advice. Victim = never the criminal.*
@@ -77,7 +81,7 @@
 - **Never share OTP/codes** — no one legitimate will ask
 **BACK:**
 - 📞 **Cybertip.ca / 1-866-658-9022** — Canadian Centre for Child Protection (C3P) tipline, for online sexual exploitation of children. Staffed Mon–Fri 8:30–4:00 CT. **In immediate danger, call 9-1-1.** 24/7 support: Kids Help Phone 1-800-668-6868 or 9-8-8.
-- 🌐 **NeedHelpNow.ca** — anonymous youth support, 24/7
+- 🌐 **NeedHelpNow.ca** — anonymous online guidance for image sharing and online harm
 - 🔍 **Take It Down** (NCMEC) — remove intimate images of minors
 - 🕷️ **Project Arachnid** — CSAEM detection & removal
 - 🚔 Police if: threats to safety, any image of a minor, or you're unsure

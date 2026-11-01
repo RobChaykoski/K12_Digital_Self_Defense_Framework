@@ -38,7 +38,7 @@ This guide provides step-by-step instructions for deploying the curriculum in sc
 
 ### Google Classroom
 1. Create a new class → **Classwork** → **Material**
-2. Upload `Programs/*/03_Student_Handouts.pdf` as a resource
+2. Upload the PDFs generated in `exports/pdf/` (one per program) as a resource
 3. Create an assignment for each CTF session using the flag format:
    ```
    Submit your answer here: flag{your_answer}
@@ -59,7 +59,7 @@ This guide provides step-by-step instructions for deploying the curriculum in sc
 | **Phase 1: Pilot** | Weeks 1–2 | Select 2–3 teachers, run Program 1 (K–5), gather feedback via `.github/ISSUE_TEMPLATE/lesson_feedback.md` |
 | **Phase 2: Expansion** | Weeks 3–6 | Roll out to all K–8 schools, host virtual Q&A sessions |
 | **Phase 3: Full Deployment** | Weeks 7–10 | Integrate Program 3 (9–12), launch inter-school CTF competition |
-| **Phase 4: Review & Iterate** | Ongoing | Compile teacher feedback, update worksheets, publish v2.0 |
+| **Phase 4: Review & Iterate** | Ongoing | Compile teacher feedback, update worksheets, publish the next version |
 
 ### ECNO Alignment Verification Checklist
 - [ ] All sessions map to at least one of the four 2026 themes (Digital Me, Digital Us, Digital Families, Digital Minds)
@@ -96,7 +96,7 @@ This guide provides step-by-step instructions for deploying the curriculum in sc
 > "You've joined the Cyber Squad. Your mission: inspect URLs, decode ciphers, and sniff out fake packets. Each session ends with a CTF challenge. Submit your flags to earn points and climb the leaderboard."
 
 ### First Session Script (9–12)
-> "Welcome to Digital Self-Defense 101. You'll explore web forensics, AI deepfake detection, and system boot sequences. Flags follow `flag{description}` format. Submit via LMS or our competition portal."
+> "Welcome to Digital Self-Defense 101. You'll explore web forensics, media provenance analysis, and system boot sequences. Flags follow `flag{description}` format. Submit via LMS or our competition portal."
 
 ---
 

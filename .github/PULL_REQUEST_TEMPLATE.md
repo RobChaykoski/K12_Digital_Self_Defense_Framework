@@ -6,7 +6,7 @@
 
 ## ✅ Checklist
 - [ ] I have tested the changes locally
-- [ ] Markdown formatting passes `make validate`
+- [ ] Structural checks pass `make validate`
 - [ ] CTF flags follow `flag{description}` format
 - [ ] New assets are placed in `/assets/`
 - [ ] Updated documentation reflects changes

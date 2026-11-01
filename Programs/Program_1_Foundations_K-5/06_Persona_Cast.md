@@ -13,9 +13,9 @@ Every persona is built from **real cyber security culture**, translated into kid
 | The firewall / shield | A literal glowing shield character |
 | Passwords & encryption locks | A locksmith with a key that only *they* trust others with |
 | Phishing detection ("spot the fake") | A detective who sniffs out disguises |
-| AI & deepfakes ("synthetic media forensics") | A scanner that can tell real from robot-made |
+| AI & synthetic media ("media provenance") | A scanner that checks where media came from — because looks cannot settle it |
 | Digital footprint / privacy | A painter whose footprints dry forever |
-| Reporting incidents (Cybertip.ca, trusted adult) | A radio operator — the "always-on" helper |
+| Reporting incidents (Cybertip.ca, trusted adult) | A radio operator who connects you to the right adult |
 | Kindness & anti-bullying (digital citizenship) | The squad's heart, not just its shield |
 | Scam syndicates (the villain, made safe) | A cartoon trickster who *loses* every time a kid reports him |
 
@@ -34,7 +34,7 @@ Every persona is built from **real cyber security culture**, translated into kid
 | 1 | **Captain Shield** | Team leader | "Something feels off? Stop and think." (the instinct) | Both |
 | 2 | **Locky the Fox** | The Locksmith | Passwords = locks; only trusted adults know your key | A |
 | 3 | **Detective Dot** | The Spotter | Phishing & fake messages — 3 warning signs | B |
-| 4 | **Pixel** | The AI Scanner | Real vs. robot-made (AI basics, deepfakes) | B |
+| 4 | **Pixel** | The AI Scanner | Checking the source (AI basics, synthetic media) | B |
 | 5 | **Footprints the Panda** | The Painter | Digital footprints — what you post can stay forever | Both |
 | 6 | **Ranger Ray** | The Radio Operator | Tell a trusted adult; reporting at Cybertip.ca | Both |
 | 7 | **Bloom** | The Heart | Kindness online, the highlight reel isn't real life | B |
@@ -87,10 +87,10 @@ Every persona is built from **real cyber security culture**, translated into kid
 
 - **Who:** A small, round robot with one big friendly eye that works like a scanner. Wears an oversized hoodie and has a "BFF" human friend (a kid named Sam) who always carries Pixel around on their shoulder.
 - **Personality:** Honest to a fault — *literally cannot lie or pretend.* When kids ask if he's real, he says: *"I'm made by humans with code! And that means other things can be made too. Let me show you."*
-- **Superpower:** **The Beep.** Pixel scans any picture, voice, or video and beeps GREEN (real) or PURPLE (might be robot-made). When purple, he explains *how* to check: weird edges, voices that sound "off," asking the person a question only the real them would know.
-- **Owns the concept:** AI basics & deepfakes — *"A computer can copy what it's seen."* Stars Track B Session 4 (*What is AI?*) and supports the deepfake hook in the lesson plans (clearly-labelled fake clip of a cartoon character).
-- **Catchphrase:** *"Beep! Let me check if that's real… or robot-real."*
-- **In lessons:** The "robot" in the Real-or-Robot game — kids sort printed images; Pixel's card flips to confirm. Also appears in Track A as a story character ("What is this small robot?") without teaching anything yet — just planting the idea that *not everything online is what it seems.*
+- **Superpower:** **The Beep.** Pixel scans any picture, voice, or video and beeps GREEN (the source checks out) or PURPLE (the source is unknown — check before you believe it). When purple, he explains the order: who published it, whether an independent source shows the same thing, and only then the visual clues. He is honest that his own "looks real" reading is not proof.
+- **Owns the concept:** AI basics & synthetic media — *"A computer can copy what it's seen; check where it came from."* Stars Track B Session 4 (*What is AI?*) and supports the synthetic-media hook in the lesson plans (clearly-labelled fake clip of a cartoon character).
+- **Catchphrase:** *"Beep! I can't tell by looking. Let's check where it came from."*
+- **In lessons:** The "robot" in the Real-or-Robot game — kids sort printed images, then check the source cards; Pixel's card flips to show that clues alone cannot confirm. Also appears in Track A as a story character ("What is this small robot?") without teaching anything yet — just planting the idea that *not everything online is what it seems.*
 - **Design notes:** Round, soft, no sharp parts — must read as a buddy, never a threat. Purple = "check it" color (avoids red so it doesn't feel like danger). Sam should be drawn with a distinct skin tone and hair to model diversity in the "human + machine" pairing.
 
 ---

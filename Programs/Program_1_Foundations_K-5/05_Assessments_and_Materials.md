@@ -18,9 +18,9 @@
 |---|---|---|
 | **Exit tickets** | Every session | One-sentence check of the day's rule |
 | **Email Detective Worksheet #1** | Session 1 | ≥4 of 6 correct with at least one valid clue per FAKE |
-| **Reel or Real sort** | Session 2 | ≥8 of 9 correct (answer key in Handout B2 notes) |
-| **Password Box + rule quiz** | Session 3 | Builds a valid passphrase; states all 3 lock rules |
-| **AI vs. Human sort** | Session 4 | ≥5 of 6 items correct; names one clue and explains why a clue is not proof |
+| **Reel or Real sort** | Session 2 | Completes the 8-card sort and gives a reason for at least 6; explains that a highlight reel is curated, not necessarily fake |
+| **Password Box + rule quiz** | Session 3 | Builds a valid practice passphrase; states all 3 lock rules |
+| **AI vs. Human source check** | Session 4 | Completes the sheet; names one clue, explains why a clue is not proof, and marks at least one item "not sure" rather than guessing |
 | **Scavenger hunt log** | Session 7 | All 10 cards logged; ≥3 valid clues across the 4 fakes |
 | **Final scenario (S8)** | Session 8 | Correct decision + reasoning in 30 seconds → certification |
 
@@ -35,11 +35,11 @@
 | Worksheet | Session | What it practises |
 |-----------|---------|-------------------|
 | The Password Lockbox | Track A, S2 | Passphrase idea without writing a real password |
-| Link Lab Sorting | Track A, S3 | Green vs. red buttons and where a link really goes |
+| Clicking Safely (Red Light, Green Light Links) | Track A, S3 | Green vs. red buttons and where a link really goes |
 | Social Media Mood Tracker | Track A, S4 | Noticing how a feed makes you feel |
 | Digital Footprint Trail | Track A, S5 | What stays online |
 | The Phishing Post Office | Track B, S1 | Sender, urgency, and link clues |
-| AI Art Detective | Track B, S4 | Noticing clues and checking with an adult — clues are not proof |
+| AI Art Detective | Track B, S4 | Checking the source, treating clues as supporting evidence, and asking an adult |
 
 Flags are teacher-facing answers, not a score. The format and rubric are documented in [docs/ctf_scoring_rubric.md](../../docs/ctf_scoring_rubric.md).
 

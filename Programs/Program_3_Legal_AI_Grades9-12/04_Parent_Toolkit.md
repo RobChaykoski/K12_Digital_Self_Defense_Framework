@@ -34,17 +34,17 @@ Your teen is in the **Wild West**: adult-grade threats (credential stuffing, voi
 1. **No blame, no anger, no device seizure as punishment.** Say: "Thank you for telling me. This is not your fault. Here's what we'll do."
 2. **Preserve evidence:** don't delete conversations or accounts; screenshot everything (dates, usernames, messages). If something was already deleted, log what can still be recovered — never reconstruct or exaggerate evidence.
 3. **The 3 Do Nots + Tell apply to them too:** don't pay anything, don't reply to the scammer, don't delete the messages (screenshots are evidence) — and make sure they know they don't have to fix it alone.
-4. **The reporting decision tree:** images of a minor or threats to safety → **police now**; everything else → **Cybertip.ca first** (confidential, Canada's national tipline). Intimate images of minors: also **Take It Down** and **Project Arachnid**. They can report themselves — walk it with them if they want.
+4. **The reporting decision tree:** images of a minor or threats to safety → **police now**, and **Cybertip.ca** where a child is involved; adult intimate-image cases → **police**; fraud → **police / Canadian Anti-Fraud Centre**. Cybertip.ca is specifically for online sexual exploitation of children. Intimate images of minors: also **Take It Down** and **Project Arachnid**. They can report themselves - walk it with them if they want.
 5. **The legal reality, said out loud:** the crime is committed by the threatener, every single time (extortion s.346; publication of intimate images s.162.1). Your teen is a victim, not a suspect. Say that sentence to their face.
-6. **Support over surveillance:** temporary changes framed as care, not punishment. Watch for trauma responses (sleep changes, withdrawal, grade drops) — **NeedHelpNow.ca** is 24/7 and anonymous; follow up with the counsellor if symptoms persist a week or more.
-7. **If you suspect your teen is on the OTHER side** (pressuring others): this is also a disclosure to handle calmly — often peer pressure or curiosity gone wrong. Guidance counsellor + C3P's restorative approaches exist for exactly this; shame guarantees it continues in secret.
+6. **Support over surveillance:** temporary changes framed as care, not punishment. Watch for trauma responses (sleep changes, withdrawal, grade drops) — **NeedHelpNow.ca** offers anonymous online guidance; follow up with the counsellor if symptoms persist a week or more.
+7. **If you suspect your teen is on the OTHER side** (pressuring others): this is also a disclosure to handle calmly — often peer pressure or curiosity gone wrong. Involve the guidance counsellor and ask about the board's restorative-practice supports; shame guarantees it continues in secret.
 
 ## Quick Reference: The Adult's Cheat Sheet
 - **Sextortion demand?** → No pay, no reply, screenshot, Cybertip.ca, Take It Down if images of a minor. Victim is never at fault.
 - **"Is this really [your teen]?" voice/text asking for money** (grandparent calls YOU) → safe word; callback to known number; never send on urgency alone.
 - **Shocking video/image of a real person** → assume it *might* be fake until verified; don't share while checking; if intimate and real → police + Take It Down.
 - **Account hacked / phishing link clicked** → reset that password everywhere it's used, check MFA, review what the account held, warn their friends. Acting fast usually means no damage — breathe.
-- **A "recovery agent" contacts them about lost money** → second-layer scam; ignore AND report to Cybertip.ca.
+- **A "recovery agent" contacts them about lost money** → second-layer scam; ignore AND report to police / the Canadian Anti-Fraud Centre.
 - **They've been talked into a crypto investment** → don't panic-yell (they'll hide it); ask what happened; if money is gone, bank + police fraud unit fast.
 
 ## Family Pledge (sign together)
@@ -57,7 +57,7 @@ Your teen is in the **Wild West**: adult-grade threats (credential stuffing, voi
 | Resource | What it's for |
 |----------|---------------|
 | **Cybertip.ca / 1-866-658-9022** | Report online sexual exploitation of children, incl. sextortion — confidential. Mon–Fri 8:30–4:00 CT; 9-1-1 if a child is in immediate danger |
-| **NeedHelpNow.ca** | Anonymous youth support, 24/7 |
+| **NeedHelpNow.ca** | Anonymous online guidance for image sharing and online harm |
 | **Take It Down (NCMEC)** | Anonymous takedown of intimate images of minors |
 | **Project Arachnid** | CSAEM detection & removal |
 | **RCMP / local police fraud unit** | Police reporting for extortion, fraud, identity theft |

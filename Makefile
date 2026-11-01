@@ -36,7 +36,7 @@ lint:
 qr-generate:
 	@echo "Generating QR code..."
 	@$(PYTHON) scripts/generate_qr.py "https://your-landing-page.com/submit-flag" "master_flag_submission.png"
-	@echo "Generated assets/qr_*.png files are git-ignored; edit scripts/generate_qr.py for worksheet-specific URLs."
+	@echo "Generated assets/qr_codes/*.png files are git-ignored; edit scripts/generate_qr.py for worksheet-specific URLs."
 
 pdf-export:
 	@command -v $(PANDOC) >/dev/null 2>&1 || { \
@@ -45,10 +45,11 @@ pdf-export:
 	}
 	@mkdir -p exports/pdf
 	@for f in Programs/*/03_Student_Handouts.md; do \
-		$(PANDOC) "$$f" -o "exports/pdf/$$(basename "$${f%.md}").pdf" --standalone --section-divs; \
+		program="$$(basename "$$(dirname "$$f")")"; \
+		$(PANDOC) "$$f" -o "exports/pdf/$$program-03_Student_Handouts.pdf" --standalone --section-divs; \
 	done
 	@echo "PDFs written to exports/pdf/ (git-ignored)."
 
 clean:
-	@rm -rf exports assets/qr_*.png
+	@rm -rf exports assets/qr_codes assets/qr_*.png
 	@echo "Removed generated artifacts."

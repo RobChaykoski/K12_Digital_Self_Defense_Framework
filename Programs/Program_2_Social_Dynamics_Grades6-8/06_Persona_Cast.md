@@ -68,7 +68,7 @@ The Cyber Squad doesn't disappear — it becomes **the origin story**:
 - **Who:** 15, the crew's engineer. Fidgets constantly (fidget spinner that's actually a tiny USB drive). Wears a bandana as a "do not touch my setup" sign. Has a wall of sticky notes that is just passwords crossed out: *sunshine1, password, dragon2013…*
 - **Personality:** Genuinely, comically paranoid in the best way — treats a Roblox account with the same seriousness as a bank vault, and can't explain why without getting excited. The only crew member who argues with Cipher (and loses, every time, happily).
 - **Superpower:** **The Vault Door** — walks students through hardening an account layer by layer: unique passphrase → MFA → checking where the account is exposed → what to do if it's already compromised. Their sticky-note wall is the teaching prop: *"Every single one of these got someone hacked. Yours could be next week."*
-- **Owns the concept:** Passphrases + multi-factor authentication, taught as *skill proof* — every student leaves S2 having enabled MFA on at least one real account (school-managed demo accounts where devices are banned).
+- **Owns the concept:** Passphrases + multi-factor authentication, taught as *skill proof* — every student leaves S2 having enabled MFA on at least one IT-approved demo or school-managed account (or completed the home mission on a family account with a parent).
 - **Catchphrase:** *"A password is a lock. MFA is the vault door. You're carrying a screen door."*
 - **In lessons:** Stars S2 end-to-end; returns briefly in S9's drill as the "account already compromised" scenario handler. Their sticky-note wall becomes a printable classroom poster: *Famous Weak Passwords Hall of Shame.*
 - **Design notes:** The crossed-out sticky notes are the character — if the art shows Patch without them, it's wrong. Make the USB fidget spinner a recurring gag (it appears in every panel).
@@ -91,13 +91,13 @@ The Cyber Squad doesn't disappear — it becomes **the origin story**:
 ## 📸 LENS — Visual Forensics Analyst
 *(S4: Spot the Fake — Visual Deepfakes & AI Images)*
 
-- **Who:** 15, part photographer, part skeptic. Carries a camera everywhere and has a phone folder called "caught in 4K" full of fakes they've spotted and dissected. Wears one airpud at all times ("for calibration").
+- **Who:** 15, part photographer, part skeptic. Carries a camera everywhere and has a phone folder called "caught in 4K" full of fakes they've spotted and dissected. Wears one earbud at all times ("for calibration").
 - **Personality:** Fast-talking, slightly show-offy — but the class quickly learns their shows are *always right*, which earns them respect. Has a rule they tattoo on every worksheet: **"Surprising + Unverified = Not shared."**
-- **Superpower:** **The Zoom** — can take any image and walk through the forensic checklist with it: hands and fingers, teeth, text that's slightly wrong, lighting that doesn't match, edges around faces, reflections that lie.
+- **Superpower:** **The Pipeline** — takes any image through the order of checks: who published it first, reverse image search, independent corroboration, and only then the visual clues (hands and fingers, teeth, text that's slightly wrong, lighting that doesn't match, edges around faces, reflections that lie).
 - **Owns the concept:** Visual deepfakes & AI images — the *behavioural* skill that matters more than any artefact: **trace the source of surprising media and verify before you share it** (find the original, check a second source). Visual glitches are supporting clues, never a verdict. Also co-stars with Ghost on "how syndicates harvest your own photos to build fake profiles."
-- **Catchphrase:** *"Zoom in. Lies have edges."*
-- **In lessons:** Stars S4 — runs the Real-or-Robot image sort (upgraded from Track B's Pixel game: these are *harder*, closer to real), teaches the "caught in 4K" dissection method, and sets the verify-before-sharing rule that recurs in S9's drill.
-- **Design notes:** Camera strap is always on; one airpud always visible. Their aesthetic is "street photographer," not "tech bro" — denim, canvas, scuffed boots.
+- **Catchphrase:** *"Check the source first. Lies have edges."*
+- **In lessons:** Stars S4 — runs the Real-or-Robot image sort (upgraded from Track B's Pixel game: these are *harder*, closer to real), teaches the "caught in 4K" provenance pipeline, and sets the verify-before-sharing rule that recurs in S9's drill.
+- **Design notes:** Camera strap is always on; one earbud always visible. Their aesthetic is "street photographer," not "tech bro" — denim, canvas, scuffed boots.
 
 ---
 

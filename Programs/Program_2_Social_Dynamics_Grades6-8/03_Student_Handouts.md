@@ -53,11 +53,11 @@ Parent check-in signature: ______________  Date: ______
 *Rule: shocking media about a real person → verify before you share. Can't verify → don't share.*
 
 ## C4 — Protocol Role-Play Scripts (Session 6)
-**Station A — The Money Demand:** "Send $50 in gift cards by tonight or the photo goes to your whole class." → *DON'T pay. DON'T reply after blocking. Screenshot everything. Tell an adult. Report at Cybertip.ca.*
-**Station B — Escalation:** "I already sent it to three of your friends. Pay double." → *They're bluffing to scare you. Same protocol: silence, block, evidence, tell an adult. Take It Down handles images.*
+**Station A — The Money Demand:** "Send $50 in gift cards by tonight or the photo goes to your whole class." → *DON'T pay. DON'T reply — screenshot first, then block. Tell an adult. Report at Cybertip.ca.*
+**Station B — Escalation:** "I already sent it to three of your friends. Pay double." → *You cannot know whether they are bluffing — and it does not change the protocol: silence, block, evidence, tell an adult. Take It Down handles images.*
 **Station C — Fake Authority:** "I'm from the police. Transfer money to this account or you'll be arrested." → *Real police NEVER demand payments online. This is a scam layer. Protocol unchanged.*
 **Station D — The Group Play:** Two accounts message you at once, one "backing up" the other's threats. → *Syndicates work in teams. It feels bigger than it is. Protocol unchanged — and tell an adult SOONER, not later.*
-*Practise out loud: "I'm not paying. I'm blocking you. I've told my [adult]."*
+*Practise out loud: "I'm not paying. I'm blocking you. I've told my [adult]." Do **not** send this to the scammer — say it to a partner or trusted adult.*
 
 ## C5 — The Quickie Card (Session 7)
 **FRONT:**

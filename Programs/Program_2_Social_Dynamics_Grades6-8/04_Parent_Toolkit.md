@@ -32,7 +32,7 @@ Your kid is now in the **social pressure zone**. The threats are no longer carto
 3. **The 3 Do Nots + Tell apply to them too:** don't pay anything, don't reply to the scammer, don't delete the messages (screenshots are evidence) — and make sure they know they don't have to fix it alone.
 4. **Report:** **Cybertip.ca** (confidential, Canada's national tipline — sextortion is one of its top report types). If images are involved: **Take It Down** (NCMEC, anonymous takedown) and **NeedHelpNow.ca** for youth support.
 5. **Support over surveillance:** temporary screen-time changes are fine as *care*, framed as "we're resting your eyes/brain", not punishment. Watch for trauma responses (sleep changes, withdrawal, grade drops) — follow up with a counsellor if they persist.
-6. **If you suspect your child is on the OTHER side** (pressuring others): this is also a disclosure to handle calmly — it's often peer pressure or curiosity gone wrong. Guidance counsellor + C3P's restorative approaches exist for exactly this; shame guarantees it continues in secret.
+6. **If you suspect your child is on the OTHER side** (pressuring others): this is also a disclosure to handle calmly — it's often peer pressure or curiosity gone wrong. Involve the guidance counsellor and ask about the board's restorative-practice supports; shame guarantees it continues in secret.
 
 ## Quick Reference: The Adult's Cheat Sheet
 - **Sextortion demand?** → No pay, no reply, screenshot, Cybertip.ca, Take It Down if images. Victim is never at fault.
@@ -50,12 +50,12 @@ Your kid is now in the **social pressure zone**. The threats are no longer carto
 ## Canadian Resources
 | Resource | What it's for |
 |----------|---------------|
-| **Cybertip.ca** | Report online sexual exploitation of children incl. sextortion — confidential |
+| **Cybertip.ca** | Report online sexual exploitation of children incl. sextortion — confidential. Mon–Fri 8:30–4:00 CT; call 9-1-1 in an emergency |
 | **NeedHelpNow.ca** | Youth support for image sharing / cyberbullying |
 | **Take It Down (NCMEC)** | Anonymous takedown of explicit images of minors |
 | **Project Arachnid** | Automated detection/removal of CSAEM online |
 | **Kids in the Know (C3P)** | Ready-to-teach K-12 curriculum, trauma-informed |
-| ** RCMP Youth Internet Safety** | Parent guidance for all ages |
+| **RCMP Youth Internet Safety** | Parent guidance for all ages |
 
 ## 🛑 Stop & Think at Home
 

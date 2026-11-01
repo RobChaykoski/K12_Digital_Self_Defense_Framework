@@ -52,28 +52,28 @@
 4. A friend's birthday party where only 2 friends show up in every photo → ______
 5. A "before/after" weight-loss ad with no real person shown → ______
 6. Your neighbour mowing their lawn, filmed by a kid with a shaky phone → ______
-7. A celebrity video that looks slightly too smooth and says something they'd never say → ______ *(AI!)*
+7. A celebrity video that looks slightly too smooth and says something they'd never say → ______ *(Possible AI — what would you check?)*
 8. A group chat screenshot shared without asking the people in it → ______ *(real image, unfair use!)*
 **Rule to remember:** Compare yourself to highlight reels and you'll always lose — it's not a fair game.
 
 ---
 
 ## Handout B3: Password Box Word Cards (3–5, cut apart)
-**Pick 3 words at random. Join them with dashes + add a number or symbol. That's your passphrase!**
+**Pick 3 words at random for a practice passphrase. Join them with dashes + add a number or symbol. Use it for an imaginary account — never write down a real one.**
 `purple / toast / rocket / mountain / guitar / banana / winter / pencil / dragon / ocean / cookie / lightning`
 **Example:** `Purple-Toast-42!`
 **The 3 Lock Rules:** 1) Never reuse a lock for two doors (no reusing passphrases) 2) Only your family holds the key 3) If you think someone saw it, tell an adult to change it
 
 ---
 
-## Handout B4: AI vs. Human Sort Sheet (3–5)
-**Mark each item AI-made 🤖 or human-made ✋ — then check the answer key with your teacher.**
-1. A drawing of a cat with seven toes → ______ *(AI — extra fingers/toes are a classic tell)*
+## Handout B4: AI vs. Human Source Check (3–5)
+**Mark each item AI-made 🤖, human-made ✋, or NOT SURE ❓ — then check the source card with your teacher. "Not sure" is a valid answer.**
+1. A drawing of a cat with seven toes → ______ *(Could be either — a person can draw seven toes. The extra toes are a clue, not proof.)*
 2. Your friend's messy homework doodle → ______
-3. A sentence: "The quick brown fox jumps over the lazy dog and then sits down to have a sandwich by the river." → ______
-4. A voice reading your name with slightly robotic rhythm → ______
-5. A photo of your school where the flag has nonsense symbols on it → ______ *(AI — flags/logos/text often come out wrong)*
-6. A handwritten letter from grandma with a smudged word → ______
+3. A sentence: "The quick brown fox jumps over the lazy dog and then sits down to have a sandwich by the river." → ______ *(Could be either — ask who wrote it.)*
+4. A voice reading your name with slightly robotic rhythm → ______ *(Could be either — the source matters more than the sound.)*
+5. A photo of your school where the flag has nonsense symbols on it → ______ *(Could be AI — garbled text is a clue, but check the source before deciding.)*
+6. A handwritten letter from grandma with a smudged word → ______ *(Human, unless someone says otherwise — ask grandma!)*
 **The clue list (clues, not proof):** extra fingers ☐ weird text/flags ☐ too-smooth faces ☐ sounds slightly off ☐ **Rule:** see/hear it ≠ real it — ask where it came from, and check with an adult.
 
 ---
@@ -89,7 +89,7 @@ For each envelope message, tick every trick you find:
 
 ## Handout B6: Link Lab Cards (3–5, paper version — cut apart)
 **Hover-Check before you click! Read the REAL address. Mark CLICK ✅ / DON'T 🚫 + one reason.**
-1. Link says "School lunch menu" → real address: `lunch@ourschool.ca` → ______
+1. Link says "School lunch menu" → real address: `https://ourschool.ca/lunch` → ______
 2. Link says "Free Robux" → real address: `fr3e-r0bux-b4it.net/go/xyz` → ______
 3. Link from a friend says "look at this video" → real address: `youtube.com/watch?v=...` → ______ *(still ask the friend first!)*
 4. Link says "Your email is full" → real address: `mail-secure-login.ru/inbox` → ______
@@ -124,5 +124,5 @@ For each envelope message, tick every trick you find:
 > **has completed DIGITAL FOUNDATIONS and is now a**
 > 🦸 **Digital Safety Superhero** *(K–2)* / 🕵️ **Certified Digital Detective** *(3–5)*
 > *They know: anyone could be anyone • keys only to family • green vs. red •*
-> *footprints last forever • fakes can be spotted • and they always tell a trusted adult.*
+> *footprints last forever • fakes can be checked • and they always tell a trusted adult.*
 > Date: ______ Teacher: ______ School: ______

@@ -76,9 +76,9 @@ Program 1 runs two tracks, so session numbers alone are ambiguous. Both are give
 |-----------------|-----------|---------------|--------|
 | Track B, S1 | The Phishing Post Office | `flag{real_email_found}` | 4 |
 | Track A, S2 | The Password Lockbox | `flag{my_key_works}` | 4 |
-| Track A, S3 | Link Lab Sorting | `flag{2}` | 4 |
+| Track A, S3 | Clicking Safely (Red Light, Green Light Links) | `flag{2}` | 4 |
 | Track A, S4 | The Social Media Mood Tracker | `flag{mood_tracked}` (completion) | 4 |
-| Track B, S4 | AI Art Detective | `flag{ai_detected}` | 4 |
+| Track B, S4 | AI Art Detective | `flag{check_the_source}` | 4 |
 | Track A, S5 | The Digital Footprint Trail | `flag{my_footprints_stay}` | 4 |
 
 ### Program 2 (6–8) — Social Dynamics

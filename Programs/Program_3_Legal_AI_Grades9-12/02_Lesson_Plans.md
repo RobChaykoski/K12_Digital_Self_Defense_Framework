@@ -44,7 +44,7 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 | 10 min | **Defence drill:** teacher role-plays a cloned-voice scenario live (pre-recorded clip + follow-up texts); students run the protocol in real time and report where it held / broke. |
 | 5 min | Exit ticket: *The three checks before any money moves based on a voice or message.* |
 
-**Materials:** labelled clips, protocol template (D3), drill script.
+**Materials:** labelled clips, protocol template (D3), drill script. Students record the *plan*, never the safe word itself.
 
 ## Session 4: "Deepfake Detection Lab" — Visual Forensics (50 min)
 **In this session:** Lens leads; Ghost.
@@ -81,7 +81,7 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 | Time | Activity |
 |------|----------|
 | 10 min | Ground rules (Program 2 protocol). Frame: this is a **business analysis**, like dissecting any criminal enterprise — because that's what it is. |
-| 15 min | Teach the model: sourcing targets (gaming/social platforms) • grooming scripts • image acquisition (trick, or *deepfake fabrication* — no real photo needed anymore) • escalation & payment rails (gift cards → crypto, because untraceable and irreversible) • distribution threats as leverage. Scale: Cybertip.ca averages multiple sextortion reports **per day** nationally. |
+| 15 min | Teach the model: sourcing targets (gaming/social platforms) • grooming scripts • image acquisition (trick, or *deepfake fabrication* — no real photo needed anymore) • escalation & payment rails (gift cards → crypto, because transfers are fast, hard to reverse, and can complicate tracing) • distribution threats as leverage. Scale: Cybertip.ca publishes ongoing sextortion reporting; use its latest public figures rather than memorising a number. |
 | 15 min | **The law panel:** what's actually criminal in Canada — extortion (Criminal Code s.346) • publication of intimate images without consent (s.162.1) • fraud & identity theft • child exploitation material offences. Key point for victims: *the crime is committed by the threatener, every single time.* Victim rights: reporting to police (it IS a reportable offence), Cybertip.ca, Take It Down, Project Arachnid for CSAEM. Informational only — not legal advice. |
 | 5 min | Anonymous question slips; counsellor closes with support resources (NeedHelpNow.ca). |
 
@@ -95,7 +95,7 @@ Condensed from the Phase 4 plan. S6–7 require the guidance counsellor present.
 |------|----------|
 | 10 min | Recap the 3 Do Nots + Tell at adult depth: why paying funds escalation • why replying re-establishes contact • why deletion destroys the evidence chain police need • why telling a trusted adult ends the isolation the scammer depends on. Then the follow-up move once the student has told someone: **contain** — change passwords on exposed accounts, lock socials, warn close friends in advance so a leak doesn't also become a phishing event. Containment supports the protocol; it never replaces Tell. |
 | 20 min | **Protocol gauntlet:** 3 full scenarios run end-to-end (demand → escalation → fake authority → attempted re-contact weeks later). Teams produce the complete response file: timeline log, evidence screenshots list, exact report text for Cybertip.ca/police, containment checklist. Teacher + counsellor audit each file against a rubric. |
-| 10 min | **The reporting decision tree:** when to call police vs. report online (images of minors → always reportable; threats against safety → police now; everything else → Cybertip first). Who can report: the victim, a parent, or anyone with evidence — anonymity options explained. |
+| 10 min | **The reporting decision tree:** when to call police vs. report online (any image of a minor, or threats to safety → police now and Cybertip.ca; adult intimate-image cases → police; fraud → police / Canadian Anti-Fraud Centre; Cybertip.ca is specifically for online sexual exploitation of children). Who can report: the victim, a parent, or anyone with evidence - anonymity options explained. |
 | 5 min | Silent reflection + slips. Counsellor availability signalled clearly for the rest of the week. |
 
 **Materials:** gauntlet scenario files (D7), decision tree poster, audit rubric.

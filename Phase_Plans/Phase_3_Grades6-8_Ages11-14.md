@@ -21,10 +21,10 @@
 
 By the end of this phase, students will be able to:
 1. Identify phishing in Discord, Roblox, and Snapchat contexts using sender analysis and link previewing
-2. Set up multi-factor authentication (MFA) on at least two personal accounts
+2. Set up multi-factor authentication (MFA) on two demo or school-managed accounts (with an optional family-account home mission)
 3. Explain how voice cloning works and use a "Family Safe Word" to verify calls
 4. Apply the "3 Do Nots + Tell" protocol when facing sextortion
-5. Recognize basic signs of AI-generated images and audio
+5. Assess whether images and audio can be trusted by checking provenance first, and treat visible or audible signs as clues
 
 ---
 
@@ -54,7 +54,7 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Show a video of someone hacking an account with just a password vs. needing both password + phone code. Ask which feels safer. |
 | 5-12 min | Direct Instruction | Explain MFA: something you know (password) + something you have (phone). Show setup screens for Google Authenticator, SMS codes, and email verification. Discuss pros/cons of each. |
-| 12-22 min | Guided Practice: "Set Up Your First MFA" | Students use tablets/computers to set up MFA on a personal account (Google, Discord, or Instagram). Teacher circulates to assist. |
+| 12-22 min | Guided Practice: "Set Up Your First MFA" | Students use tablets/computers to set up MFA on IT-approved demo or school-managed accounts, or follow the screenshot walkthrough. Teacher circulates to assist. The home mission offers an optional family-account version with a parent. |
 | 22-32 min | Group Activity: "MFA Comparison Chart" | Groups create a chart comparing SMS codes, authenticator apps, and backup emails. Discuss which is most secure and why app-based auth beats SMS. |
 | 32-45 min | Wrap-Up & Exit Ticket | Students answer: "Why is MFA better than just a password? Name one app you'd use for MFA and explain why." |
 
@@ -70,27 +70,27 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Play two audio clips: one real parent voice, one AI-cloned parent voice asking for money. Students guess which is real. Reveal answers. |
 | 5-12 min | Direct Instruction | Explain how voice cloning works: AI listens to samples of your voice and creates a new one. Show examples of prank calls and scam calls using cloned voices. |
-| 12-22 min | Activity: "Family Safe Word" Creation | Students brainstorm safe words with their families (a phrase no one else knows, e.g., "Pineapple Thunder!"). Practice saying it naturally. Discuss where to store it (notes app, written in wallet). |
+| 12-22 min | Activity: "Family Safe Word" Creation | Students brainstorm safe words with their families (a phrase no one else knows, e.g., "Pineapple Thunder!"). Practice saying it naturally. Discuss keeping it private — memorise it; do not post it or store it in a shared note. |
 | 22-32 min | Role-Play: "The Clone Call" | In pairs, one student plays a scammer calling with a cloned voice. The other uses the safe word to verify identity. Switch roles. Teacher provides scenarios. |
-| 32-45 min | Wrap-Up & Exit Ticket | Students write down their family's safe word and explain: "What makes a good safe word? What happens if someone guesses it?" |
+| 32-45 min | Wrap-Up & Exit Ticket | Students explain: "What makes a good safe word? What happens if someone guesses it?" They do not write the word itself on the worksheet. |
 
-**Materials:** Audio clips (real and AI-cloned parent voices), sample scam call transcripts, blank paper for brainstorming, timers, optional: free AI voice generator (e.g., ElevenLabs) for live demo
+**Materials:** Audio clips (real and AI-cloned parent voices), sample scam call transcripts, blank paper for brainstorming, timers; use teacher-prepared synthetic clips, not a live cloning demo
 
 ---
 
 #### Session 4: "Spot the Fake" — Visual Deepfakes & AI Images (45 min)
 
-**Objective:** Identify basic signs of AI-generated images using visual forensics clues
+**Objective:** Assess whether an image can be trusted using provenance first, and treat visual clues as supporting evidence only
 
 | Time | Activity | Description |
 |------|----------|-------------|
-| 0-5 min | Hook | Show two celebrity photos side by side. One is real, one is AI-generated. Students vote on which is which. Reveal and discuss clues. |
-| 5-12 min | Direct Instruction | Teach the deepfake checklist: (1) Unnatural hands/fingers, (2) Inconsistent lighting/shadows, (3) Strange hair or eye reflections, (4) Blurry edges around objects. Use annotated images. |
-| 12-22 min | Guided Practice: "Deepfake Detective" | Students receive a worksheet with 8 image pairs (real vs. AI). They annotate each with at least one clue. Teacher reviews as a class. |
-| 22-32 min | Computer Lab Activity: "Generate Your Own AI Image" | Students use a free AI generator (Bing Image Creator or similar) to create an image from a prompt. They then examine their own creation for AI clues. |
-| 32-45 min | Wrap-Up & Exit Ticket | Students write: "What's the hardest clue to spot? Why do you think AI images are getting better?" |
+| 0-5 min | Hook | Show two celebrity photos side by side. One is real, one is AI-generated. Before voting, ask: *where did each come from, and who published it first?* Then discuss why clues alone are not a verdict. |
+| 5-12 min | Direct Instruction | Teach the order of checks: source → reverse image search → corroboration → visual clues. Then show the clue list (hands, lighting, reflections, text) and explain why each is weak evidence: generators improve and compression creates the same artefacts. |
+| 12-22 min | Guided Practice: "Deepfake Detective" | Students receive a worksheet with 6 images. They record the source, an independent corroboration, and any clues, then state what the evidence does not prove. Teacher reviews as a class, marking down any verdict that rests only on a visual clue. |
+| 22-32 min | Computer Lab Activity: "Source Check" | Students reverse-search the sample images and compare uploader history. If no lab is available, use the printed source cards. |
+| 32-45 min | Wrap-Up & Exit Ticket | Students write: "Which check was strongest, and what could it not prove? Why do clues get less reliable every year?" |
 
-**Materials:** Projector, sample image pairs (printed), annotation worksheets, tablets/computers with internet access, free AI image generator accounts
+**Materials:** Projector, sample image pairs (printed), annotation worksheets, tablets/computers with internet access for reverse image search, printed source cards
 
 ---
 
@@ -126,7 +126,7 @@ By the end of this phase, students will be able to:
 
 ---
 
-#### Session 7: "Quicky Cards" — Discreet Resource Handouts (45 min)
+#### Session 7: "Quickie Cards" — Discreet Resource Handouts (45 min)
 
 **Objective:** Create and use pocket-sized reference cards for quick access to digital safety resources
 
@@ -148,8 +148,8 @@ By the end of this phase, students will be able to:
 
 | Time | Activity | Description |
 |------|----------|-------------|
-| 0-5 min | Hook | Show a headline: "14-Year-Old Loses $200 to Snapchat Sextortion Ring." Ask what details would help understand the case. |
-| 5-12 min | Direct Instruction | Introduce 3 real case studies from Cybertip.ca (simplified for age group). Highlight common patterns: fake profiles, gaming app origins, organized syndicates (not one-off scammers). |
+| 0-5 min | Hook | Show a **composite** headline built from published patterns (not a real student): "14-Year-Old Loses $200 to Snapchat Sextortion Ring." Ask what details would help understand the case. |
+| 5-12 min | Direct Instruction | Introduce 3 anonymised case patterns from Cybertip.ca and other public reporting. Highlight common patterns: fake profiles, gaming app origins, organized syndicates (not one-off scammers). |
 | 12-22 min | Group Analysis: "Case File Review" | In groups of 4, students receive a case file packet. They analyze each case using a worksheet: Who was targeted? How did it start? What platform? How much money? What was the solution? |
 | 22-32 min | Group Presentations | Each group presents one case study to the class. Teacher facilitates discussion on patterns across cases. |
 | 32-45 min | Wrap-Up & Exit Ticket | Students write: "What surprised you most about sextortion cases? What's one thing you'll tell a friend?" |
@@ -158,7 +158,7 @@ By the end of this phase, students will be able to:
 
 ---
 
-#### Session 9: "Full Spectrum Drill" —综合运用 All Skills (45 min)
+#### Session 9: "Full Spectrum Drill" — Using All Skills (45 min)
 
 **Objective:** Apply all learned skills in a simulated multi-platform scenario
 
@@ -180,8 +180,8 @@ By the end of this phase, students will be able to:
 | Time | Activity | Description |
 |------|----------|-------------|
 | 0-15 min | Review Game: "Digital Defense Jeopardy" | Categories: Phishing, MFA, Voice Cloning, Deepfakes, Sextortion. Teams compete for points. Include practical questions (e.g., "Show me how you'd set up Google Authenticator"). |
-| 15-25 min | Station Rotation (5 stations × 2 min each) | **Station A:** MFA setup simulation<br>**Station B:** Deepfake image sorting<br>**Station C:** Phishing email annotation<br>**Station D:** Sextortion role-play<br>**Station E:** Resource card scanning |
-| 25-35 min | Certificate Ceremony | Each student receives a "Digital Self-Defense Champion" certificate, a laminated wallet card with the 3 Do Nots + Tell and safe word space, and a QR code handout. |
+| 15-25 min | Station Rotation (6 stations × 2 min each) | **Station A:** MFA setup simulation<br>**Station B:** Deepfake image sorting<br>**Station C:** Phishing email annotation<br>**Station D:** Sextortion role-play<br>**Station E:** Resource card scanning<br>**Station F:** Source-check drill |
+| 25-35 min | Certificate Ceremony | Each student receives a "Certified Digital Self-Defender" certificate, a laminated wallet card with the 3 Do Nots + Tell and safe word space, and a QR code handout. |
 | 35-45 min | Wrap-Up & Feedback | Students complete a feedback form: Favorite lesson? Hardest concept? What to learn next? Collect for future planning. |
 
 **Materials:** Jeopardy board materials, station supplies, certificates, laminated wallet cards, QR code handouts, feedback forms, pens, laminator (if available)
@@ -193,7 +193,7 @@ By the end of this phase, students will be able to:
 | Method | Description |
 |--------|-------------|
 | **Worksheet Completion** | Phishing audit, deepfake detective, case file analysis, scenario drill checklists |
-| **Practical Labs** | MFA setup on personal accounts, QR code scanning and saving |
+| **Practical Labs** | MFA setup on demo or school-managed accounts, QR code scanning and saving |
 | **Oral Presentations** | Group case study presentations, role-play evaluations |
 | **Exit Tickets** | Brief written responses after each session checking comprehension |
 | **Final Review Game** | Jeopardy performance as cumulative assessment |
@@ -206,17 +206,16 @@ By the end of this phase, students will be able to:
 - [ ] Computers or tablets for lab sessions
 - [ ] Sample message screenshots (Discord/Roblox/Snapchat)
 - [ ] Annotation worksheets
-- [ ] Audio clips (real and AI-cloned voices) — record family members if possible
-- [ ] AI voice generator account (optional live demo)
+- [ ] Audio clips (real and AI-cloned voices) — synthetic or licensed samples only; **never record students or their families**, and no live cloning demo
 - [ ] Sample image pairs (printed)
-- [ ] Free AI image generator accounts
+- [ ] Printed image-source cards (no AI image generation in class)
 - [ ] Sextortion flowchart handouts
 - [ ] Scenario cards for role-play
 - [ ] QR code reference sheet
 - [ ] Card templates and blank paper
 - [ ] Case file packets (printed)
 - [ ] Jeopardy board materials
-- [ ] "Digital Self-Defense Champion" certificates
+- [ ] "Certified Digital Self-Defender" certificates
 - [ ] Laminated wallet cards
 - [ ] Feedback forms
 
@@ -257,14 +256,17 @@ By the end of this phase, students will be able to:
 
 ---
 
-**Document Version:** 1.1 (Updated October 2026)  
-**Prepared:** September 2026 | **Updated:** October 2026  
-**Next Review:** March 2027
+**Document Version:** 3.0 (Updated October 2026) | **Prepared:** September 2026 | **Updated:** October 2026 | **Next Review:** March 2027
+
+### v3.0 alignment (October 2026)
+- MFA labs run on demo or school-managed accounts; family-account setup is an optional home mission.
+- Media analysis is provenance-first; no AI image generation or family voice recording in class.
+- Safe-word privacy and ISED alignment wording corrected.
 
 ### v1.1 Additions:
 - Added "Canada's AI Map" activity — locate and explore Mila, Vector, Amii
 - Integrated "Responsible AI Canada" trust and safety framework
 - Added "AI for All Accessibility" — digital divide in AI access
-- Aligned with ISED National AI Strategy pillars: Responsible AI, Adoption, Indigenous AI, Skills
+- Aligned with the *AI for All* commitments on online safety, AI literacy, and Indigenous leadership (Pillars 1–2)
 - Integrated ISED AI Literacy Initiative reference
 - Integrated ISED Canada's National AI Strategy — AI for All reference

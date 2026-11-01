@@ -12,7 +12,7 @@ assets/
 └── screenshots/    # LMS preview images
 ```
 
-Generated QR codes are written to `assets/qr_*.png` by `scripts/generate_qr.py` and are git-ignored, because they encode deployment-specific URLs.
+Generated QR codes are written to `assets/qr_codes/` by `scripts/generate_qr.py` and are git-ignored, because they encode deployment-specific URLs.
 
 ## 📝 Notes
 - Keep files under 2 MB where possible

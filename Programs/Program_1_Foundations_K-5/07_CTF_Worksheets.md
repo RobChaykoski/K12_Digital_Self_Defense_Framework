@@ -3,7 +3,7 @@
 
 ---
 
-## Link Lab Sorting (Track A, Session 3)
+## Clicking Safely — Green vs. Red Links (Track A, Session 3)
 **Mapped CTF:** *Red Light, Green Light Links* | **Category:** Web Hacking (Visual)
 
 **Student Name:** ____________________  
@@ -16,7 +16,7 @@
 | 1 | "Click here to claim your FREE Robux!" | [ ] | [ ] | _________________________ |
 | 2 | "Mom shows you how to video call Grandma." | [ ] | [ ] | _________________________ |
 | 3 | "URGENT! Your account will be deleted in 1 hour. Click NOW." | [ ] | [ ] | _________________________ |
-| 4 | "Tap here to watch the puppy training tutorial." | [ ] | [ ] | _________________________ |
+| 4 | "Your teacher posts the class pet's puppy-training video in the school app." | [ ] | [ ] | _________________________ |
 | 5 | "Stranger DM: 'Add me on Snapchat for a secret game!'" | [ ] | [ ] | _________________________ |
 
 **🏆 CTF Challenge:**  
@@ -28,7 +28,7 @@ Count the **Green (Safe)** links you identified. Two of the five messages are sa
 ## The Password Lockbox (Track A, Session 2)
 **Mapped CTF:** *The Password Lockbox* | **Category:** File Hacking (Basics)
 
-**Instructions:** Decorate your paper padlock. Write your "key rule" inside: **Only my family knows my key.** Hide a small slip of paper with a 4-digit PIN inside the box.
+**Instructions:** Decorate your paper padlock. Write your "key rule" inside: **Only my family knows my key.** Hide a slip of paper with a **pretend** 4-digit PIN inside the box — never a real bank card, phone, or door code.
 
 **🏆 CTF Challenge:**  
 The teacher scans the QR code on the back of your lock. The correct PIN unlocks `flag{my_key_works}`.
@@ -38,18 +38,19 @@ The teacher scans the QR code on the back of your lock. The correct PIN unlocks 
 ## AI Art Detective (Track B, Session 4)
 **Mapped CTF:** *AI Art Detective* | **Category:** Forensics (Visual)
 
-**Instructions:** Look at the two images provided by your teacher. Use the checklist to find clues that one was made by AI:
-- ✋ Hands / Teeth / Jewelry Glitches
-- 👁️ Eyes (Blinking, Reflections)
-- 🪞 Hair Edges & Lighting Mismatches
+**Instructions:** Look at the two images provided by your teacher. For each one, write down:
+- **Source:** who made or published it, and where did you find it?
+- **Corroboration:** does an independent source show the same thing?
+- **Clues:** hands/teeth/jewellery, eyes/reflections, hair edges, lighting, garbled text.
 
-> ⚠️ **Clues, not proof.** These mistakes are getting rarer every year. Finding one is a reason to check further; finding none does *not* mean an image is real.
+> ⚠️ **Clues, not proof.** These mistakes are getting rarer every year, and compressed real photos can show the same artefacts.
 
 **🏆 CTF Challenge:**  
-Check the file's metadata: right-click → Properties → Details. Many AI tools leave a **Software** field naming the generator.  
-*Flag Format:* `flag{ai_detected}`
+Check the file's metadata: right-click → Properties → Details. Many AI tools leave a **Software** field, but most apps strip it. A missing field proves nothing; a present field is only a clue about the tool, not proof of what the image claims.
 
-> If the field is missing, that proves nothing — many tools and most apps strip it. Write down what you found and what it does and does not prove.
+*Flag Format:* `flag{check_the_source}`
+
+> Write down what the metadata and clues do and do not prove.
 
 > 💡 *ECNO Alignment:* Addresses **Digital Minds** (safe and responsible AI use) by introducing the idea that an image can be *made*, not just *taken*. For Grades 3–5 the goal is the concept, not a reliable detector.
 
@@ -71,7 +72,7 @@ Scanning the final QR code reveals `flag{my_footprints_stay}`.
 **Student Name:** ____________________  
 **Date:** ______________  
 
-**Instructions:** ECNO's Digital Wellness pillar teaches us that screen time affects our mood. Track how different apps make you feel:
+**Instructions:** ECNO's Digital Families theme teaches us that screen time affects our mood. Track how different apps make you feel:
 - 😊 Happy / Calm
 - 😐 Neutral / Bored
 - 😟 Anxious / Frustrated

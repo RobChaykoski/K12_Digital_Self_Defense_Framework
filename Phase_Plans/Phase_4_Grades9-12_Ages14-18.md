@@ -11,7 +11,7 @@
 |--------|-------------|
 | **Duration** | 12 sessions × 50 minutes (or 6 × 100-min blocks) |
 | **Delivery** | Classroom-based with computer lab access; can include guest speakers from local tech/cyber companies |
-| **Materials Needed** | Computers/tablets, projectors, printed handouts, crypto simulation tokens, deepfake detection tools |
+| **Materials Needed** | Computers/tablets, projectors, printed handouts, crypto simulation tokens, media provenance tools |
 | **Prerequisites** | Familiarity with social media, at least one online game, and basic understanding of email and web browsing |
 | **Cross-Curricular Links** | Computer Science (encryption, blockchain), Math (probability, data analysis), Economics (supply/demand in crypto), English (persuasive writing) |
 
@@ -22,7 +22,7 @@
 By the end of this phase, students will be able to:
 1. Audit personal accounts for security settings and identify password reuse across platforms
 2. Set up app-based MFA and backup recovery methods
-3. Detect deepfake images and audio using visual/auditory forensics clues
+3. Assess whether images and audio can be trusted by tracing provenance first, and treat forensic clues as supporting evidence only
 4. Analyze sextortion syndicates' business models and apply discreet reporting protocols
 5. Evaluate crypto projects for legitimacy and spot common scam patterns (rug pulls, airdrops)
 6. Understand algorithmic bias and engagement bait on social media platforms
@@ -37,7 +37,7 @@ By the end of this phase, students will be able to:
 
 | Time | Activity | Description |
 |------|----------|-------------|
-| 0-5 min | Hook | Show a headline: "Student's Instagram Hacked After Using Same Password as Leaked Gym Website." Discuss how one weak link breaks the chain. |
+| 0-5 min | Hook | Show an illustrative headline: "Student's Instagram Hacked After Using Same Password as Leaked Gym Website." Discuss how one weak link breaks the chain. |
 | 5-12 min | Direct Instruction | Explain credential stuffing: hackers take leaked username/password pairs and try them on other sites. Show statistics on password reuse rates (70%+ of people reuse passwords). |
 | 12-22 min | Guided Practice: "My Password Map" | Students map their most-used accounts **by name only — never the password itself** — and mark each as reused (red) or unique (green). The point of the exercise is seeing *where* reuse exists, not recording *what* any secret is. For the hands-on half, students work a teacher-supplied **sample credential dump of fictional accounts** and find the single reused passphrase that unlocks two of them, so the detection skill is practised on material that cannot expose anyone. |
 | 22-32 min | Group Activity: "The Weak Link Chain" | In groups, students build a paper chain where each link is an account. If one link breaks (weak/reused password), the whole chain falls. Discuss real-world examples. |
@@ -60,7 +60,7 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Compare SMS codes (sent over cellular network, vulnerable to SIM swap) vs. app-based codes (generated locally, more secure). Show a video of a SIM swap attack. |
 | 5-12 min | Direct Instruction | Teach MFA setup: Google Authenticator, Microsoft Authenticator, Authy. Explain backup methods: recovery codes, backup email, secondary phone number. |
-| 12-22 min | Guided Practice: "Set Up Your Authenticator" | Students install an authenticator app on their phones/tablets and set up MFA for Google or Discord. Teacher circulates to assist. |
+| 12-22 min | Guided Practice: "Set Up Your Authenticator" | Students install an authenticator app on a demo or school-managed account and set up MFA step by step. Teacher circulates to assist; the home mission offers an optional family-account version. |
 | 22-32 min | Group Activity: "Backup Plan" | Groups create a backup strategy: Where do they store recovery codes? What's their secondary email? How do they handle a lost phone? |
 | 32-50 min | Wrap-Up & Exit Ticket | Students write: "Why is app-based MFA better than SMS? Name two backup methods and explain when each is useful." |
 
@@ -80,7 +80,7 @@ By the end of this phase, students will be able to:
 | 22-32 min | Role-Play: "The Clone Call Scenarios" | In pairs, students role-play scenarios: (1) Parent calling from hospital, (2) Sibling asking for money, (3) Friend with cloned voice. They practice verifying identity, including the case where the caller *does not know the safe word* — hang up and call back on a known number. |
 | 32-50 min | Wrap-Up & Exit Ticket | Students write: "What makes a strong safe word? What do you do if the caller fails the check — or refuses to do it?" |
 
-**Materials:** Audio clips (licensed or public-domain recordings, or clips the teacher generated from synthetic voices — **do not record students or their families**), scenario cards, blank paper for drafting safe words, timers
+**Materials:** Audio clips (licensed or public-domain recordings, or clips the teacher generated from synthetic voices — **do not record students or their families**), scenario cards, blank paper for protocol templates (never the safe word itself), timers
 
 ---
 
@@ -123,9 +123,9 @@ By the end of this phase, students will be able to:
 | Time | Activity | Description |
 |------|----------|-------------|
 | 0-5 min | Hook | Show a flowchart of a typical sextortion ring: Fake profile → Chat → Video → Screenshot → Demand $10-$50 → Block → Repeat. Discuss the profit model. |
-| 5-12 min | Direct Instruction | Explain that sextortion is run by professional syndicates, not random hackers. They use fake profiles (often AI-generated avatars), mass-message hundreds of targets daily, and accept crypto payments for anonymity. |
-| 12-22 min | Case Study Analysis: "Real Syndicate Reports" | Students read simplified case studies from Cybertip.ca and analyze patterns: average payout, most common apps used, success rate of demands. |
-| 22-32 min | Group Activity: "Build a Syndicate Profile" | In groups, students create a profile of a typical sextortion syndicate: target age range, preferred platforms, payment methods, average daily messages sent, success rate. |
+| 5-12 min | Direct Instruction | Explain that sextortion is run by professional syndicates, not random hackers. They use fake profiles (often AI-generated avatars), mass-message hundreds of targets daily, and accept crypto payments to complicate tracing and because transfers are hard to reverse. |
+| 12-22 min | Case Study Analysis: "Real Syndicate Reports" | Students read simplified case studies from Cybertip.ca and other public reporting and analyse patterns: how contact began, what pressure was used, and where an adult could have interrupted it. Do not ask them to estimate payout or success rates the sources do not publish. |
+| 22-32 min | Group Activity: "Build a Syndicate Profile" | In groups, students create a profile of a typical sextortion syndicate: target age range, preferred platforms, payment methods, and the points where the protocol breaks the business model. Students label estimates as estimates; they do not present invented statistics as findings. |
 | 32-50 min | Wrap-Up & Exit Ticket | Students write: "Why do you think sextortion targets teens specifically? What's one thing that would make the scam harder to pull off?" |
 
 **Materials:** Projector, flowchart handout, case study packets (printed), blank paper for syndicate profiles, timers
@@ -154,7 +154,7 @@ By the end of this phase, students will be able to:
 
 | Time | Activity | Description |
 |------|----------|-------------|
-| 0-5 min | Hook | Show a headline: "Teen Loses $2,000 on 'Guaranteed' Crypto Investment." Ask what clues might have warned them. |
+| 0-5 min | Hook | Show an illustrative headline: "Teen Loses $2,000 on 'Guaranteed' Crypto Investment." Ask what clues might have warned them. |
 | 5-12 min | Direct Instruction | Teach the crypto scam checklist: (1) Guaranteed returns, (2) Pressure to act fast, (3) Unknown wallet addresses, (4) Too-good-to-be-true airdrops, (5) Influencer endorsements without disclosure. Use real examples. |
 | 12-22 min | Guided Practice: "Scam or Legit?" | Students receive worksheets with 6 crypto project descriptions. They evaluate each against the checklist and rate legitimacy (1-5). Teacher reviews as a class. |
 | 22-32 min | Group Activity: "Build a Scam Project" | In groups, students invent a crypto project using scam elements: catchy name, guaranteed returns, influencer endorsement, urgency countdown. Groups swap and evaluate each other's projects. |
@@ -188,7 +188,7 @@ By the end of this phase, students will be able to:
 |------|----------|-------------|
 | 0-5 min | Hook | Review the week's topics: password audits, MFA, voice cloning, deepfakes, sextortion syndicates, crypto scams, algorithms. Ask students to name one skill from each. |
 | 5-10 min | Instructions | Explain the simulation: Students receive a "digital day" scenario spanning morning to evening across multiple platforms. They must apply appropriate skills at each step. |
-| 10-40 min | Simulation Activity | In pairs, students work through the scenario with checkpoints: (1) Morning email audit, (2) Midday voice call verification, (3) Afternoon deepfake detection on social media, (4) Evening crypto investment decision, (5) Night sextortion response. Each step requires written justification. |
+| 10-40 min | Simulation Activity | In pairs, students work through the scenario with checkpoints: (1) Morning email audit, (2) Midday voice call verification, (3) Afternoon media provenance check on social media, (4) Evening crypto investment decision, (5) Night sextortion response. Each step requires written justification. |
 | 40-50 min | Wrap-Up & Exit Ticket | Pairs share one decision and reasoning. Students complete a reflection: "Which skill felt most useful? Which was trickiest? What would you do differently?" |
 
 **Materials:** Simulation scenario packets (printed), checklists for each step, blank paper for reflections, timers
@@ -201,7 +201,7 @@ By the end of this phase, students will be able to:
 
 | Time | Activity | Description |
 |------|----------|-------------|
-| 0-10 min | Introduction | Teacher introduces the panel: local cybersecurity analyst, social media content moderator, crypto project manager. Brief bios shared. |
+| 0-10 min | Introduction | Teacher introduces the panel: local cybersecurity analyst, social media content moderator, bank fraud investigator. Brief bios shared. |
 | 10-30 min | Panel Discussion | Each speaker shares a recent threat they've encountered, how it affected users, and tips for staying safe. Open Q&A with students. |
 | 30-45 min | Student Questions | Students prepare questions in advance (or on the spot) about careers, daily challenges, and future threats. Panel responds. |
 | 45-50 min | Wrap-Up & Exit Ticket | Students write: "Which speaker's story resonated most? What's one career path in cybersecurity that interests you?" |
@@ -230,7 +230,7 @@ By the end of this phase, students will be able to:
 | Method | Description |
 |--------|-------------|
 | **Worksheet Completion** | Password maps, deepfake forensic analysis, crypto scam evaluations, feed audits |
-| **Practical Labs** | MFA setup on personal accounts, reverse image search, free detection tool usage |
+| **Practical Labs** | MFA setup on demo or school-managed accounts, reverse image search, provenance tool usage |
 | **Oral Presentations** | Group syndicate profiles, scenario workshop reasoning, guest speaker Q&A participation |
 | **Exit Tickets** | Brief written responses after each session checking comprehension |
 | **Simulation Performance** | Full-day scenario with written justifications for each decision |
@@ -274,7 +274,7 @@ By the end of this phase, students will be able to:
 
 ### 🔑 Teacher Tips
 
-- **Normalize crypto volatility:** Emphasize that losing money on crypto is normal, but losing it to a scam is preventable.
+- **Normalize help-seeking:** Emphasize that losing money to a scam is not a character failure and is not a reason to hide it — shame is the scammer's tool.
 - **Prepare for varied tech levels:** Some students may be more experienced with certain platforms. Pair stronger students with those needing support.
 - **Encourage critical thinking:** Don't just teach "what" — teach "why." Why does the algorithm show this? Why does the scammer use crypto?
 - **Connect to careers:** Highlight cybersecurity jobs, data science, UX design, and digital marketing as paths that build on these skills.
@@ -313,9 +313,12 @@ By the end of this phase, students will be able to:
 
 ---
 
-**Document Version:** 1.1 (Updated October 2026)  
-**Prepared:** September 2026 | **Updated:** October 2026  
-**Next Review:** March 2027
+**Document Version:** 3.0 (Updated October 2026) | **Prepared:** September 2026 | **Updated:** October 2026 | **Next Review:** March 2027
+
+### v3.0 alignment (October 2026)
+- Media objectives are provenance-first; clues are supporting evidence.
+- MFA labs run on demo or school-managed accounts.
+- Sextortion casework avoids invented statistics; crypto and reporting language corrected.
 
 ### v1.1 Additions:
 - Added "National AI Policy Debate" — students research and present on one of the six pillars of Canada's AI for All strategy

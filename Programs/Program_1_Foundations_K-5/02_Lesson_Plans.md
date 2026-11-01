@@ -23,7 +23,7 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 
 ## Session 2: "The Password Lock" — Keys to Your Door
 **In this session:** Locky the Fox leads.
-**Objective:** Students can say their password only to a trusted adult.
+**Objective:** Students can explain that a password is private and is only shared with a trusted adult.
 
 | Time | Activity |
 |------|----------|
@@ -110,7 +110,7 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 |------|----------|
 | 5 min | Hook: show one influencer's "perfect day" post, then a video of the 10 takes behind it. What did we see vs. what happened? |
 | 10 min | Teach: *Highlight reel* — everyone shows their best moments; filters and edits make things fake-perfect. Compare to only showing your report card's A+ page. |
-| 15 min | **Reel or Real?** Card sort in teams: 12 images/scenarios — mark REAL (happened as shown) / REEL (edited/selected/fake). Debrief tricky ones. |
+| 15 min | **Reel or Real?** Card sort in teams: the 8 images/scenarios on Handout B2 — mark REAL (happened as shown) / REEL (edited/selected/fake). Debrief tricky ones. |
 | 5 min | Rule: *Compare yourself to highlight reels and you'll always lose. It's not a fair game.* Exit ticket. |
 
 **Materials:** card set (Handout B2), images, discussion prompts.
@@ -123,7 +123,7 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 |------|----------|
 | 5 min | Review the K–2 padlock rule: keys only to family. Now upgrade: *a password is a lock; make the lock harder to pick.* |
 | 10 min | Teach passphrases: 3 random words + number/symbol (e.g., `Purple-Toast-42!`). Compare cracking speed: "password123" vs. passphrase — use a crack-time demo if available, otherwise a simple chart. |
-| 15 min | **Password Box build:** each student makes a cardboard box with 3 word-cards; they draw 3 words and assemble their own passphrase (never written on the box). Rules taught: never reuse, never share, tell an adult to change it. |
+| 15 min | **Password Box build:** each student makes a cardboard box with 3 word-cards; they draw 3 words and assemble a **practice** passphrase for an imaginary account (never written on the box and never used for a real account). Rules taught: never reuse, never share, tell an adult to change it. |
 | 5 min | Exit ticket: *Which is stronger and why?* |
 
 **Materials:** box templates, word cards (Handout B3), crack-time chart.
@@ -136,7 +136,7 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 |------|----------|
 | 5 min | Hook: show a deepfake-style clip or image (clearly labelled as fake) of a well-known cartoon character saying something silly. Real or AI? |
 | 10 min | Teach: AI = a computer that learns from lots of examples and then *makes new ones* — pictures, text, voices. It's not magic and it can be wrong or used to trick people. Metaphor: a parrot that has seen everything and copies it. |
-| 15 min | **AI vs. Human sort:** teams get 12 items (drawings, sentences, audio clips if available) — mark AI-made or human-made, then reveal answers. Discuss how hard it was to tell. |
+| 15 min | **AI vs. Human — check the source:** teams get the 6 items on Handout B4 (add teacher examples if available) — mark AI-made, human-made, or NOT SURE, then check the source card. Discuss why some items cannot be settled by looking. |
 | 5 min | Rule: *Just because you can see it or hear it doesn't mean it's real. Check with a trusted adult.* Exit ticket. |
 
 **Materials:** labelled examples (Handout B4), audio clips optional, sort sheets.
@@ -162,7 +162,7 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 |------|----------|
 | 5 min | Review: what happens when you click a bad link? (Malware, fake login pages, scams.) |
 | 10 min | Teach **Hover-Check**: hover the mouse over a link BEFORE clicking; read the real address. On touch devices: don't tap links from strangers, ever. Demo on projector with a safe practice page. |
-| 20 min | **Computer lab (or paper version):** students work through 10 practice links/messages in a controlled browser or worksheet — hover, inspect sender, decide CLICK / DON'T, and write why. Teacher circulates. *(Paper version: link cards with visible URLs for inspection.)* |
+| 20 min | **Computer lab (or paper version):** students work through the 5 practice links on Handout B6, plus teacher-added examples for a longer lab — hover, inspect sender, decide CLICK / DON'T, and write why. Teacher circulates. *(Paper version: link cards with visible URLs for inspection.)* |
 | 5 min | Debrief; exit ticket: the one question to ask before any click. |
 
 **Materials:** lab setup or link-card worksheet (Handout B6), projector.
@@ -177,7 +177,7 @@ Condensed from the Phase 1 (K–2) and Phase 2 (3–5) plans. Each session lists
 | 25 min | **Scavenger hunt:** teams of 3–4 find and log each card: REAL/FAKE + one clue. Timed but cooperative — not a race to shout first. |
 | 10 min | Debrief: which scam was sneakiest? What would you do if it came on YOUR device? (Don't click, tell an adult, screenshot, report.) |
 
-**Materials:** 10 hidden cards (Handout B7), team log sheets.
+**Materials:** 10 hidden message cards (teacher-created), team log sheets (Handout B7).
 
 ## Session 8: "Review & Certification" — Digital Detective Graduation 🎉
 **In this session:** Captain Shield + full squad.
@@ -213,7 +213,7 @@ Trick checklist: ☐ rush me ☐ scare me ☐ ask for info ☐ ask me to click �
 |---------|--------------|---------------------|-------------------|
 | Track B, S1 | The Phishing Post Office | Web Hacking (Source Code) | `07_CTF_Worksheets.md#the-phishing-post-office-track-b-session-1` |
 | Track A, S2 | The Password Lockbox | File Hacking (Basics) | `07_CTF_Worksheets.md#the-password-lockbox-track-a-session-2` |
-| Track A, S3 | Red Light, Green Light Links | Web Hacking (Visual) | `07_CTF_Worksheets.md#link-lab-sorting-track-a-session-3` |
+| Track A, S3 | Red Light, Green Light Links | Web Hacking (Visual) | `07_CTF_Worksheets.md#clicking-safely--green-vs-red-links-track-a-session-3` |
 | Track A, S4 | The Social Media Mood Tracker | Digital Wellness (Journaling) | `07_CTF_Worksheets.md#social-media-mood-tracker-track-a-session-4--screen-time-boundaries` |
 | Track B, S4 | AI Art Detective | Forensics (Visual) | `07_CTF_Worksheets.md#ai-art-detective-track-b-session-4` |
 | Track A, S5 | The Digital Footprint Trail | File Hacking (Steganography) | `07_CTF_Worksheets.md#digital-footprint-trail-track-a-session-5` |

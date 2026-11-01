@@ -15,7 +15,7 @@ By the end, students will be able to:
 1. Run a personal credential audit and eliminate password reuse; explain **credential stuffing** and breach databases.
 2. Implement **app-based MFA** (authenticator apps), set up recovery options, and explain why SMS is weaker.
 3. Explain why audio and video forensic tells are unreliable, and verify identity through a second channel before acting on any digital request.
-4. Assess an **image or clip** using at least four lines of evidence, including provenance (reverse image search, metadata, uploader history) — and state what the evidence does not prove.
+4. Assess an **image or clip** using at least four lines of evidence, including provenance (source, reverse image search, uploader history) and an explicit account of what metadata can and cannot prove — then state what the evidence does not prove.
 5. Explain sextortion as an organized business model (syndicates, scripts, payment rails) and apply the full victim protocol including legal reporting options.
 6. Identify Canadian law that applies: extortion, intimate image publication, fraud, identity theft — and what "consent" means digitally.
 7. Evaluate **crypto scams** (rug pulls, fake airdrops, pump-and-dump, influencer shilling) using a red-flag framework; explain why "recovery agents" are second-layer scams.
@@ -51,9 +51,20 @@ By the end, students will be able to:
 
 ## Differentiation
 - **Grade 9:** scaffolded forensic checklists; pair with a Grade 11/12 buddy in mixed classes.
-- **Grade 12 / OSSD-linked:** extend S8 into a personal-finance ethics unit; S6–7 can feed OSSLT-style civics analysis of the Criminal Code sections.
+- **Grade 12 / OSSD-linked:** extend S8 into a personal-finance ethics unit; S6–7 can feed civics and Grade 12 law discussions of the Criminal Code sections.
 - **ELL students:** all handouts use the same icon system as Programs 1–2 (🚫/✅/⏳); forensic labs are visual-first.
 - **No-device days:** every lab has a paper walkthrough version (screenshot packs).
+
+## Package Contents
+| File | What it is |
+|------|-----------|
+| `01_Program_Guide.md` | This document |
+| `02_Lesson_Plans.md` | Session-by-session plans |
+| `03_Student_Handouts.md` | Case-file worksheets and templates |
+| `04_Parent_Toolkit.md` | Parent guide and home missions |
+| `05_Assessments_and_Materials.md` | Rubrics, answer keys, materials checklist |
+| `06_Persona_Cast.md` | Crew HQ characters and continuity notes |
+| `07_CTF_Worksheets.md` | Printable CTF challenges and answer keys |
 
 ## Safeguarding Notes
 - S6–7 require the counsellor; use the Program 2 sensitive-block protocol (clinical language, anonymous slips, no personal disclosure aloud).

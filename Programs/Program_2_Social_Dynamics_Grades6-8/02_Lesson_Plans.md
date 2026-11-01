@@ -20,7 +20,7 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 
 ## Session 2: "Lock It Down" — Account Fortification & MFA (45 min)
 **In this session:** Patch leads; Cipher.
-**Objective:** Enable and understand MFA on their own accounts.
+**Objective:** Enable and understand MFA on IT-approved demo or school-managed accounts (or a family account with a parent, at home).
 
 | Time | Activity |
 |------|----------|
@@ -80,7 +80,7 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 | Time | Activity |
 |------|----------|
 | 10 min | Teach the protocol as **first aid**: 🚫 **DON'T PAY** (paying never stops it — it proves you'll pay) • 🚫 **DON'T REPLY** (any reply feeds them; silence + block is the move) • 🚫 **DON'T DELETE** (screenshots = evidence for police and takedown services). Then: **TELL** a trusted adult, and report (Cybertip.ca / Take It Down if images are involved). |
-| 15 min | **Protocol role-play:** 4 stations, each a scripted scenario (money demand, "send one more or I post it", fake police demanding payment, the scammer threatening classmates). Pairs practise the exact words: *"I'm not paying. I'm blocking you. I've told my [adult]."* Counsellor circulates. |
+| 15 min | **Protocol role-play:** 4 stations, each a scripted scenario (money demand, "send one more or I post it", fake police demanding payment, the scammer threatening classmates). Pairs practise the exact words out loud: *"I'm not paying. I'm blocking you. I've told my [adult]."* These are words to say to a partner or trusted adult — **do not send them to the scammer.** Counsellor circulates. |
 | 10 min | The trusted-adult map: each student privately writes down 3 adults they could actually tell (family, counsellor, teacher) + the safe word from S3. Kept in their Quickie Card (S7). |
 | 5 min | Exit ticket: the 3 Do Nots + Tell and the one sentence you say out loud. |
 
@@ -108,7 +108,7 @@ Condensed from the Phase 3 plan. Sensitive block (S5–8) requires the guidance 
 |------|----------|
 | 10 min | Context: sextortion is a **business** — organized groups ("syndicates") run it like a call centre, with scripts, managers, and targets chosen at scale. This changes the story: you're not dealing with one weird kid; you're dealing with an operation, which means the protocol (not your charm) is what wins. |
 | 20 min | **Case-study jigsaw:** 3 anonymized case packets (publicly documented patterns — e.g., gaming-chat grooming → image demand → escalating payments → distribution threat). Groups take one packet and build a timeline marking: hook • isolation • first ask • escalation • where an adult's help would have ended it. Groups present 2 min each. |
-| 10 min | What actually helps victims: reporting (Cybertip), takedown (Take It Down / Project Arachnid for CSAEM), and the fact that **most cases end when the victim stops replying and tells an adult.** Victims recover — with support, not silence. |
+| 10 min | What actually helps victims: reporting (Cybertip), takedown (Take It Down / Project Arachnid for CSAEM), and the fact that **stopping the replies and telling an adult is what breaks the escalation.** Victims recover - with support, not silence. |
 | 5 min | Q&A via anonymous slips again; counsellor closes with the support message. |
 
 **Materials:** 3 case packets (Handout C6), timeline templates.

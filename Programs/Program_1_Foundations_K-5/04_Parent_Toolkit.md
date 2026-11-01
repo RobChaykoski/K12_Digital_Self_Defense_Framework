@@ -63,7 +63,7 @@ This term, your child joins **Digital Foundations** — a K–Grade 5 program th
 ## 🗣️ Key Takeaways for Families
 - **Privacy is the foundation:** nothing personal (name, school, address, photos of home) goes online without a grown-up checking. For young children, keep profiles private and manage accounts yourself.
 - **Screens are normal — boundaries make them healthy.** Consistency matters more than the exact number of minutes.
-- **Kids DO see bad things online** (violence, adult content, scam ads). If it happens: stay calm, don't interrogate, talk about what they saw, and adjust filters. You can also call **NeedHelpNow.ca** for youth support guidance.
+- **Kids DO see bad things online** (violence, adult content, scam ads). If it happens: stay calm, don't interrogate, talk about what they saw, and adjust filters. You can also visit **NeedHelpNow.ca** for youth support guidance.
 - **Filters are a net, not a wall.** They reduce risk but never replace the conversation — the goal is a child who comes to you.
 - **If someone asks your child for photos, money, or personal details:** don't click or reply, screenshot everything, tell the child they did right by coming to you, and report at **Cybertip.ca** or to police. For image-related incidents, **Take It Down** (NCMEC) offers anonymous removal help.
 
@@ -72,10 +72,10 @@ This term, your child joins **Digital Foundations** — a K–Grade 5 program th
 ## 📞 If Something Happens — Who to Call (Canada)
 | Resource | What it's for |
 |---|---|
-| **Cybertip.ca** | Canada's tipline for the **online sexual exploitation of children** — report any request for photos from a child, sextortion, or luring. Operated by the Canadian Centre for Child Protection. Confidential. |
+| **Cybertip.ca** | Canada's tipline for the **online sexual exploitation of children** — report any request for photos from a child, sextortion, or luring. Operated by the Canadian Centre for Child Protection. Confidential. Mon–Fri 8:30–4:00 CT; call 9-1-1 in an emergency. |
 | **NeedHelpNow.ca** | Support for youth dealing with online harm, image sharing, cyberbullying. |
 | **Take It Down (NCMEC)** | Anonymous takedowns of explicit images of minors. |
-| **911 / local police** | Immediate danger, threats of violence, or a child in distress. |
+| **9-1-1 / local police** | Immediate danger, threats of violence, or a child in distress. |
 
 ---
 
